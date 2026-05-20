@@ -1,0 +1,3 @@
+[submodule "the-way"]
+	path = the-way
+	url = https://github.com/kameronwaters/the-way.git
