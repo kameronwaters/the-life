@@ -36,8 +36,8 @@ TEXT (word by word, on the beat of the swing):
        "THIS IS MY EXCHANGE.
         THIS IS MY SUBSTITUTE.
         THIS IS MY ATONEMENT.
-        THIS CHICKEN GOES TO DEATH.
-        I GO TO A GOOD, LONG LIFE."
+        THIS ROOSTER GOES TO ITS DEATH.
+        I GO TO A GOOD, LONG LIFE, AND PEACE."
 VO:   "That's the prayer. I'm not paraphrasing."
 
 [0:20] FOOTAGE: garbage bag on the curb. It moves.
@@ -69,8 +69,8 @@ VO:   "And the whole week, everywhere I went in New York, this man's face.
 
 [0:55] TURN. Music in. Cut faster.
 VO:   "So I went home and I pulled the thread.
-       Who is he. Why did Trump pray at his grave the night before
-       the 2024 election. Why does every president since Carter sign
+       Who is he. Why did Trump pray at his grave a month before
+       the 2024 election. Why has every president since Carter signed
        a day in his honor. Why did he tell Netanyahu, on camera,
        to hasten the Messiah.
        And why does the end of that story involve bringing back
@@ -120,9 +120,10 @@ FOOTAGE: the prayer, slow motion, the bird's wings open.
 TEXT: the five lines of the prayer, one at a time.
 VO: "Zeh chalifati. Zeh temurati. Zeh kapparati.
      This is my exchange. This is my substitute. This is my atonement.
-     This chicken goes to death, and I go to a good long life.
-     That's the whole thing. Right there. Said out loud, over the bird's
-     head, by about fifty thousand people a year in New York City."
+     This rooster goes to its death, and I go to a good, long life, and peace.
+     That's the whole thing. Right there. Said out loud, over the bird's head,
+     over somewhere between fifty and a hundred thousand birds a year
+     in Brooklyn alone. Nobody counts. That's part of the story."
 
 FOOTAGE: me, handheld, exhausted, dawn, chickens in carriers around me.
 VO: "I'm Kameron. I make films about religion and animals.
@@ -179,6 +180,7 @@ Purpose: show, chronologically. This is the evidentiary core. Date-stamp every s
 **2.3 The all-night rescue (new, this is the part 2 climax, expand it).** Hundreds of birds out in one night. Show the system: triage, the carriers, the vet, the drive out. Name the organization the triage woman was with if she consents. This is where the Woodstock woman re-enters the story: you are now standing in her operation.
 
 **2.4 The U-Haul trucks.** Trucks left on the side of the street overnight with crated birds inside, dehydrated and dying. You were on scene. It got reported, the police came, and the birds in those trucks were released to rescue. Show the call, the wait, the cops, the opening of the door. This is one of the few moments where the system worked. Say that plainly. It makes the rest more credible.
+   This one made the news, which is rare for Kaporos: a U-Haul on Winthrop Avenue with about 200 birds and only about 80 alive, a second truck on St. Johns Place, a sign on one reading "Kaparos To Go." An NYPD officer called a rescuer, the Kaporos Compassion Project pulled out close to 300 live birds across both trucks, Farm Sanctuary took ten roosters, and even the Orthodox press called it a desecration of God's name. Gothamist, News 12, amNY, JTA all ran it. Put the headlines on screen: your footage is the inside of their story. Sources in `research.md` B1.
 
 **2.5 Activists attacked.** Footage of activists being shoved and hit while trying to retrieve dead and injured birds. Keep the context honest: these are people picking up dead animals off a sidewalk. Show the police response, which most of the week was to move or arrest the activists, not the people throwing punches.
 
@@ -188,6 +190,7 @@ Purpose: show, chronologically. This is the evidentiary core. Date-stamp every s
 > "The people saying the prayer were not the people holding the knife. The people holding the knife were day laborers who'd crossed a continent and didn't know what they were a part of. Hold that thought. It comes back."
 
 (It comes back in Act 4 with Postville. It comes back in Act 5 with every slaughterhouse in America.)
+   Note: no press outlet covered the hired laborers, the turkeys, or the assaults in 2026. Your footage is the only record. That is an asset, and it also means the edit has to show these things clearly rather than tell them: no claim without the shot.
 
 **2.8 The raw meat.** You witnessed practitioners eating raw chicken in front of you. Show it, say what you saw, and move on. Do not generalize it to the community. It is a thing you saw, not a thesis.
 
@@ -203,10 +206,10 @@ Do not resolve this here. Plant it. It is the Act 5 payoff.
 
 **2.11 The one who got away.** The hen who flew across the street into the activists. The cop who, for once, waved the practitioner off and let her go. Then cut to her now: skittish, scared, slowly being integrated at the sanctuary. Give her thirty seconds of quiet. Name her if she has a name. This is the emotional reset before the hardest material.
 
-**2.12 The sanctuary that started with one Kaporos chicken.** Your friend who came to rescue with you founded a whole sanctuary because of one chicken pulled from Kaporos years ago, a bird with a condition that stopped her walking, who was nursed back to health and became the name on the gate. There is a documentary about her. Show the poster, show the founder on the sidewalk this year, say the name. This proves the loop: one bird becomes a sanctuary becomes more birds.
+**2.12 The sanctuary that started with one Kaporos chicken.** Your friend who came to rescue with you founded a whole sanctuary because of one chicken pulled from Kaporos years ago. This is Penelope's Place (Vanessa and Steven Dawson, now in Akron, NY): Penelope was lifted out of a crate in Borough Park in October 2014 with Marek's disease, paralyzed, nursed back to walking in a homemade therapy swing, and became the name on the gate. The short film is "Penelope: A Rescue Story" (Duncan Skiles, 2015). Vanessa was also a plaintiff in the 2015 lawsuit. Show the poster, show her on the sidewalk this year, say the name. This proves the loop: one bird becomes a sanctuary becomes more birds. (Confirm with your friend that this is who you mean before you cut it.)
 
-**2.13 The Jews who were there to stop it.** This is the most important sequence in Act 2 for the whole piece to work. Nina, from a line of Orthodox rabbis, speaking against the practice on the sidewalk. Any other Jewish activists who consent. Then the receipt that most viewers, and most practitioners, don't know:
-> "This custom has been fought inside Judaism for a thousand years. In the 1200s, the Rashba banned it in his community as a pagan practice. Nachmanides, one of the greatest rabbis who ever lived, opposed it. Rabbi Yosef Karo, the man who wrote the Shulchan Aruch, the code of Jewish law, called it a foolish custom. It survived because one Polish rabbi, the Rema, defended it as tradition. So when someone tells you this is just Judaism: no. This is one side of a very old Jewish argument, and I walked into the middle of it."
+**2.13 The Jews who were there to stop it.** This is the most important sequence in Act 2 for the whole piece to work. "Nina" is almost certainly **Rina Deych**: registered nurse, born and raised ultra-Orthodox in Borough Park, eighteen generations of rabbis, a founder of the Alliance to End Chickens as Kaporos in 2010, lead plaintiff in the 2015 lawsuit, and the person who leads the Kaporos Compassion Project that pulled the birds out of those U-Hauls. Get her name right on the lower third. Her line, on the record for years: this "has nothing to do with Judaism." Any other Jewish activists who consent. Then the receipt that most viewers, and most practitioners, don't know:
+> "This custom has been fought inside Judaism for seven hundred years. In the 1200s the Rashba, the chief rabbi of Barcelona, called it a pagan practice and wrote that he'd succeeded in abolishing it in his city. His teacher Nachmanides, one of the greatest rabbis who ever lived, said the same. Rabbi Yosef Karo, the man who wrote the Shulchan Aruch, the code of Jewish law, ruled that 'the custom should be prevented,' and the early printings of his book headed the section 'a foolish custom.' It survived because one Polish rabbi, the Rema, wrote that it was an ancient custom and shouldn't be changed. Today the Orthodox Union, Israel's former chief rabbis, and a long list of Hasidic and Sephardic authorities say: use money. So when someone tells you this is just Judaism: no. This is one side of a very old Jewish argument, and I walked into the middle of it."
 Verify quotes and citations in `research.md` before you put them on screen.
 
 Button for Act 2, over the dawn rescue footage:
@@ -223,7 +226,7 @@ Beats:
 1. **Arrival.** The street transformed. Crowd, crates, light towers, the chant. On-screen: date, time, neighborhood.
 
 2. **His face.** The Rebbe's face everywhere: the bus, the posters, the stickers, the banners. People talking about him. Men collecting money in his name. Your VO stays a question, not an answer:
-   > "All week I'd been seeing this man's face on lampposts across New York with the words 'Moshiach is coming.' Tonight his face was on the bus. On the walls. Everyone was talking about him. People were collecting money in his name. I knew a little. I knew Trump had prayed at his grave. I didn't know the rest yet."
+   > "All week I'd been seeing this man's face on lampposts across New York with the words 'Moshiach is coming.' Tonight his face was on the bus. On the walls. Everyone was talking about him. People were collecting money in his name. I knew a little. I knew Trump had gone to his grave before the election. I didn't know the rest yet."
    (A note on the money. Giving money to charity is itself the mainstream form of Kaporos, the version the rabbis in 2.13 preferred over the bird. Don't play the collection as sinister. Play it as the irony: the humane alternative was being collected ten feet from the knife.)
 
 3. **The volume.** Birds swung, birds killed, a continuous line. Sound design: the swing, the chant, the crate, the knife. No music.
@@ -238,7 +241,7 @@ Beats:
 Button, to black:
 > "I drove home. And the same week, a debate blew up online where everyone was suddenly arguing about the group whose face was on that bus. So I started reading."
 
-(Reference the debate as "a debate" if you must. Do not name Nick Fuentes as your on-ramp. See the editorial section at the bottom for why. If you name anyone, name the scholars you read after.)
+(The debate was Nick Fuentes versus Professor Jiang Xueqin on the Jack Neel Podcast, Sept 26, 2026. Reference it as "a debate" if you must. Do not name Fuentes as your on-ramp. See the editorial section at the bottom for why. If you name anyone, name the scholars you read after.)
 
 ---
 
@@ -248,29 +251,29 @@ Purpose: tell people, accurately, who Chabad-Lubavitch is, what they believe abo
 
 Format: you at a desk or a wall of printouts, cut with archive, cut back to your Kaporos footage every 60–90 seconds so it never stops being your film.
 
-**4.1 Who he was.** Menachem Mendel Schneerson, 1902–1994, seventh Rebbe of Chabad-Lubavitch. Hasidic movement founded in 1775 in what is now Belarus by Shneur Zalman of Liadi, author of the Tanya. "Chabad" is an acronym for wisdom, understanding, knowledge. Headquarters: 770 Eastern Parkway, Crown Heights, the building whose replica exists in cities around the world. Schneerson took over in 1951 and turned a shattered post-Holocaust sect into the largest Jewish outreach organization on earth: thousands of emissary couples in over a hundred countries.
+**4.1 Who he was.** Menachem Mendel Schneerson, 1902–1994, seventh Rebbe of Chabad-Lubavitch. Hasidic movement founded in 1775 in what is now Belarus by Shneur Zalman of Liadi, author of the Tanya. "Chabad" is an acronym for wisdom, understanding, knowledge. Headquarters: 770 Eastern Parkway, Crown Heights, the building whose replica exists in cities around the world. Schneerson took over in 1951 and turned a shattered post-Holocaust sect into the largest Jewish outreach organization on earth: roughly 4,900 emissary families in over a hundred countries, by Chabad's own count.
 
-**4.2 The Messiah problem.** In his last years he pushed the message that the Messiah's arrival was imminent. Followers chanted "Yechi," long live our master the King Messiah, in his presence. He died in June 1994 with no successor and the movement never appointed one. A significant faction believes he is the Messiah and will return. This caused a real scandal in Orthodox Judaism: the Rabbinical Council of America passed a 1996 resolution against it, and Professor David Berger wrote a whole book about it. The stickers, the billboards, the bus: that is the messianist wing, and it is strong in Crown Heights.
+**4.2 The Messiah problem.** In his last years he pushed the message that the Messiah's arrival was imminent. Followers chanted "Yechi," long live our master the King Messiah, in his presence. He died in June 1994 with no successor and the movement never appointed one. A significant faction believes he is the Messiah and will return. This caused a real scandal in Orthodox Judaism: the Rabbinical Council of America passed a 1996 resolution against it, and Professor David Berger wrote a whole book about it. The stickers and billboards are not official Chabad; they are funded by messianist groups inside the community (Crown Heights women's groups, a student-led sticker wave in 2021, Rabbi Shmuel Butman's long-running Moshiach campaign). Say that. It is more precise and it is still the point: the messianist wing is strong in Crown Heights and it is the wing you were standing in.
 > "So when you see 'Moshiach is coming' on a lamppost in New York, it's not generic. It's a specific man, and some of the people putting up the sticker think he already came."
 
-**4.3 The tunnel.** January 2024, 770 Eastern Parkway. Tell exactly what happened, as established by reporting and court records: a group of young messianist students dug an unauthorized tunnel from a neighboring property into the synagogue basement because they believed the Rebbe wanted the building expanded. It was discovered, the leadership called the police, there was a brawl when workers came to fill it, and roughly a dozen were arrested. Then say what did not happen: the viral claims about child trafficking and bloodstained mattresses were investigated and debunked by every outlet that looked. Say that on camera. It costs you nothing and it buys you the right to be believed on everything else.
+**4.3 The tunnel.** January 2024, 770 Eastern Parkway. Tell exactly what happened, as established by reporting and court records: a group of young messianist yeshiva students dug an unauthorized tunnel, about 60 feet long, from a vacant building on Union Street toward the synagogue because they believed the Rebbe wanted the building expanded and the leadership was stalling. When the leadership brought a cement truck to fill it on January 8, 2024, the students tore paneling off the walls to stop them, the NYPD made arrests, and 13 men were indicted; most later pleaded to reduced charges. Then say what did not happen: the viral claims about child trafficking and bloodstained mattresses were investigated and debunked by every outlet that looked. Say that on camera. It costs you nothing and it buys you the right to be believed on everything else.
 > "The tunnel was real. The reason for it was religious fanaticism about this building and this man. That is strange enough. The internet added a horror movie on top, and the horror movie was fake. I'm telling you that so you know I checked."
 
 **4.4 How close to power.** This is the part people genuinely don't know, and it is all public record:
 - **Education and Sharing Day, USA.** Since 1978, every U.S. president, every year, has proclaimed a national day honoring Schneerson on his Hebrew birthday. Carter, Reagan, Bush, Clinton, Bush, Obama, Trump, Biden, Trump. Congress gave him the Congressional Gold Medal in 1994. Show the proclamations on screen.
-- **Trump at the Ohel.** Trump visited the Rebbe's grave in Queens in November 2016, days before that election, and again on October 7, 2024, a month before the next one. Jared Kushner's family are longtime Chabad donors; Kushner was involved with Chabad at Harvard. Show the photos.
-- **Netanyahu, 1990.** On video, Schneerson tells a young Netanyahu that he must do something to hasten the coming of the Messiah. Netanyahu has retold the story himself for decades. Roll the clip.
-- **Elsewhere.** Russia's chief rabbi under Putin is a Chabad emissary. Argentina's president is close to Chabad. This is a movement that gets meetings with heads of state on every continent.
+- **Trump and the Ohel.** Three days before the 2016 election, Ivanka Trump and Jared Kushner prayed at the Rebbe's grave in Queens. On October 7, 2024, a month before the next election, Trump went himself for the first time: kippah, note, stone on the grave, Rabbi Levi Shemtov at his side. Kushner's family are longtime Chabad donors and Jared was active in Chabad at Harvard. Show the photos. (Trump did not go in 2016. Get this right; it is the first thing a fact-checker will test.)
+- **Netanyahu, 1990.** November 18, 1990, at 770, on video: Schneerson tells Netanyahu, "Moshiach still hasn't come, so do something to hasten his coming." Netanyahu: "We're doing, we're doing." Schneerson: "Apparently it's not enough." Netanyahu has retold the story for decades, most recently to Chabad emissaries in 2024: "I haven't forgotten what the Rebbe told me." Roll the clip.
+- **Elsewhere.** Russia's chief rabbi under Putin is a Chabad emissary, decorated by Putin again in November 2025. Argentina's president made the Rebbe's grave his first foreign trip as president-elect and keeps going back. This is a movement that gets meetings with heads of state on every continent.
 > "A religious movement whose most visible wing believes a rabbi who died in 1994 is the Messiah has had a day in its leader's honor proclaimed by every American president for almost fifty years. That's not a secret. It's on whitehouse.gov. Nobody outside the community has ever asked what the end of the story is supposed to look like."
 
-**4.5 The slaughterhouse pardon.** Sholom Rubashkin. His family's company, Agriprocessors, in Postville, Iowa, was the largest kosher slaughterhouse in America. 2004: an undercover video showed cattle staggering with their throats cut, a scandal inside the kosher world. 2008: the largest immigration raid in U.S. history at that time hit the plant, hundreds of workers detained, most of them Guatemalan and Mexican, with child-labor charges to follow. Rubashkin got 27 years for financial fraud. December 2017: Trump commuted his sentence after a campaign by people across the political spectrum. He came home to a Chabad hero's welcome. Now cut back to your footage of the day laborers with the knives.
+**4.5 The slaughterhouse pardon.** Sholom Rubashkin. His family's company, Agriprocessors, in Postville, Iowa, was the largest kosher slaughterhouse in America. 2004: an undercover video showed cattle staggering with their throats cut, a scandal inside the kosher world. May 2008: the largest single-site immigration raid in U.S. history at that time hit the plant: 389 workers detained, most of them Guatemalan and Mexican, dozens of them minors. Iowa charged Rubashkin with 67 child-labor counts; a jury acquitted him on all of them. The federal immigration charges were dropped. What stuck was bank fraud: 86 counts, 27 years. December 2017: Trump commuted the sentence to time served after a campaign that ran from Alan Dershowitz to Nancy Pelosi to Orrin Hatch, and, per three former officials who spoke to CNN, after Jared Kushner personally pressed the case with the president. Rubashkin came home to a Chabad hero's welcome. (Say "commuted," not "pardoned." Say "acquitted" on the child-labor counts. The record is damning enough without rounding up.) Now cut back to your footage of the day laborers with the knives.
 > "The biggest kosher slaughterhouse in America ran on immigrant labor, got raided for it, and its owner got a presidential commutation. And on a sidewalk in Brooklyn, the knife was in the hands of men from Venezuela who didn't know what they were a part of. That's not a conspiracy. That's just how slaughter works, everywhere, at every scale. Somebody else always holds the knife."
 
 **4.6 The Third Temple, and why Kaporos is the rehearsal.** The payoff of the act.
-- Orthodox daily prayer asks for the restoration of the Temple service. The Musaf prayers on holidays say it outright: may we bring the offerings again. This isn't fringe. It is the standard liturgy, said three times a day.
+- Orthodox daily prayer asks for the restoration of the Temple service. The seventeenth blessing of the Amidah, said three times a day: "restore the service to the Holy of Holies of Your House, and the fire-offerings of Israel." The Sabbath and holiday Musaf says it outright: the additional offering "we will prepare and offer before You in love," then quotes the Torah's recipe for it. This isn't fringe. It is the standard liturgy.
 - The Yom Kippur Temple rite was two goats: one slaughtered, one sent into the desert carrying the people's sins, the original scapegoat. Kaporos is the folk substitute that survived the Temple's destruction: the bird plays the goat. The prayer says so.
-- There is an organized movement to rebuild the Temple on the Temple Mount and resume animal sacrifice: the Temple Institute has the vessels built and the priestly garments sewn, and red heifers were flown from Texas to Israel in 2022 for the purification ritual. Their own websites say the goal is sacrifice.
-- Chabad's eschatology ends in the same place: Messiah, ingathering, Temple. Some in the movement teach that 770 itself is the Temple's forerunner.
+- There is an organized movement to rebuild the Temple on the Temple Mount and resume animal sacrifice: the Temple Institute has the vessels built and the priestly garments sewn, red heifers were flown from Texas to Israel in 2022 for the purification ritual, and in July 2025 they ran a full practice burn of a heifer that had been disqualified for having a few non-red hairs (by August 2025 the Institute said all five Texas heifers were disqualified; the search continues). Their own websites say the goal is sacrifice. Meanwhile the ground is moving: Israel's national security minister has prayed openly on the Temple Mount since 2025, prayer books were allowed up there in August 2026, and a sitting U.S. Secretary of Defense once said on an Israeli stage that a Third Temple "could happen."
+- Chabad's eschatology ends in the same place: Messiah, ingathering, Temple. And it runs through the building you were standing near. In October 1991 the Rebbe published a discourse, "The House of Our Master in Babylon," teaching that 770 Eastern Parkway is the principal sanctuary of the exile and the place where the Third Temple will first be revealed before it moves to Jerusalem. That is why there are dozens of brick-for-brick replicas of 770 around the world, and it is why those students were digging. Show the Chabad.org translation on screen.
 > "Put it together. The most politically connected religious movement in America prays every day for sacrifice to come back. Its followers believe their Messiah is here or nearly here. And once a year, on a sidewalk, they practice. That's what I was filming. Not the ritual. The rehearsal."
 
 Keep this to what people say about themselves. Do not add a layer about secret coordination, world control, or who is pulling whose strings. The on-the-record version is the strongest version, and it cannot be fact-checked away.
@@ -281,7 +284,7 @@ Keep this to what people say about themselves. Do not add a layer about secret c
 
 Purpose: turn the camera around. The viewer who has spent forty minutes being horrified at Brooklyn needs to find out they are in the footage.
 
-1. **The turkey, again.** Bring back the shot from 2.10. Then the numbers on screen: roughly 46 million turkeys for Thanksgiving. Roughly 10 billion land animals a year in the United States. Over 200 million a day on earth.
+1. **The turkey, again.** Bring back the shot from 2.10. Then the numbers on screen: about 46 million turkeys at Thanksgiving (the industry's own estimate), about 199 million turkeys raised in the U.S. this year, about 10 billion land animals a year in the United States, over 90 percent of them chickens.
    > "Every one of them is a substitute. For a dinner. For a tradition. For not wanting to be the one who does it."
 
 2. **Who holds the knife.** Slaughterhouse labor in America is overwhelmingly immigrant and refugee labor. Cut the Venezuelan men against a modern plant line. Same shot, different scale.
@@ -314,9 +317,9 @@ Cards:
 
 ## 3. INTERVIEWS AND VOICES TO GET (ranked)
 
-1. **Nina** — the Jewish voice from a rabbinic family. Without her the piece is a Christian filming Jews. With her it is an argument inside the tradition, filmed by a witness. Non-negotiable.
+1. **Rina Deych** ("Nina" in your notes) — the Jewish voice from a rabbinic family, and the rescue lead. Without her the piece is a Christian filming Jews. With her it is an argument inside the tradition, filmed by a witness. Non-negotiable.
 2. **The triage woman from Woodstock** — opens and closes the synchronicity loop, and runs the rescue.
-3. **Your friend, the sanctuary founder** — the one-chicken-becomes-a-sanctuary story.
+3. **Vanessa Dawson, Penelope's Place** — the one-chicken-becomes-a-sanctuary story.
 4. **The Tribeca host** — why they offered a stranger a bed.
 5. **A practitioner who will go on record** — ideally one who switched to money. The honest practitioner interview is worth more than ten sidewalk shouting matches.
 6. **A scholar on Chabad messianism** — Berger if he'll do it, or any academic who has published on it. A Jewish scholar saying the Messiah material on camera makes Act 4 unassailable.
@@ -329,7 +332,7 @@ Cards:
 
 YouTube titles (test the top three with your thumbnail tool):
 1. I Filmed the Biggest Animal Sacrifice Night in America. Then I Found Out Who's Behind It.
-2. The Rehearsal: 50,000 Chickens, One Dead Rabbi, and the Third Temple
+2. The Rehearsal: 100,000 Chickens, One Dead Rabbi, and the Third Temple
 3. They Pray for Animal Sacrifice to Come Back. I Filmed the Practice Run.
 4. Brooklyn's Chicken Sacrifice, Trump's Favorite Rabbi, and the Temple They Want to Rebuild
 5. The Night Before Yom Kippur: What I Saw at Kaporos (Part 3)
@@ -376,7 +379,7 @@ Pinned comment: the five-line prayer text, the rabbis who opposed the custom, an
 - **Defamation.** Every factual claim about a named living person (Rubashkin, Kushner, Netanyahu, Trump) stays at what the public record says, in the words the record uses. "Commuted," not "pardoned." "Visited the grave," not "took orders." Put a source card on screen for each one.
 - **The tunnel.** Say what was debunked. If you don't, the debunk becomes the comment section.
 - **Platform policy.** YouTube's hate speech policy removes content that attributes malicious conspiracies to a religious group. The on-the-record version in Act 4 is fine. The "they secretly run it all" version gets the whole doc pulled and the footage with it.
-- **The activists' line.** The anti-Kaporos movement, including the Jewish activists in your film, has had to fight for years against being used by antisemites. Ask Nina to watch Act 4 before it goes up. If she won't appear in it as cut, re-cut it.
+- **The activists' line.** The anti-Kaporos movement, including the Jewish activists in your film, has had to fight for years against being used by antisemites; Orthodox op-eds already accuse it of exactly that. Ask Rina to watch Act 4 before it goes up. If she won't appear in it as cut, re-cut it.
 
 ---
 
@@ -390,7 +393,7 @@ You asked for the outside-the-box, beyond-the-official-narrative version. Here i
 
 - **The McGraw-Hill / Maxwell link.** It's false. Robert Maxwell bought Macmillan, not McGraw-Hill, and Education and Sharing Day is a proclamation about education, with no textbook component. One wrong fact like this and a fact-checker gets to headline the whole video as debunked.
 - **The tunnel horror story.** The trafficking and bloody-mattress claims were investigated and were not true. The real story (fanatics digging to expand a building for a dead Messiah) is stranger and it's yours to tell.
-- **Nick Fuentes as the on-ramp.** He is a Holocaust denier. The moment he is your source, every Jewish voice in your film has to leave, the Alliance has to disavow you, and YouTube has a reason to pull it. Cite the scholars you read after the debate instead. You lose nothing.
+- **Nick Fuentes as the on-ramp.** The debate that sent you down the hole was Fuentes versus Professor Jiang Xueqin (Jack Neel Podcast, Sept 26, 2026). Fuentes is a Holocaust denier. The moment he is your source, every Jewish voice in your film has to leave, the Alliance has to disavow you, and YouTube has a reason to pull it. Cite the scholars you read after the debate instead. You lose nothing.
 - **"Doomsday cult that controls world leaders."** The documented version, that the most connected religious movement in America openly prays for sacrifice to return and gets a presidential proclamation every year, is more damning and cannot be refuted. The secret-cabal version makes it about Jews instead of about sacrifice, and that is exactly the move that kills your real thesis, which is that the altar is universal.
 - **"Money changers."** The money collection you saw is the humane alternative that the rabbis preferred. Use the irony, not the trope.
 - **"They don't know their own Bibles" / "spitting on the prophets" as characterization.** Show the argument, put the verses on screen, and let the viewer judge. It plays stronger as a debate than as a verdict.
