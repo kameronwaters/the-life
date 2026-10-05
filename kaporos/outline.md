@@ -4,6 +4,12 @@ Working title for the YouTube long-form. Part 3 short goes on socials and points
 
 Thesis in one line: **Kaporos is not a weird thing one group in Brooklyn does. It is the one place on earth where the blood sacrifice that every religion and every slaughterhouse still runs on is performed in the open, on a sidewalk, with the prayer said out loud. I filmed it. Then I found out that the people doing it believe their dead rabbi is the Messiah, that his headquarters is the Third Temple in waiting, that every U.S. president signs a day in his name, and that the end of their story is a rebuilt altar in Jerusalem with the knives out again. And then I turned the camera around, because the Christians watching this kill more animals than anyone in history and call it dinner.**
 
+**Log line (the one-second version, Galloway's glance test):** I filmed America's biggest animal sacrifice, then found out the people running it believe their dead rabbi is the Messiah, and that the end of their story is an altar in Jerusalem.
+
+**The stakes, stated once here so every act can lean on them:** the most politically connected religious movement on earth has an end-times script that ends with the knives out, every president signs a day in its founder's name, and nobody has read the last page. And the viewer is in the footage: what Brooklyn does once a year on a sidewalk, the viewer's own religion does every day behind a wall. Cost of not watching: you keep calling it dinner.
+
+**The viewer test for every scene:** can someone who has never seen Part 1, Part 2, Christspiracy, or me watch this scene and follow it, without anyone on screen saying "as you saw last time"? If not, embed the context in the line itself (Galloway's core/casual/new rule) and move on.
+
 This is the no-holds-barred cut. Every punch in it lands on something that is true. The two or three things from the brief that turned out to be false are listed at the end with the receipts, because a false punch is the only kind that can be blocked.
 
 Voice rules for every line below: first person, present tense where possible, say what you saw before you say what it means, no preaching, let the footage and the prayer text do the sermon.
@@ -25,8 +31,10 @@ Voice rules for every line below: first person, present tense where possible, sa
 Format: vertical, hard cuts, on-screen text for every VO line, no music until the turn.
 
 ```
-[0:00] BLACK. Audio only: crates rattling, a rooster, a man chanting.
-VO:   "This is part three. If you missed one and two, they're pinned."
+[0:00] FOOTAGE: the garbage bag on the curb. It moves.
+VO:   "This bag is moving."
+       (No "part three." No "if you missed one and two." A new viewer gets
+        the promise in three seconds; the series is in the pinned comment.)
 
 [0:03] FOOTAGE: Saturday night, wide. Thousands of people, crates stacked
        head high, the chant, the bus with the Rebbe's face on it.
@@ -97,16 +105,102 @@ Hook alternatives for the first 3 seconds (test two, keep the winner):
 Target 40 min. Five acts plus cold open and end card. Minutes are a budget, not a rule.
 
 ```
-COLD OPEN   0:00 – 1:30   The bag. The prayer. "I wasn't supposed to be here."
-ACT 1       1:30 – 8:00   THE ROAD: beagles, Albany, Woodstock, the hat, the woman
-ACT 2       8:00 – 20:00  THE WEEK: what I saw, day by day
-ACT 3      20:00 – 27:00  THE FINAL NIGHT: Saturday into Sunday
-ACT 4      27:00 – 37:00  THE MAN ON THE STICKERS: who they are, what they believe, who they know
-ACT 5      37:00 – 43:00  EVERYBODY HAS A KAPOROS: Thanksgiving, the prophets, Jesus, the film
-END CARD   43:00 – 44:00  Where the hen is now. Christspiracy.
+COLD OPEN   0:00 – 0:45   The bag. The prayer. The bus. The loops. Straight into the street.
+ACT 2a      0:45 – 6:00   THE WEEK, FIRST HALF: first night, the crates, the all-night rescue (promise, delivered)
+ACT 1       6:00 – 9:00   THE ROAD, as a flashback: beagles, Albany, Woodstock, the hat, the woman. 3 min, hard cap.
+ACT 2b      9:00 – 19:00  THE WEEK, SECOND HALF: U-Hauls, assaults, the laborers, turkeys, the hen, Rina
+ACT 3      19:00 – 26:00  THE FINAL NIGHT: Saturday into Sunday
+ACT 4      26:00 – 36:00  THE MAN ON THE STICKERS: who they are, what they believe, who they know
+ACT 5      36:00 – 42:00  EVERYBODY HAS A KAPOROS: Thanksgiving, the prophets, Jesus, the film
+END CARD   42:00 – 43:00  Where the hen is now.
 ```
 
+Why the order changed (Galloway pass, see §2a): the viewer clicked for a sacrifice and a cult. Six and a half minutes of beagles and Woodstock at minute 1:30 is the exact "over-explaining the context up front" pattern that empties a retention curve. So the film opens on the street and earns the right to the origin story: by minute six the viewer has seen the crates, the rescue, and the first dead birds, and the question "how did this guy end up here?" is now theirs, not yours. Act 1 answers it in three minutes as a flashback and lands back on the sidewalk. Every beat of Act 1 survives; it just moves and shrinks.
+
 The spine that holds all five acts together: **the word "substitute."** It is in the prayer. It is what the scapegoat was. It is what Christians say Jesus was. It is what every animal in every slaughterhouse is for the person who would rather not do the killing themselves. Say the word in every act.
+
+---
+
+## 2a. THE GALLOWAY PASS — WHAT THE SCRIPT NOW DOES THAT IT DIDN'T
+
+From the Open Residency transcript, body-of-video advice only (title and thumbnail are in §4). His numbers: intro under 45 seconds; the title's promise reaffirmed inside 10 seconds or 60 to 70 percent of viewers are gone; retention drop points stay at the same timestamps as the audience broadens, so fix moments, not averages; 50 to 70 percent of long-form traffic is on TV, where 30 minutes beats 4.
+
+### Loops opened, loops paid
+
+Every hook in the first 45 seconds is a debt. This is the ledger. If a loop is cut from the intro, cut its payoff too; if a payoff moves, the edit note moves with it.
+
+| Opened at | The loop (one sentence, no context) | Paid at |
+|---|---|---|
+| 0:01 | "This bag is moving." | 3.4, you open the bag |
+| 0:04 | The prayer: "this is my substitute" | every act; the spine |
+| 0:09 | "People who believe this man is the Messiah" | 4.1 – 4.2 |
+| 0:14 | "A president prayed at his grave" | 4.4 |
+| 0:16 | "His followers dug a tunnel under Brooklyn" | 4.3 |
+| 0:18 | "The people trying to stop it got arrested" | 2.5 |
+| 0:20 | "You're going to see yourself in this footage" | Act 5, the turkey |
+| 0:30 | "A man every president since Carter has signed a day for" | 4.4 |
+| 0:30 | "Followers waiting on an altar" | 4.6 |
+| 0:40 | "It started on a Tuesday, with a bag" | 2.1, immediately |
+| 6:00 | "Three weeks before this I was in a courtroom. For a beagle." | Act 1 |
+| 6:30 | The hat | Act 1 beat 4, and the lower third from then on |
+| 2.7 | "Hold that thought. It comes back." (the laborers) | 4.5 Postville, 5.2 |
+| 2.10 | The turkey, "we'll get there" | 5.1 |
+| 2.11 | The hen who flew | End card |
+| 3 button | "So I started reading" | Act 4 |
+
+### The stakes ladder
+
+Galloway: structure is useless without stakes, and for an informational video the stake is the cost of not knowing. The film climbs four rungs and names each one once, in plain words, at the moment it arrives.
+
+1. **Animal stake (0:00 – 6:00).** A hundred thousand birds, this week, no water, a prayer that says "you die, I live." The viewer's first "I need to see what happens to them."
+2. **Human stake (Act 2b).** People hit for picking up dead animals. Day laborers who crossed a continent holding the knife. Kids with questions. The system has victims who are not birds.
+3. **Power stake (Act 4).** Every president, the Oval Office every spring, the son-in-law, Netanyahu, Putin's chief rabbi. An end-times script with a built altar, and nobody has asked the people in power if they've read the last page. This is the "cost of not knowing" rung, and it is why the title says "Doomsday."
+4. **Personal stake (Act 5).** The viewer is in the footage. "I say that as a Christian." Forty-six million turkeys. The film's last question is pointed at the person watching, which is also the reason to watch Christspiracy.
+
+Each rung is stated by you, once, as a sentence a new viewer can repeat. Do not stack them in the intro; the intro only hints at 3 and 4 (the proclamation shot, "you're going to see yourself"). Galloway's warning applies: stakes that don't match why they clicked read as noise. They clicked for 1 and 3. Deliver 1 immediately, promise 3, earn 2 and 4.
+
+### Context: drip, don't dump
+
+- No scene says "as you saw in part one," "if you missed part two," "you probably know I made a film." The series lives in the pinned comment and the end card.
+- First use of every proper noun gets a three-word on-screen gloss (list in 2.1). Second use gets nothing.
+- People are introduced by what they are doing, in dialogue, not by a title card speech. The triage woman is "the woman from the cafe" until she is in frame in 2.3, and then her lower third does the rest. Rina Deych is introduced by her own first sentence on the sidewalk, lower third underneath, not by you listing her biography. Kip Andersen is "the director of Cowspiracy."
+- Your own introduction is the hat and the beagle sentence. Nothing else, ever.
+- Act 1 is a flashback with a 180-second cap. Galloway's test for every line in it: is this the minimum context to understand the cafe moment? The beagle case is one sentence. Woodstock is two shots and one line about music. The cafe gets the time.
+
+### Retention plan (what to do with the curve)
+
+Galloway uses two numbers: views and the retention curve. Before upload, write the expected view count at 1 hour, 1 day, 1 week, and rank the video 1 to 10 against the last ten uploads. Judge against that, not against the channel average.
+
+Predicted trouble spots, in order of risk, and the fix if the curve confirms them:
+
+| Timestamp | Risk | Fix if the curve dips there |
+|---|---|---|
+| 0:00 – 0:10 | Promise not on screen fast enough | Move the swing and the bus earlier; the bag can be 1 second, not 3 |
+| 6:00 – 9:00 | Act 1 flashback | Cut beagles to one sentence; if still dipping, cut Woodstock exteriors to one shot |
+| 2.9 | Sidewalk scripture argument | Cap at 90 seconds, verses on screen, one exchange only |
+| 2.13 | Rabbinic history monologue | Split: Rashba/Karo here, the rest moves to 4.6 |
+| 26:00 – 36:00 | Act 4 desk section | Footage cutback every 60 seconds instead of 90; every sub-section ends on a question |
+| 4.7 | The Tanya passage | Read it flat, one reply sentence, out in 60 seconds |
+| 5.3 | "Everybody's altar" | 30 seconds, hard; then the prophets |
+| 5.6 | Christspiracy turn | If viewers leave here, the film footage in 5.5 is already doing the job; shorten the to-camera to 15 seconds |
+
+Rule for the whole voiceover, worth repeating because the first draft had three of them: no closure language before 42:00. "At the end of the day," "to wrap up," "in conclusion," "finally," "so that was" are exit cues. Every act button points forward with a noun from the next act.
+
+### Watch time is on a TV
+
+Half or more of this audience watches on a television. So: lower thirds at TV size, date and place stamps in the corner for every sequence, all sources on screen as full-width cards (not description links), the prayer text large, and every call to action spoken aloud. The 40-minute length is right for that device; do not cut it to 20 for a phone audience that is now the minority.
+
+### Pickup shoot list (packaging shots the edit still needs)
+
+Galloway writes the thumbnail and intro shot list before the shoot. The street is over, but these are still gettable:
+
+- You at a real "MESSIAH IS HERE" sticker, Reade St or Crown Heights, phone in hand, looking at it. Intro and thumbnail C.
+- You at the desk with the printouts, the Education Day proclamations fanned out, one presidential signature in focus. Act 4 open.
+- The hen at the sanctuary: skittish wide, then eating from a hand. 2.11 and the end card. Get both in one visit; the end card needs the second.
+- Penelope's Place sign, Vanessa on camera saying Penelope's name. 2.12.
+- Rina Deych, seated, one hour, two cameras. Act 2b spine.
+- The Tanya and the Shulchan Aruch, physical books, pages open to the cited passages. 2.13 and 4.7.
+- Drive-in shot of the Manhattan skyline at dusk, from the driver's seat, hat on the dash. Act 1 button and title card.
 
 ---
 
@@ -133,24 +227,35 @@ Rewritten to Paddy Galloway's intro rules: deliver on the title's promise in the
                                             VO: "The people trying to stop it got arrested."
       - A turkey on the sidewalk.           VO: "And by the end, you're going to see
                                                  yourself in this footage."
-0:30  FOOTAGE: you, handheld, dawn, carriers full of birds.
-      VO: "Three weeks before this I was in a courtroom upstate, for a beagle.
-           I had no plan to be in Brooklyn. It started with a hat."
-0:36  CUT straight into Act 1 on that sentence. No title card first.
-      Title card comes at the end of Act 1, on the drive into the city.
+0:30  FOOTAGE: you, handheld, dawn, carriers full of birds. Then the Education Day
+      proclamation with a presidential signature, half a second.
+      VO: "Seven nights. Three hundred birds carried out. One prayer, said out loud
+           over every one of them. And a man every president since Carter has
+           signed a day for, whose followers are waiting on an altar.
+           It started on a Tuesday, with a bag."
+0:42  CUT straight into the first night's footage (Act 2a) on "a bag." No title card.
+      Title card lands at the end of Act 1 (around 9:00), on the drive into the city,
+      by which point the viewer has earned it.
 ```
+
+Three things that line does, in Galloway's terms: it signals effort (seven nights, three hundred birds: viewers stay for visible difficulty), it states the stake once in plain words (the power and the altar), and the last sentence is the first sentence of the story. Nothing in it says who you are. The hat does that at minute six.
 
 Rules this follows, so you don't undo them in the edit: the first ten seconds show exactly what the title and thumbnail promised. Every loop is one sentence with no context (who, when, why come later, drip-fed). Nothing says "I'm Kameron, I make films about religion and animals"; the viewer learns who you are from the hat and the beagle line. The last line of the intro is the first line of the story.
 
 Avoid, anywhere in the voiceover, closure language before the end: "at the end of the day," "so to wrap up," "in conclusion," "finally." Galloway's retention curves show viewers hear those as the exit cue and leave.
 
-## ACT 1 — THE ROAD (1:30 – 8:00)
+## ACT 1 — THE ROAD (6:00 – 9:00, flashback, three minutes hard cap)
+
+Placement: after 2.3, the all-night rescue. The viewer has just watched you carry birds out until dawn. Freeze on you at the van, then:
+> "I should tell you I had no plan to be here. Three weeks before this I was in a courtroom upstate. For a beagle."
 
 Purpose: make the viewer trust you. You are not a guy who came looking for this. It came looking for you. Tell it straight and let the synchronicities land on their own. Do not say "synchronicity" more than once. Let them count.
 
+Budget: the seven beats below in 180 seconds, which means roughly 25 seconds each. The Beagle Summit gets one sentence, not sixty seconds. Woodstock gets two shots. The cafe gets the time, because the cafe is the story. If the cut runs past three minutes, the thing to cut is the beagles, never the hat.
+
 Beats, in order:
 
-1. **The Beagle Summit.** One sentence on what it is. You are there to practice the court case for the beagle rescue. Footage: summit, prep, the march in Albany. Keep it to 60 seconds. This is backstory, not the story.
+1. **The Beagle Summit.** One sentence on what it is. You are there to practice the court case for the beagle rescue. Footage: summit, prep, the march in Albany. Keep it to 20 seconds. This is backstory, not the story.
    > "I came to New York for a dog. Specifically for a court case about beagles. That's a different video."
 
 2. **The march, and leaving a day early.** You had an Airbnb booked for that night. You left anyway. No reason. Say that: "No reason. I just wanted to go."
@@ -165,18 +270,21 @@ Beats, in order:
 
 6. **Finding it.** Search, a few phone calls, and an animal sanctuary owner offers you a place to stay in Tribeca that night. You start filming the same evening.
 
-7. **Button for the act.** Over footage of you driving into the city at dusk:
-   > "I don't have a tidy word for what that chain of events was. I'll just tell you I got the message, and I went."
+7. **Button for the act.** Over footage of you driving into the city at dusk, title card over the skyline:
+   > "I don't have a tidy word for what that chain of events was. I'll just tell you I got the message, and I went. And by the fourth night I was standing in that woman's operation."
+   Cut back to the sidewalk, 2.4, on "operation." Forward-pointing button, no closure language.
 
 Footage you need: Albany march, Woodstock exteriors, Hotel Dylan, the cafe, the hat (close-up, worn), driving-in shot. If you have no footage of the cafe moment, reconstruct it with stills and the map, do not fake it.
 
 ---
 
-## ACT 2 — THE WEEK (8:00 – 20:00)
+## ACT 2 — THE WEEK (2a: 0:45 – 6:00 · 2b: 9:00 – 19:00)
 
-Purpose: show, chronologically. This is the evidentiary core. Date-stamp every sequence on screen. Parts 1 and 2 covered some of this; recap them in 45 seconds with their best three shots each, then go to new material.
+Purpose: show, chronologically. This is the evidentiary core. Date-stamp every sequence on screen. Parts 1 and 2 covered some of this. Do not call it a recap and do not say "as you saw in part two": to most of this audience it is the first time. Tell it fresh, with the best shots, and let the people who saw the shorts enjoy seeing them again at full length.
 
-**2.1 First night (recap of part 1, 45 sec).** What Kaporos is, in your words, over the first footage you shot. Keep the explanation to three sentences:
+Act 2a is 2.1 through 2.3 and must contain, within the first six minutes of the film, the three things the title and thumbnail promised: the sacrifice at scale, the man on the stickers, and you on the ground. Act 2b is 2.4 through 2.13, after the Act 1 flashback.
+
+**2.1 First night (0:45 – 2:00).** What Kaporos is, in your words, over the first footage you shot. On first use, every term gets a three-word gloss on screen (Kaporos: "atonement ritual"; Yom Kippur: "Day of Atonement"; Hasidic: "ultra-Orthodox Jewish"; Chabad: "the Rebbe's movement"; 770: "their headquarters"; Moshiach: "Messiah"). Galloway's curse-of-knowledge rule: half this audience is not American and most of it is not Jewish. Keep the explanation to three sentences:
 > "Kaporos. Kapparot, in Hebrew. 'Atonements.' In the days before Yom Kippur, some observant Jews, mostly in Hasidic neighborhoods, take a live chicken, swing it over their head three times while saying that prayer, and then it's slaughtered. The idea is the bird takes on your sins for the year. Most Jews don't do this. Most Jews who do the custom at all use money instead. We'll get to that. This is the chicken version."
 
 **2.2 The crates.** Birds in plastic crates, stacked on the sidewalk and in trucks for days before the ritual. No food, no water, in the heat. Dead ones in the bottom of the crates. The Health Department has documented this for years. Put the dates on screen.
@@ -217,11 +325,12 @@ Do not resolve this here. Plant it. It is the Act 5 payoff.
 Verify quotes and citations in `research.md` before you put them on screen.
 
 Button for Act 2, over the dawn rescue footage:
-> "That was the week. Then came Saturday."
+> "That was the week. Then came Saturday, and a hundred thousand birds."
+(Forward-pointing, with a number: the viewer now needs to see Saturday. "That was the week" alone reads as a wrap-up.)
 
 ---
 
-## ACT 3 — THE FINAL NIGHT (20:00 – 27:00)
+## ACT 3 — THE FINAL NIGHT (19:00 – 26:00)
 
 Purpose: scale and dread. Saturday evening into Sunday morning, the night before Yom Kippur begins. The biggest numbers of the year. Mostly footage. Sparse VO. Let it breathe.
 
@@ -249,11 +358,13 @@ Button, to black:
 
 ---
 
-## ACT 4 — THE MAN ON THE STICKERS (27:00 – 37:00)
+## ACT 4 — THE MAN ON THE STICKERS (26:00 – 36:00)
 
 Purpose: tell people, accurately, who Chabad-Lubavitch is, what they believe about the Messiah and the Temple, and how close they sit to power. Every claim in this act has to be sourced on screen, because this is the act the internet will try to use to discredit the footage. The sourced version is also the more shocking version. **None of it is hidden. That is the story.**
 
 Format: you at a desk or a wall of printouts, cut with archive, cut back to your Kaporos footage every 60–90 seconds so it never stops being your film.
+
+Retention risk: this is the act where the film stops being footage and starts being research, and that is where a curve bends. Two defenses. One, open the act with the stake, not the history: "Here is why it matters who he is" before "he was born in 1902." Two, every sub-section ends on a question the next one answers (4.1 ends "so why is his face on a bus thirty years after he died?", 4.2 ends "and what does a movement that believes that do when it thinks the leadership is stalling?", 4.3 ends "why would a president kneel at this man's grave?", and so on). Those are the open loops that carry a viewer across a ten-minute desk act.
 
 **4.1 Who he was.** Menachem Mendel Schneerson, 1902–1994, seventh Rebbe of Chabad-Lubavitch. Hasidic movement founded in 1775 in what is now Belarus by Shneur Zalman of Liadi, author of the Tanya. "Chabad" is an acronym for wisdom, understanding, knowledge. Headquarters: 770 Eastern Parkway, Crown Heights, the building whose replica exists in cities around the world. Schneerson took over in 1951 and turned a shattered post-Holocaust sect into the largest Jewish outreach organization on earth: roughly 4,900 emissary families in over a hundred countries, by Chabad's own count.
 
@@ -287,7 +398,7 @@ Everything in this act is what they say about themselves, on their own websites,
 
 ---
 
-## ACT 5 — EVERYBODY HAS A KAPOROS (37:00 – 43:00)
+## ACT 5 — EVERYBODY HAS A KAPOROS (36:00 – 42:00)
 
 Purpose: turn the camera around. The viewer who has spent forty minutes being horrified at Brooklyn needs to find out they are in the footage.
 
@@ -303,18 +414,19 @@ Purpose: turn the camera around. The viewer who has spent forty minutes being ho
 5. **Jesus in the Temple.** The one violent act in the Gospels. He walks into the Temple courtyard during Passover, the biggest sacrifice week of the year, and drives out the animals and the people selling them. Quotes Hosea: "I desire mercy, not sacrifice," twice in Matthew. The earliest Jewish followers of Jesus, the Nazarenes and Ebionites, preserved a saying: "I have come to abolish the sacrifices, and if you do not stop sacrificing, the wrath will not cease from you." The church that came after put the sacrifice right back on the altar, and Christians now kill more animals than anyone in history.
    > "The week before Passover, the biggest sacrifice week of the year, a Jewish rabbi walked into the killing floor and shut it down. The earliest people who followed him said he came to abolish the sacrifices, and they didn't eat meat. Then the church took his death and turned it into the biggest sacrifice of all. Blood on the altar every Sunday. 'This is my body.' 'Washed in the blood of the lamb.' And every November, forty-six million turkeys, by the people who sing those songs. Christians are the largest blood cult in human history by body count, and I say that as one. Two thousand years after he overturned the tables, I was standing on the biggest sacrifice night of the year in Brooklyn watching it happen in the open, and the only honest thing I could think was: at least these people say the prayer out loud. Same altar. Different week. Different hat."
 
-6. **The Christspiracy turn.** Thirty seconds, straight to camera.
-   > "If you want the full case, the archaeology, the scholars, the suppressed history of what Jesus actually did in that Temple and why it got him killed, that's Christspiracy. It's the film I made with Kip Andersen. Link below. Everything you just watched is one chapter of that story."
+6. **The Christspiracy turn.** Not an ad break. Galloway's Red Bull rule: the product appears because it is the natural next thing, not because you stopped to sell it. So the film enters as evidence first: in beat 5, when you get to the Temple and the Ebionites, cut to the film's own footage and scholars for the receipts, with a lower third that reads "from CHRISTSPIRACY (2024)". The viewer has already watched two minutes of the film before you name it. Then, thirty seconds, straight to camera:
+   > "I spent four years on that one question, what Jesus actually did in that Temple and why it got him killed, with the director of Cowspiracy. The film's called Christspiracy. It's on [platform]. Say the name out loud and put it on screen big enough to read from a couch: half of this audience is watching on a TV and will never see the description. Everything you just watched is one chapter of that story."
+   ("The director of Cowspiracy," not "Kip Andersen": a new viewer knows the first and not the second.)
 
 ---
 
-## END CARD (43:00 – 44:00)
+## END CARD (42:00 – 43:00)
 
 Footage: the skittish hen, at the sanctuary, finally eating out of someone's hand.
 > "She was somebody's substitute. She isn't anybody's anymore."
 
-Cards:
-- Christspiracy: where to watch
+Cards (TV rules: 50 to 70 percent of long-form watch time is now on televisions, per Galloway's client data. Every card is readable from a couch, every name is said out loud, nothing depends on a tappable link):
+- Christspiracy: where to watch, said and shown
 - The sanctuary (donate)
 - The rescue organization (volunteer next year)
 - Parts 1 and 2
