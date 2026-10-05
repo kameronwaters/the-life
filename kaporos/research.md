@@ -298,3 +298,19 @@ See the table in `outline.md` section 4. Top: "I Exposed the Doomsday Cult Behin
 
 ### C5. Not retrieved
 - Thumbnail images could not be fetched from this environment (image host blocked). The thumbnail formula in the outline is from the known grammar of the channel, not a frame-by-frame study of these specific thumbnails. Pull the six reference thumbnails yourself before the design pass: z1_O0HZRRqE, K_B6fa6hy4U, u6Q5DJTDyoQ, mt7HmjY5dJY, arIS3FByNYk, 8uM4ZrIrYbY.
+
+### C6. Paddy Galloway, Open Residency masterclass (Sept 14, 2026) — full transcript read
+Source: https://youtu.be/Z2uoA3bhJT0 (2h45m). Rules applied to this video:
+- Click is 50 percent of the game; packaging gets 10–20 percent of total production time. Minimum 10 titles, 3 differentiated thumbnails, native A/B test. Title first, then thumbnail brief, then shoot thumbnail stills deliberately (hundreds of frames).
+- Glance test: the idea must be sayable in one sentence. Universal language, no jargon (his examples: "D1 athlete," "Goodwill," "EBITDA"). Under about 60 characters unless the extra words add a human-interest hook. Title case, not all caps.
+- Title and thumbnail complement, never repeat. "Click to unpause": the thumbnail should look like a paused action.
+- Viral titles pose a question you must click to answer; his strongest format is contradiction ("I found the cheapest 911 GT3 on the market, but nobody will buy it").
+- Do not pick titles by SEO or optimizer score; most channels get 5–10 percent of views from search.
+- Pick one title you'd bet your career on; leave it unless the video underperforms expectation. Set expected views at 1h/1d/1wk before publishing. Good data beats no data; no data beats bad data.
+- Metrics: views and retention curves. Not CTR or AVD.
+- Intro: under 45 seconds; deliver on the promise in the first 10 seconds (visually if possible); create intrigue with the least context; seamless flow into the story. Drip-feed context. Never "you probably saw my last video."
+- Avoid closure language mid-video ("at the end of the day") because viewers hear it as the exit cue.
+- CCN: a video should work for core, casual, and new viewers at once. 80 percent of videos should overlap 80 percent with each other; this is the 20 percent swing.
+- Stakes: viewers don't care unless there is a cost, an enemy, a clock, or a consequence.
+- TV is now 50–60 percent of long-form watch time for his clients; longer videos do better there because viewers choose them. 40 minutes is fine.
+- He recommends exactly this workflow: Claude plus the vidIQ connector to pull outliers and brainstorm against them.

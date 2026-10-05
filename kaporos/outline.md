@@ -110,37 +110,39 @@ The spine that holds all five acts together: **the word "substitute."** It is in
 
 ---
 
-## COLD OPEN (0:00 – 1:30)
+## COLD OPEN (0:00 – 0:45)
+
+Rewritten to Paddy Galloway's intro rules: deliver on the title's promise in the first 10 seconds (visually, not verbally), open loops with the least context possible, under 45 seconds, and flow straight into the story with a connecting sentence. No self-introduction. The hat introduces you later.
 
 ```
-BLACK. Sound of the street at 3 a.m. Crates. Chanting.
-
-FOOTAGE: the garbage bag. Hold until it moves.
-VO: "This bag is moving."
-
-FOOTAGE: the prayer, slow motion, the bird's wings open.
-TEXT: the five lines of the prayer, one at a time.
-VO: "Zeh chalifati. Zeh temurati. Zeh kapparati.
-     This is my exchange. This is my substitute. This is my atonement.
-     This rooster goes to its death, and I go to a good, long life, and peace.
-     That's the whole thing. Right there. Said out loud, over the bird's head,
-     over somewhere between fifty and a hundred thousand birds a year
-     in Brooklyn alone. Nobody counts. That's part of the story."
-
-FOOTAGE: me, handheld, exhausted, dawn, chickens in carriers around me.
-VO: "I'm Kameron. I make films about religion and animals.
-     Three weeks before this I was in a courtroom upstate, for a beagle.
-     I had no plan to be in Brooklyn.
-     This is how I got here, what I saw over seven days,
-     and what I found when I went home and started pulling the thread
-     on the man whose face was on every lamppost."
-
-TITLE CARD: KAPOROS, PART 3 — THE REHEARSAL
+0:00  BLACK. Street at 3 a.m. Crates. Chanting.
+0:01  FOOTAGE: the garbage bag. It moves.
+      VO: "This bag is moving."
+0:04  FOOTAGE: the swing, slow motion, wings open. Prayer text on screen,
+      one line per beat: THIS IS MY SUBSTITUTE. THIS ROOSTER GOES TO ITS DEATH.
+      VO: "A hundred thousand of these in Brooklyn, in one week."
+0:09  SMASH CUT: the bus with the Rebbe's face. Men chanting "Yechi."
+      A lamppost sticker: MOSHIACH IS COMING.
+      VO: "Run by people who believe this man is the Messiah."
+      (That is the title's promise, delivered, at nine seconds: the sacrifice
+      and the cult, both on screen, before a single line of backstory.)
+0:14  FAST LOOPS, one shot each, no explanation:
+      - Trump at the grave, kippah on.      VO: "A president prayed at his grave."
+      - The 770 tunnel news footage.        VO: "His followers dug a tunnel under Brooklyn."
+      - Cops cuffing an activist holding a dead bird.
+                                            VO: "The people trying to stop it got arrested."
+      - A turkey on the sidewalk.           VO: "And by the end, you're going to see
+                                                 yourself in this footage."
+0:30  FOOTAGE: you, handheld, dawn, carriers full of birds.
+      VO: "Three weeks before this I was in a courtroom upstate, for a beagle.
+           I had no plan to be in Brooklyn. It started with a hat."
+0:36  CUT straight into Act 1 on that sentence. No title card first.
+      Title card comes at the end of Act 1, on the drive into the city.
 ```
 
-Notes: Do not open on the politics. Open on the bag and the prayer. People need to feel it before they are told anything. The cold open should work as a standalone short too. Cut it that way.
+Rules this follows, so you don't undo them in the edit: the first ten seconds show exactly what the title and thumbnail promised. Every loop is one sentence with no context (who, when, why come later, drip-fed). Nothing says "I'm Kameron, I make films about religion and animals"; the viewer learns who you are from the hat and the beagle line. The last line of the intro is the first line of the story.
 
----
+Avoid, anywhere in the voiceover, closure language before the end: "at the end of the day," "so to wrap up," "in conclusion," "finally." Galloway's retention curves show viewers hear those as the exit cue and leave.
 
 ## ACT 1 — THE ROAD (1:30 – 8:00)
 
@@ -335,58 +337,62 @@ Cards:
 
 ## 4. TITLES, THUMBNAILS, CHAPTERS — THE VIRAL FORMULA
 
-Built from the data on 2026-10-05: Tyler Oliveira's 50 most-viewed long-forms, the past year's breakout videos with "cult" in the title, and vidIQ title scores on 13 candidates. Numbers in `research.md` C.
+Built from the data on 2026-10-05 (Tyler Oliveira's 50 most-viewed long-forms, the past year's breakout videos with "cult" in the title, vidIQ title scores) and then audited against Paddy Galloway's packaging rules from the Open Residency masterclass (Sept 2026, full transcript read). Numbers in `research.md` C.
 
-**The formula, in one line:** `[I Exposed / I Investigated] the [DOOMSDAY CULT] behind [America's Biggest ANIMAL SACRIFICE]...` with a thumbnail of a bird mid-swing, the Rebbe's face in frame, your face reacting, three words of text.
+**The formula, in one line:** title carries the sacrifice and the superlative, thumbnail carries the cult, and neither repeats the other.
 
-Why each piece:
-- **"I Exposed" / "I Investigated" + ellipsis.** It is Tyler's entire channel. Every one of his top videos starts this way, and the recent ones that over-performed hardest ("I Exposed the Most Corrupt Churches in America..." 20.7M, 3.4x his average; "Inside the Country that KILLS Illegal Immigrants..." 18.2M, 3.7x) are first-person, superlative, trailing off.
-- **"Cult."** The single highest-CTR word in this niche. In the past year: "764: The Internet's Most Disturbing Cult" 2.6M on a 115k channel (49x), "i was in a cult." 2.5M (103x), "I Exposed the Most Evil Cult in Mexico..." 7.6M (Tyler, Sept 2026), "Investigating the Most Dangerous Cult in America" 758k on 64k subs. "Doomsday cult" adds the end-times hook you actually have (Messiah, Temple, tunnel).
-- **"America's Biggest Animal Sacrifice."** True (the press now calls it "the largest ritual animal sacrifice in the United States"), superlative, and it says what the footage is without saying "chicken," which reads small. "Blood sacrifice" scores the same and is harsher; test it.
-- **No "Jewish," "Hasidic," or "Chabad" in the title.** Not for safety: for click psychology. The naming of the group is the reveal inside the video (Act 4), and the title promises a mystery ("the cult behind...") instead of pre-answering it. Tyler's two 2026 videos that did name the group ("Inside the New York Town Invaded by Welfare-Addicted Jews..." 10.8M; "I Exposed New Jersey's Jewish Invasion..." 10.2M) show the lane is primed and the comment wars are enormous (88k and 115k comments), but they also turned into videos about the group. Yours is about the altar. Keep the group as the second-act reveal and the Christians as the third-act twist. Put the names in the description and tags, where search lives.
-- **Search is not the engine.** "kaporos" is ~4.5k searches a month, "chabad" ~8k and falling, "chabad cult" under 750. "Yom Kippur" is 115k and spiking right now. Browse and suggested are what will carry this, so the title is written for CTR, and the description carries Yom Kippur, Kaporos, Kapparot, Chabad, 770, Rebbe, Third Temple for search.
+```
+TITLE:      I Exposed the Cult Behind America's Biggest Animal Sacrifice...
+THUMBNAIL:  bird mid-swing, the Rebbe's face behind it, your face reacting,
+            text: HE'S THE MESSIAH?
+```
 
-**Titles, ranked (vidIQ score, long-form):**
+Why each piece, and where Galloway changed it:
 
-| # | Title | Score |
-|---|---|---|
-| 1 | I Exposed the Doomsday Cult Behind America's Biggest Animal Sacrifice... | 98 |
-| 2 | I Exposed the Doomsday Cult Behind Brooklyn's Chicken Sacrifice... | 96 |
-| 3 | I Exposed the Cult That Wants to Bring Back Animal Sacrifice... | 96 |
-| 4 | I Infiltrated America's Biggest Blood Sacrifice (Christians Do It Too) | 96 |
-| 5 | I Exposed Brooklyn's Doomsday Cult... *attacked* | 95 |
-| 6 | I Investigated the Doomsday Cult in Brooklyn... *attacked* | 94 |
-| 7 | The Doomsday Cult Behind America's Biggest Animal Sacrifice | 94 |
-| 8 | I Investigated America's Largest Animal Sacrifice... | 92 |
-| 9 | I Investigated the Cult Preparing for the Third Temple... | 92 |
-| 10 | I Investigated the Cult That Sacrifices 100,000 Chickens in Brooklyn... | 89 |
-| 11 | The Doomsday Cult Every President Bows To... | 88 |
-| 12 | Inside the Brooklyn Cult That Worships a Dead Rabbi as the Messiah... | 87 |
-| 13 | I Filmed 100,000 Chickens Sacrificed in Brooklyn... *attacked* | 86 |
+- **"I Exposed" + superlative + ellipsis.** Tyler's whole channel, and Galloway's "I found" principle: the first-person verb turns a topic into a story. His own demo went "best value GT3" to "I found the cheapest GT3" for exactly this reason.
+- **"Cult."** The highest click word in this niche (see C2). Galloway: a title must "pose a question you have to click to answer." "The cult behind" poses who.
+- **"America's Biggest Animal Sacrifice."** True, superlative, universal language. Galloway's curse-of-knowledge rule kills "Kaporos," "Chabad," "Hasidic," "Yom Kippur" in the title: a viewer in Manchester or Manila does not know those words and scrolls past. They go in the description.
+- **"Doomsday" is out of the title.** Galloway: fewest words that stay interesting, under about 60 characters where possible. "Doomsday Cult" version was 72 characters; this is 63. "Doomsday" was also doing the thumbnail's job. Which brings us to the biggest fix:
+- **The thumbnail text no longer repeats the title.** My first pass had "DOOMSDAY CULT" on the image under a title that said "Doomsday Cult." Galloway is explicit: title and thumbnail must complement, never repeat. So the image asks the question the title implies: **HE'S THE MESSIAH?** over the Rebbe's face. Title says cult, thumbnail says why.
+- **Click to unpause.** Galloway's test for a thumbnail is whether it looks like a frozen frame the viewer has to click to start. A bird mid-swing is exactly that. A posed shot of you is not.
+- **One title, three thumbnails.** His non-negotiable: pick the one title you would bet your career on and leave it alone; A/B test three *differentiated* thumbnails natively (not three color variants). Change the title only if the video falls below your own expectation.
+- **On the vidIQ scores.** Galloway's sharpest warning in the whole talk is against picking titles by an optimizer score. The scores below are a sanity check, not the decision. Three titles score within two points of each other; the human-interest test decides, not the number.
 
-Ship #1. Use YouTube's native title/thumbnail A/B test with #1, #3 and #4 for the first 72 hours. #4 is the one most on-brand for you and the only one that pre-loads the Christian twist; if it holds CTR within a point of #1, switch to it, because it brings the audience you want for Christspiracy rather than the audience that wants a video about Jews.
+**Titles, ranked by Galloway's rules first, score second:**
 
-"*attacked*" only if you have a real on-camera shove of you or your crew. Tyler uses it because it happens. If it's only activists being hit, it's a lie in the title and the comments will say so.
+| # | Title | Chars | vidIQ | Note |
+|---|---|---|---|---|
+| 1 | I Exposed the Cult Behind America's Biggest Animal Sacrifice... | 63 | 98 | Ship this. Question + superlative + first person. |
+| 2 | I Exposed America's Biggest Animal Sacrifice... and the Police Protect It | 73 | 99 | Galloway's contradiction format (his "cheapest GT3 but nobody will buy it"). Long, but he allows length that adds a hook. True: NYPD guards the sites and arrests activists; the courts ruled enforcement can't be compelled. Fallback title if #1 underperforms expectation. |
+| 3 | I Filmed America's Biggest Animal Sacrifice. Nobody Stops It. | 61 | 97 | Cleanest contradiction, bulletproof claim. |
+| 4 | I Exposed America's Biggest Animal Sacrifice... Christians Do It Too | 68 | 97 | The on-brand twist. Pre-loads Act 5. Best for the Christspiracy funnel, slightly smaller first click. |
+| 5 | I Exposed the Doomsday Cult Behind America's Biggest Animal Sacrifice... | 72 | 98 | Previous pick. Too long, and "doomsday" belongs on the image. |
+| 6 | The Cult Behind America's Biggest Animal Sacrifice | 50 | 94 | Shortest. Loses the first-person story. |
+| 7 | I Exposed the Cult That Wants to Bring Back Animal Sacrifice... | 63 | 96 | Good; weaker superlative. |
+| 8 | I Exposed Brooklyn's Doomsday Cult... *attacked* | 48 | 95 | Only if you were physically attacked on camera. |
+| 9 | I Investigated the Cult Preparing for the Third Temple... | 57 | 92 | Niche word ("Third Temple") shrinks the market. |
+| 10 | Inside the Brooklyn Cult That Worships a Dead Rabbi as the Messiah... | 69 | 87 | Gives away the thumbnail's question. |
 
-**One rule about the word "cult."** The title promises it; Act 4 has to earn it on screen, in their own words: a dead man proclaimed Messiah, "Yechi" sung to him, the RCA's 1996 resolution, Berger's "scandal," 770 as the Temple-in-waiting, students tunnelling toward it. That is what makes the title a claim rather than a slur. If Act 4 gets cut down, the title gets cut down with it.
+"*attacked*" only if it happened to you or your crew on camera. If it was only activists, it is a lie in the title.
 
-**Thumbnail formula (Tyler's grammar, your footage):**
+**Three differentiated thumbnails for the native A/B test** (Galloway: differentiated means different concepts, not the same frame in three shirt colors):
 
-Layout: three zones, read left to right in under a second.
-1. **The act.** Bird mid-swing above a man's head, wings open, motion blur. This is the image no one else on YouTube has. Shoot stills from your best frame; if none is sharp, composite from two frames. Fill 60 percent of the frame.
-2. **The face in the background.** A Schneerson poster or the bus, slightly out of focus, behind the swing. That is the "cult" promise without a word. The viewer sees a ritual and a leader's face and fills in the rest.
-3. **You.** Lower right, chest-up, head turned toward the act, mouth slightly open, eyebrows up, not cartoon-shocked. Tyler's face is in every thumbnail because it says "a person went there." Wear the hat only if the text on it is unreadable at thumbnail size; otherwise it fights the title text.
+**A. The Rehearsal.** Bird mid-swing above a man's head, wings open, motion blur, filling 60 percent of frame. Behind it, soft: the Rebbe's face on the bus or a poster. You lower right, chest up, head turned toward the swing, eyebrows up, mouth slightly open, not cartoon-shocked. Text top left, three words, heavy sans, white or yellow with black stroke: **HE'S THE MESSIAH?** Push the sodium-orange street light, desaturate the rest. Expected winner on clicks.
 
-Text: three words max, white or yellow, heavy sans, black stroke, top left. Options, test two:
-- **100,000 SACRIFICED**
-- **DOOMSDAY CULT**
-- **THIS BAG MOVED** (only with the bag variant below)
+**B. The Bag.** Black garbage bag on the curb, slightly open, one wing visible. Your face in the corner, looking down at it. Text: **THIS BAG MOVED.** One thin red circle allowed around the wing. Expected winner on watch time, since the people who click it are the ones who will stay.
 
-Color: push the night-sodium orange of the street lights and desaturate everything else. One hot color against grey reads from across the room. No red arrows. One thin red circle is allowed in the bag variant only.
+**C. The Scale.** No face at all (Galloway's Verstappen point: the most famous face in the world was left out of the Red Bull thumbnail because the scene didn't need him). Wide shot, crates stacked head high, crowd, light towers, the bus with the Rebbe's face at the back. Text: **100,000 IN ONE NIGHT.** This is the one that reads on a TV from across the room, and TV is now half of long-form watch time.
 
-Variant B (A/B): the garbage bag on the curb, slightly open, one wing visible, your face in the corner, text **THIS BAG MOVED**. This is the stronger image emotionally and the weaker one for "cult" curiosity. Run it against Variant A for 72 hours; expect A to win on CTR and B to win on average view duration. Keep whichever one YouTube says is winning on watch time, not clicks.
+Do not use: blood, a knife at a throat, a dead bird's face. They win the click and lose retention because the viewer braces and leaves.
 
-Do not use: blood, a knife at a throat, a dead bird's face. They test well for the first click and tank retention because the viewer braces and leaves. The swing works because it is strange and alive.
+Thumbnail production, per Galloway: you cannot reshoot the event, but you can and should shoot you. Set a light to match the sodium-orange street, shoot 100 to 300 stills of your reaction at slightly different angles and micro-expressions, and composite into the best event frame. Pull the swing frame and the bag frame at full resolution now, before the edit, so the designer isn't working from a screenshot.
+
+**Launch protocol, per Galloway:**
+1. Before you press publish, write down the view count you expect at 1 hour, 1 day, 1 week. Your parts 1 and 2 numbers are the baseline. This video should be a 1-out-of-10 on your channel's last ten uploads. If it opens as a 4-out-of-10, that is panic, not patience.
+2. One title (#1). Three thumbnails (A, B, C) in YouTube's native test.
+3. Let the test pick the winner. Do not touch the title while the video is at or above expectation. Good data beats no data.
+4. If it is clearly under expectation at 24 hours: kill the test, bring in a fresh thumbnail concept, and only then try title #2.
+5. Metrics: views and the retention curve. Not CTR, not average view duration. Find the minute where the curve drops and fix that cut in the next video.
 
 **Part 3 short (vertical):** same swing frame, cropped tight, text **PART 3**, nothing else. The trilogy label is the click for people who saw parts 1 and 2.
 
