@@ -24,3 +24,7 @@
 - f = all real pixels: assets/rabbi_toi_4k_cutout.png (Times of Israel press photo, 1024px fetched from static-cdn.toi-media.com, remastered to 4K by Nano Banana, Flash90-style press image: LICENSE NOT CLEARED), kameron_studio_4k_cutout.png (studio photo remastered to 4K by Nano Banana, face untouched), bg_chabad_duotone.jpg (Wikimedia Commons KinusChabadJerufi.jpg, CC BY-SA 4.0, photo by Yossi Jerufi, 2022 Kinus HaShluchim group photo, duotoned), real sticker. Rabbi mirrored so the bird rises top-left; title right-aligned top-right; Kameron lower-right.
 - g = same with assets/wedge_red.png behind the figures and black MESSIAH!? (constructivist reference).
 - Style refs given: The Surfer (2024) poster, 1920s Soviet Jewish cinema poster, painted Godfather poster.
+
+## GPT-comp direction (2026-10-05, night)
+- Kameron made two comps in ChatGPT (assets/gpt_ref_night.jpg, gpt_ref_dusk.jpg) that nail the layout: presenter right, rabbi centre with bird up, crowd + 770, sticker on pole, title top-left. Nano Banana edit pass (refs: comp, rabbi_toi_4k, sticker, kameron_studio_4k) removed the title, swapped in the real sticker, kept Kameron's face; rabbi only partly matched the TOI photo. Results assets/gptfix_1..4.jpg (1-2 night, 3-4 dusk).
+- h = gptfix_2 + PP Formula title; i = gptfix_3 + PP Formula title. Text-free plates are gptfix_*.jpg. Generations 01a10e7a-f3a8 / -f398 (640 credits).
