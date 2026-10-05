@@ -333,18 +333,64 @@ Cards:
 
 ---
 
-## 4. TITLES, THUMBNAILS, CHAPTERS
+## 4. TITLES, THUMBNAILS, CHAPTERS — THE VIRAL FORMULA
 
-YouTube titles (test the top three with your thumbnail tool):
-1. I Filmed the Biggest Animal Sacrifice Night in America. Then I Found Out Who's Behind It.
-2. The Rehearsal: 100,000 Chickens, One Dead Rabbi, and the Third Temple
-3. They Pray for Animal Sacrifice to Come Back. I Filmed the Practice Run.
-4. Brooklyn's Chicken Sacrifice, Trump's Favorite Rabbi, and the Temple They Want to Rebuild
-5. The Night Before Yom Kippur: What I Saw at Kaporos (Part 3)
+Built from the data on 2026-10-05: Tyler Oliveira's 50 most-viewed long-forms, the past year's breakout videos with "cult" in the title, and vidIQ title scores on 13 candidates. Numbers in `research.md` C.
 
-Thumbnail: the bag on the curb, or the bird mid-swing with the prayer text "THIS IS MY SUBSTITUTE" in white, a Schneerson sticker visible in the corner. Your face small, not center. No red arrows.
+**The formula, in one line:** `[I Exposed / I Investigated] the [DOOMSDAY CULT] behind [America's Biggest ANIMAL SACRIFICE]...` with a thumbnail of a bird mid-swing, the Rebbe's face in frame, your face reacting, three words of text.
 
-Chapters:
+Why each piece:
+- **"I Exposed" / "I Investigated" + ellipsis.** It is Tyler's entire channel. Every one of his top videos starts this way, and the recent ones that over-performed hardest ("I Exposed the Most Corrupt Churches in America..." 20.7M, 3.4x his average; "Inside the Country that KILLS Illegal Immigrants..." 18.2M, 3.7x) are first-person, superlative, trailing off.
+- **"Cult."** The single highest-CTR word in this niche. In the past year: "764: The Internet's Most Disturbing Cult" 2.6M on a 115k channel (49x), "i was in a cult." 2.5M (103x), "I Exposed the Most Evil Cult in Mexico..." 7.6M (Tyler, Sept 2026), "Investigating the Most Dangerous Cult in America" 758k on 64k subs. "Doomsday cult" adds the end-times hook you actually have (Messiah, Temple, tunnel).
+- **"America's Biggest Animal Sacrifice."** True (the press now calls it "the largest ritual animal sacrifice in the United States"), superlative, and it says what the footage is without saying "chicken," which reads small. "Blood sacrifice" scores the same and is harsher; test it.
+- **No "Jewish," "Hasidic," or "Chabad" in the title.** Not for safety: for click psychology. The naming of the group is the reveal inside the video (Act 4), and the title promises a mystery ("the cult behind...") instead of pre-answering it. Tyler's two 2026 videos that did name the group ("Inside the New York Town Invaded by Welfare-Addicted Jews..." 10.8M; "I Exposed New Jersey's Jewish Invasion..." 10.2M) show the lane is primed and the comment wars are enormous (88k and 115k comments), but they also turned into videos about the group. Yours is about the altar. Keep the group as the second-act reveal and the Christians as the third-act twist. Put the names in the description and tags, where search lives.
+- **Search is not the engine.** "kaporos" is ~4.5k searches a month, "chabad" ~8k and falling, "chabad cult" under 750. "Yom Kippur" is 115k and spiking right now. Browse and suggested are what will carry this, so the title is written for CTR, and the description carries Yom Kippur, Kaporos, Kapparot, Chabad, 770, Rebbe, Third Temple for search.
+
+**Titles, ranked (vidIQ score, long-form):**
+
+| # | Title | Score |
+|---|---|---|
+| 1 | I Exposed the Doomsday Cult Behind America's Biggest Animal Sacrifice... | 98 |
+| 2 | I Exposed the Doomsday Cult Behind Brooklyn's Chicken Sacrifice... | 96 |
+| 3 | I Exposed the Cult That Wants to Bring Back Animal Sacrifice... | 96 |
+| 4 | I Infiltrated America's Biggest Blood Sacrifice (Christians Do It Too) | 96 |
+| 5 | I Exposed Brooklyn's Doomsday Cult... *attacked* | 95 |
+| 6 | I Investigated the Doomsday Cult in Brooklyn... *attacked* | 94 |
+| 7 | The Doomsday Cult Behind America's Biggest Animal Sacrifice | 94 |
+| 8 | I Investigated America's Largest Animal Sacrifice... | 92 |
+| 9 | I Investigated the Cult Preparing for the Third Temple... | 92 |
+| 10 | I Investigated the Cult That Sacrifices 100,000 Chickens in Brooklyn... | 89 |
+| 11 | The Doomsday Cult Every President Bows To... | 88 |
+| 12 | Inside the Brooklyn Cult That Worships a Dead Rabbi as the Messiah... | 87 |
+| 13 | I Filmed 100,000 Chickens Sacrificed in Brooklyn... *attacked* | 86 |
+
+Ship #1. Use YouTube's native title/thumbnail A/B test with #1, #3 and #4 for the first 72 hours. #4 is the one most on-brand for you and the only one that pre-loads the Christian twist; if it holds CTR within a point of #1, switch to it, because it brings the audience you want for Christspiracy rather than the audience that wants a video about Jews.
+
+"*attacked*" only if you have a real on-camera shove of you or your crew. Tyler uses it because it happens. If it's only activists being hit, it's a lie in the title and the comments will say so.
+
+**One rule about the word "cult."** The title promises it; Act 4 has to earn it on screen, in their own words: a dead man proclaimed Messiah, "Yechi" sung to him, the RCA's 1996 resolution, Berger's "scandal," 770 as the Temple-in-waiting, students tunnelling toward it. That is what makes the title a claim rather than a slur. If Act 4 gets cut down, the title gets cut down with it.
+
+**Thumbnail formula (Tyler's grammar, your footage):**
+
+Layout: three zones, read left to right in under a second.
+1. **The act.** Bird mid-swing above a man's head, wings open, motion blur. This is the image no one else on YouTube has. Shoot stills from your best frame; if none is sharp, composite from two frames. Fill 60 percent of the frame.
+2. **The face in the background.** A Schneerson poster or the bus, slightly out of focus, behind the swing. That is the "cult" promise without a word. The viewer sees a ritual and a leader's face and fills in the rest.
+3. **You.** Lower right, chest-up, head turned toward the act, mouth slightly open, eyebrows up, not cartoon-shocked. Tyler's face is in every thumbnail because it says "a person went there." Wear the hat only if the text on it is unreadable at thumbnail size; otherwise it fights the title text.
+
+Text: three words max, white or yellow, heavy sans, black stroke, top left. Options, test two:
+- **100,000 SACRIFICED**
+- **DOOMSDAY CULT**
+- **THIS BAG MOVED** (only with the bag variant below)
+
+Color: push the night-sodium orange of the street lights and desaturate everything else. One hot color against grey reads from across the room. No red arrows. One thin red circle is allowed in the bag variant only.
+
+Variant B (A/B): the garbage bag on the curb, slightly open, one wing visible, your face in the corner, text **THIS BAG MOVED**. This is the stronger image emotionally and the weaker one for "cult" curiosity. Run it against Variant A for 72 hours; expect A to win on CTR and B to win on average view duration. Keep whichever one YouTube says is winning on watch time, not clicks.
+
+Do not use: blood, a knife at a throat, a dead bird's face. They test well for the first click and tank retention because the viewer braces and leaves. The swing works because it is strange and alive.
+
+**Part 3 short (vertical):** same swing frame, cropped tight, text **PART 3**, nothing else. The trilogy label is the click for people who saw parts 1 and 2.
+
+**Chapters:**
 ```
 0:00  This bag is moving
 1:30  How I ended up in Brooklyn
@@ -359,13 +405,13 @@ Chapters:
 43:00 Where she is now
 ```
 
-Description, first two lines (what shows above the fold):
-> I went to New York for a beagle court case and ended up filming the biggest animal sacrifice night in America. Part 3 of 3, and the whole story.
+**Description, first two lines (above the fold):**
+> I went to New York for a beagle court case and ended up filming the biggest animal sacrifice in America, the night before Yom Kippur, run by a movement that believes its dead rabbi is the Messiah. Part 3 of 3, and the whole story.
 > Watch Christspiracy: [link]
 
-Pinned comment: the five-line prayer text, the rabbis who opposed the custom, and the Christspiracy link.
+Then the keyword block for search: Kaporos, Kapparot, Yom Kippur 2026, Chabad Lubavitch, 770 Eastern Parkway, the Rebbe, Menachem Mendel Schneerson, Moshiach, Third Temple, Temple Institute, red heifer, Crown Heights, Brooklyn, animal sacrifice, Christspiracy.
 
----
+Pinned comment: the five-line prayer text, the rabbis who opposed the custom, and the Christspiracy link.
 
 ## 5. B-ROLL AND ARCHIVE TO PULL
 

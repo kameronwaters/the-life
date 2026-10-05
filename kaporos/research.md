@@ -248,3 +248,53 @@ Compiled 2026-10-04. Some primary sites could not be fetched directly from this 
 | Chabad has its own ambulances | Hatzalah and Shomrim are independent Orthodox institutions, not Chabad-run. Mitzvah tanks are. |
 | 770 and the Third Temple | TRUE: the Rebbe taught in 1991 that 770 is where the Temple will first be revealed. |
 | Turkeys, hired immigrant slaughterers, activists attacked (2026) | Not in any press. Your footage only. |
+
+---
+
+## PART C — TITLE AND THUMBNAIL DATA (pulled 2026-10-05 via vidIQ)
+
+### C1. Tyler Oliveira, top long-forms (views, breakout vs channel average)
+- I Investigated the Country Where Every Drug is Legal... 28.3M (4.7x)
+- I Investigated the City of Real Life Zombies... 24.8M (5.5x)
+- I Investigated the Country that Legalized All Drugs... 21.8M (2.9x)
+- I Investigated the City that Banned Police... 21.6M (3.6x)
+- I Exposed the Most Corrupt Churches in America... 20.7M (3.4x), May 2025
+- Inside the Country that KILLS Illegal Immigrants... 18.2M (3.7x), 111k comments
+- I Investigated UFO Crash Sites Across America... 18.2M (4.0x)
+- I Snuck onto Jeffrey Epstein's Island... 17.8M
+- I Exposed Scammers in Rome! *attacked* 14.2M (2.2x)
+- I Exposed Scammers in Barcelona! *attacked* 13.1M (1.5x)
+- I Confronted Scammers in Paris! *attacked* 13.1M (2.1x)
+- Inside the New York Town Invaded by Welfare-Addicted Jews... 10.8M (1.8x), Jan 2026, 88k comments
+- I Exposed New Jersey's Jewish Invasion... 10.2M (1.7x), Feb 2026, 115k comments, 1h13m
+- I Confronted Drug Addicts in Seattle! *attacked* 10.0M (2.9x), Aug 2026
+- I Exposed the Most Evil Cult in Mexico... 7.6M (2.0x), Sept 2026
+Pattern: first person verb (Investigated / Exposed / Confronted / Snuck / Inside), one superlative or extreme, trailing ellipsis, "*attacked*" tag when it happened. Runtime trend: 30 to 75 minutes in 2025–2026.
+
+### C2. Past-year breakouts with "cult" in the title
+- 764: The Internet's Most Disturbing Cult, 2.6M on 115k subs (49x)
+- i was in a cult. (inside the IFB troubled teen industry), 2.5M on 583k subs (103x)
+- Investigating the Most Dangerous Cult in America | Tommy G, 758k on 64k subs (5.6x)
+- The Insane Cult of Turning Point USA, 698k on 144k subs (3.6x)
+- Eyes Wide Shut - How The Cult Planned EVERYTHING, 693k on 12.7k subs (103x)
+- The Cult of Saturn, [redacted]'s Temple, & TerraMar..., 1.16M on 217k subs (3.1x)
+
+### C3. Search volume (monthly, global unless noted)
+| Keyword | Searches | Trend |
+|---|---|---|
+| yom kippur | 115,704 | +459% (holiday spike) |
+| rebbe | 9,808 | flat |
+| 770 | 8,133 | +85% |
+| chabad | 8,102 | -56% |
+| kapparot | 5,026 | -46% |
+| kaporos | 4,558 | flat |
+| chabad lubavitch | 3,930 | flat |
+| chabad tunnels | <750 | dead |
+| chabad cult / chabad messianism | <750 | none |
+Read: nobody is searching for this. The video must win on browse CTR and retention, not search.
+
+### C4. vidIQ title scores (long-form, 0–100)
+See the table in `outline.md` section 4. Top: "I Exposed the Doomsday Cult Behind America's Biggest Animal Sacrifice..." 98.
+
+### C5. Not retrieved
+- Thumbnail images could not be fetched from this environment (image host blocked). The thumbnail formula in the outline is from the known grammar of the channel, not a frame-by-frame study of these specific thumbnails. Pull the six reference thumbnails yourself before the design pass: z1_O0HZRRqE, K_B6fa6hy4U, u6Q5DJTDyoQ, mt7HmjY5dJY, arIS3FByNYk, 8uM4ZrIrYbY.
