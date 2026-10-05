@@ -15,3 +15,10 @@ Positions (1280x720): line 1 at x40 y22, size 168; line 2 at x40 y190, size 168;
 - `house_comp_clean_kam.jpg` — same, on the clean frame with no poster.
 - `house_blend_kam.jpg` — Artlist blended you into the scene (mic in hand, same light, 130 credits), then house type on top. Seamless, but the pixels are generated. 2K original: https://mcp.artlist.io/mcp/download?u=https%3A%2F%2Fcms-toolkit-artifacts.artlist.io%2Fcontent%2F-e-x-t-e-r-n-a-l_-i-m-a-g-e_-t-o_-i-m-a-g-e-v1%2Fmedia__10%2Fimage-411e93ef-ae2b-43b9-a547-52b6c18dd246.png%3FExpires%3D2106572932%26Key-Pair-Id%3DK2ZDLYDZI2R1DF%26Signature%3DwrVpSMTJTMmjaO57VK0XTkp~wN9L1Kkj0FkX6GVtg2P8dC5D24Cf-dUjF0tJFBi0XfZMkPfnPis7TUnrPiUJ96TyzF8mxwTW4L-7s153dAclAwJyJ~CjDyteX1atRfv2nZKCRdnnhIs58AuDkAf-nGjM~T2BMagByVluM-4QFQOtXXGCkKzezSSirEFuNLo0xuVc1nc3aJZP7gR0y7fPB6X4yOoRpy7~6JvYkL05O3PsL4RrULpbj74RnrdBEmQTbX36FzxPsybKMJfAFEUeHA6UHOVNqB1or~Mh163yYnT1BrGl5daRN2aJ0~~gRYTNABV~JcVGbKECZnKTYpG-rg__&name=image-411e93ef-ae2b-43b9-a547-52b6c18dd246.png
 - `kam_onsite_cutout.png` — your cutout with alpha from the street selfie, reusable.
+
+## Real sticker (Reade St, Tribeca), 2026-10-05
+- `house_realsticker_kam_v2.jpg` — the swing frame, you from the street selfie, the real MESSIAH IS HERE sticker slapped on the crates bottom-right. Every element is a real photograph. **Final lead.**
+- `house_realsticker_v2.jpg` — same without you, sticker on the wall right of the bird.
+- `sticker_flat.jpg` — the sticker squared up off the signal box, reusable.
+- `source_sticker_reade_st.jpg` — the source photo.
+Sticker treatment: darkened to ~80%, warmed, half-pixel blur, tilted 3°, soft drop shadow. No generated pixels remain in the lead.
