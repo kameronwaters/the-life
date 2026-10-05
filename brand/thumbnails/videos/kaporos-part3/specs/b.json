@@ -1,9 +1,7 @@
 {
   "extends": "a.json",
   "layers": [
-    { "id": "plate", "shift": 60 },
-    { "id": "sticker", "x": 950, "y": 215, "w": 320, "rot": -2.5, "brightness": 0.78 },
-    { "id": "presenter", "height": 600, "cx": 0.77 }
+    { "id": "presenter", "height": 600, "cx": 0.21 }
   ],
   "grade": { "saturation": 0.80, "bloom": 0.12, "vignette": 0.45 },
   "post": [ { "type": "fade", "top": 270 } ],

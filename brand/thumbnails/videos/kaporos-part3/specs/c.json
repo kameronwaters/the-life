@@ -2,6 +2,7 @@
   "extends": "a.json",
   "layers": [
     { "id": "presenter", "remove": true },
-    { "id": "sticker", "x": 960, "y": 250, "w": 320, "rot": -2.5, "brightness": 0.78 }
+    { "id": "plate", "x": -260 },
+    { "id": "sticker", "x": 10, "y": 420, "w": 470, "rot": -4, "brightness": 0.78 }
   ]
 }
