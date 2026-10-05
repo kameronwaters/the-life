@@ -342,7 +342,7 @@ Built from the data on 2026-10-05 (Tyler Oliveira's 50 most-viewed long-forms, t
 **The formula, in one line:** title carries the sacrifice and the superlative, thumbnail carries the cult, and neither repeats the other.
 
 ```
-TITLE:      I Exposed the Cult Behind America's Biggest Animal Sacrifice...
+TITLE:      I Exposed the Doomsday Cult Behind America's Biggest Sacrifice...
 THUMBNAIL:  bird mid-swing, the Rebbe's face behind it, your face reacting,
             text: HE'S THE MESSIAH?
 ```
@@ -352,7 +352,7 @@ Why each piece, and where Galloway changed it:
 - **"I Exposed" + superlative + ellipsis.** Tyler's whole channel, and Galloway's "I found" principle: the first-person verb turns a topic into a story. His own demo went "best value GT3" to "I found the cheapest GT3" for exactly this reason.
 - **"Cult."** The highest click word in this niche (see C2). Galloway: a title must "pose a question you have to click to answer." "The cult behind" poses who.
 - **"America's Biggest Animal Sacrifice."** True, superlative, universal language. Galloway's curse-of-knowledge rule kills "Kaporos," "Chabad," "Hasidic," "Yom Kippur" in the title: a viewer in Manchester or Manila does not know those words and scrolls past. They go in the description.
-- **"Doomsday" is out of the title.** Galloway: fewest words that stay interesting, under about 60 characters where possible. "Doomsday Cult" version was 72 characters; this is 63. "Doomsday" was also doing the thumbnail's job. Which brings us to the biggest fix:
+- **"Doomsday" stays, "Animal" goes.** Galloway: fewest words that stay interesting, around 60 characters, but extra words that add a hook are allowed. "Doomsday" is a hook; "cult" alone is generic. The 72-character version risked truncating on phones and losing "Sacrifice." Dropping "Animal" instead gets it to 63, and the thumbnail shows the animal anyway, which is the complement rule doing its job. Which brings us to the biggest fix:
 - **The thumbnail text no longer repeats the title.** My first pass had "DOOMSDAY CULT" on the image under a title that said "Doomsday Cult." Galloway is explicit: title and thumbnail must complement, never repeat. So the image asks the question the title implies: **HE'S THE MESSIAH?** over the Rebbe's face. Title says cult, thumbnail says why.
 - **Click to unpause.** Galloway's test for a thumbnail is whether it looks like a frozen frame the viewer has to click to start. A bird mid-swing is exactly that. A posed shot of you is not.
 - **One title, three thumbnails.** His non-negotiable: pick the one title you would bet your career on and leave it alone; A/B test three *differentiated* thumbnails natively (not three color variants). Change the title only if the video falls below your own expectation.
@@ -362,11 +362,12 @@ Why each piece, and where Galloway changed it:
 
 | # | Title | Chars | vidIQ | Note |
 |---|---|---|---|---|
-| 1 | I Exposed the Cult Behind America's Biggest Animal Sacrifice... | 63 | 98 | Ship this. Question + superlative + first person. |
+| 1 | I Exposed the Doomsday Cult Behind America's Biggest Sacrifice... | 63 | 98 | Ship this. Question + superlative + first person. "Animal" is carried by the thumbnail. |
+| 1b | I Exposed the Cult Behind America's Biggest Animal Sacrifice... | 63 | 98 | Same length, generic "cult." Backup only. |
 | 2 | I Exposed America's Biggest Animal Sacrifice... and the Police Protect It | 73 | 99 | Galloway's contradiction format (his "cheapest GT3 but nobody will buy it"). Long, but he allows length that adds a hook. True: NYPD guards the sites and arrests activists; the courts ruled enforcement can't be compelled. Fallback title if #1 underperforms expectation. |
 | 3 | I Filmed America's Biggest Animal Sacrifice. Nobody Stops It. | 61 | 97 | Cleanest contradiction, bulletproof claim. |
 | 4 | I Exposed America's Biggest Animal Sacrifice... Christians Do It Too | 68 | 97 | The on-brand twist. Pre-loads Act 5. Best for the Christspiracy funnel, slightly smaller first click. |
-| 5 | I Exposed the Doomsday Cult Behind America's Biggest Animal Sacrifice... | 72 | 98 | Previous pick. Too long, and "doomsday" belongs on the image. |
+| 5 | I Exposed the Doomsday Cult Behind America's Biggest Animal Sacrifice... | 72 | 98 | Previous pick. Truncates on phones. |
 | 6 | The Cult Behind America's Biggest Animal Sacrifice | 50 | 94 | Shortest. Loses the first-person story. |
 | 7 | I Exposed the Cult That Wants to Bring Back Animal Sacrifice... | 63 | 96 | Good; weaker superlative. |
 | 8 | I Exposed Brooklyn's Doomsday Cult... *attacked* | 48 | 95 | Only if you were physically attacked on camera. |
