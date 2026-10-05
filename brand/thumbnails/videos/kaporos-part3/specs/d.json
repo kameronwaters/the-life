@@ -5,49 +5,36 @@
     {
       "id": "plate",
       "type": "plate",
-      "src": "assets/artlist_plate_4_notext_v2.jpg",
+      "src": "assets/relit_2.jpg",
       "fit": "cover"
-    },
-    {
-      "id": "presenter",
-      "type": "cutout",
-      "src": "assets/kameron_studio_cutout.png",
-      "crop": [
-        165,
-        28,
-        694,
-        552
-      ],
-      "height": 345,
-      "cx": 0.17
     }
   ],
   "grade": {
-    "clarity": 0.15,
-    "contrast": 1.04,
+    "clarity": 0.12,
+    "contrast": 1.03,
     "saturation": 0.95,
     "lift_blacks": 4,
-    "bloom": 0.05,
-    "vignette": 0.25,
-    "grain": 0.03
+    "bloom": 0.04,
+    "vignette": 0.2,
+    "grain": 0.025
   },
   "post": [
     {
       "type": "fade",
       "top": 300,
-      "strength": 0.55
+      "strength": 0.5
     }
   ],
   "text": {
     "font": "condensed",
-    "size": 176,
+    "size": 168,
     "x": 40,
-    "y": 62,
+    "y": 50,
     "lines": [
       {
         "t": "HE'S THE",
         "color": "white",
-        "advance": 172
+        "advance": 164
       },
       {
         "t": "MESSIAH!?",

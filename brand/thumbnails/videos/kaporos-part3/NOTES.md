@@ -14,3 +14,8 @@
 - e = Artlist plate 1 (assets/artlist_plate_1_notext.jpg, AI Kameron kept, cap intact) + PP Eiko Black Italic accent.
 - Grok v1 (old press still) and v2 (new brief) screenshots in out/_grok_designs*.png; comparison sheets out/_vs_grok.jpg and out/_vs_grok_artlist.jpg. Grok v1 repainted both faces; v2 is close but only available as screenshots (no download taken).
 - Artlist refs: assetIds 69316504 (studio selfie), 5635d446 (C9304 frame), 4f7a4919 (sticker); generations 01a10e0f (4 designs), 01a10e11-dbe4/dbe6 (text-free 4 and 1), 01a10e13 (text-free 4, cap still lost). ~1,120 credits total.
+
+## Relight pass (2026-10-05, later)
+- Pipeline that finally kept both likenesses: build the collage in-house with REAL pixels (assets/composite_d2_notext.jpg = Artlist scene plate + rabbi_cutout.png from C9304 + kameron_studio_cutout.png), upload it, and ask Nano Banana Pro only to relight/integrate ("do not repaint... pixel-identical"). Results assets/relit_1..4.jpg (1-2 subtle, 3-4 chiaroscuro/A24). relit_2 kept cap text + shirt + sticker; relit_4 blanked the sticker (patched with the sticker layer in e.json).
+- d = relit_2 + PP Formula; e = relit_4 + PP Eiko accent + real sticker patch. relit_2/relit_4 are the text-free plates if the type is placed by hand.
+- Artlist generations 01a10e27-53ff / 01a10e27-5417 (640 credits).
