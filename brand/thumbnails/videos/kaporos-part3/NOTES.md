@@ -19,3 +19,8 @@
 - Pipeline that finally kept both likenesses: build the collage in-house with REAL pixels (assets/composite_d2_notext.jpg = Artlist scene plate + rabbi_cutout.png from C9304 + kameron_studio_cutout.png), upload it, and ask Nano Banana Pro only to relight/integrate ("do not repaint... pixel-identical"). Results assets/relit_1..4.jpg (1-2 subtle, 3-4 chiaroscuro/A24). relit_2 kept cap text + shirt + sticker; relit_4 blanked the sticker (patched with the sticker layer in e.json).
 - d = relit_2 + PP Formula; e = relit_4 + PP Eiko accent + real sticker patch. relit_2/relit_4 are the text-free plates if the type is placed by hand.
 - Artlist generations 01a10e27-53ff / 01a10e27-5417 (640 credits).
+
+## Retro / Soviet-collage direction (2026-10-05, late)
+- f = all real pixels: assets/rabbi_toi_4k_cutout.png (Times of Israel press photo, 1024px fetched from static-cdn.toi-media.com, remastered to 4K by Nano Banana, Flash90-style press image: LICENSE NOT CLEARED), kameron_studio_4k_cutout.png (studio photo remastered to 4K by Nano Banana, face untouched), bg_chabad_duotone.jpg (Wikimedia Commons KinusChabadJerufi.jpg, CC BY-SA 4.0, photo by Yossi Jerufi, 2022 Kinus HaShluchim group photo, duotoned), real sticker. Rabbi mirrored so the bird rises top-left; title right-aligned top-right; Kameron lower-right.
+- g = same with assets/wedge_red.png behind the figures and black MESSIAH!? (constructivist reference).
+- Style refs given: The Surfer (2024) poster, 1920s Soviet Jewish cinema poster, painted Godfather poster.
