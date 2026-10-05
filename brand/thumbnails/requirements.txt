@@ -1,0 +1,5 @@
+pillow>=10
+numpy
+# background removal (only needed for `thumb cutout`)
+rembg[cpu]>=2.0.60
+onnxruntime
