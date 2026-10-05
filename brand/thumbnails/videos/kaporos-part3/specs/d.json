@@ -1,0 +1,58 @@
+{
+  "title": "I Exposed the Doomsday Cult Behind America's Biggest Sacrifice...",
+  "size": "yt",
+  "layers": [
+    {
+      "id": "plate",
+      "type": "plate",
+      "src": "assets/artlist_plate_4_notext_v2.jpg",
+      "fit": "cover"
+    },
+    {
+      "id": "presenter",
+      "type": "cutout",
+      "src": "assets/kameron_studio_cutout.png",
+      "crop": [
+        165,
+        28,
+        694,
+        552
+      ],
+      "height": 345,
+      "cx": 0.17
+    }
+  ],
+  "grade": {
+    "clarity": 0.15,
+    "contrast": 1.04,
+    "saturation": 0.95,
+    "lift_blacks": 4,
+    "bloom": 0.05,
+    "vignette": 0.25,
+    "grain": 0.03
+  },
+  "post": [
+    {
+      "type": "fade",
+      "top": 300,
+      "strength": 0.55
+    }
+  ],
+  "text": {
+    "font": "condensed",
+    "size": 176,
+    "x": 40,
+    "y": 62,
+    "lines": [
+      {
+        "t": "HE'S THE",
+        "color": "white",
+        "advance": 172
+      },
+      {
+        "t": "MESSIAH!?",
+        "color": "red"
+      }
+    ]
+  }
+}

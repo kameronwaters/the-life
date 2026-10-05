@@ -1,0 +1,32 @@
+{
+  "extends": "d.json",
+  "layers": [
+    {
+      "id": "plate",
+      "src": "assets/artlist_plate_1_notext.jpg"
+    },
+    {
+      "id": "presenter",
+      "remove": true
+    }
+  ],
+  "text": {
+    "size": 156,
+    "x": 36,
+    "y": 60,
+    "lines": [
+      {
+        "t": "HE'S THE",
+        "color": "white",
+        "advance": 170
+      },
+      {
+        "t": "Messiah!?",
+        "color": "red",
+        "font": "serif-italic",
+        "size": 118,
+        "stroke": 0
+      }
+    ]
+  }
+}
