@@ -2,16 +2,16 @@
   "title": "I Exposed the Doomsday Cult Behind America's Biggest Sacrifice...",
   "size": "yt",
   "layers": [
-    { "id": "plate",     "type": "plate",   "src": "assets/swing_frame.jpg", "shift": 100 },
-    { "id": "sticker",   "type": "sticker", "src": "assets/sticker_messiah_is_here.jpg", "x": 935, "y": 478, "w": 330, "rot": -3.5, "brightness": 0.82 },
-    { "id": "presenter", "type": "cutout",  "src": "assets/kameron_onsite_cutout.png", "crop": [150, 480, 1320, 1700], "height": 560, "cx": 0.66 }
+    { "id": "plate",     "type": "plate",   "src": "assets/swing_frame_real.jpg", "scale": 0.3833, "x": -130, "y": -50 },
+    { "id": "sticker",   "type": "sticker", "src": "assets/sticker_messiah_is_here.jpg", "x": 500, "y": 470, "w": 260, "rot": -3.5, "brightness": 0.82 },
+    { "id": "presenter", "type": "cutout",  "src": "assets/kameron_onsite_cutout.png", "crop": [245, 795, 2160, 2820], "height": 560, "cx": 0.22 }
   ],
   "grade": { "contrast": 1.14, "saturation": 0.82, "bloom": 0.10, "vignette": 0.42, "grain": 0.045 },
-  "post": [ { "type": "fade", "top": 330 } ],
+  "post": [ { "type": "fade", "top": 335 } ],
   "text": {
-    "font": "condensed", "size": 168, "x": 40, "y": 22,
+    "font": "condensed", "size": 176, "x": 40, "y": 62,
     "lines": [
-      { "t": "HE'S THE", "color": "white" },
+      { "t": "HE'S THE", "color": "white", "advance": 172 },
       { "t": "MESSIAH!?", "color": "red" }
     ]
   }

@@ -1,16 +1,44 @@
 {
-  "extends": "a.json",
+  "title": "I Exposed the Doomsday Cult Behind America's Biggest Sacrifice...",
+  "size": "yt",
+  "layers": [
+    {
+      "id": "plate",
+      "type": "plate",
+      "src": "assets/relit_2.jpg",
+      "fit": "cover"
+    }
+  ],
+  "grade": {
+    "clarity": 0.12,
+    "contrast": 1.03,
+    "saturation": 0.95,
+    "lift_blacks": 4,
+    "bloom": 0.04,
+    "vignette": 0.2,
+    "grain": 0.025
+  },
+  "post": [
+    {
+      "type": "fade",
+      "top": 300,
+      "strength": 0.5
+    }
+  ],
   "text": {
-    "size": 132,
+    "font": "condensed",
+    "size": 168,
+    "x": 40,
+    "y": 50,
     "lines": [
       {
-        "t": "THIRD TEMPLE",
-        "color": "red",
-        "advance": 132
+        "t": "HE'S THE",
+        "color": "white",
+        "advance": 164
       },
       {
-        "t": "REHEARSAL",
-        "color": "white"
+        "t": "MESSIAH!?",
+        "color": "red"
       }
     ]
   }
