@@ -1,0 +1,99 @@
+# sidewalk-ruach-nefesh-2026-09-19
+who: Sidewalk debate on ruach / nefesh: 'define ruach' / 'anything that moves… the breath of life' / 'trees also have…'
+date / place: 2026-09-19 (Final Day, night), Crown Heights | camera: A7 (Sony C9334, 5:10) | file: media/interviews/sidewalk-ruach-nefesh-2026-09-19.mp4 (1080p proxy; master `Final Day/camera/C9334.MP4`)
+consent: unknown
+best for: 2.9, 5.4 — 'call me any pasuk, I'll tell you' (0:00–0:15); the ruach/nefesh definition exchange
+note: whisper-cli large-v3-turbo on the proxy.
+
+Speaker labels are not in the whisper output; KAMERON's lines are the questions. Timecodes are [mm:ss] from the file above.
+
+```
+[00:00] Do you need to read your Bible?
+[00:01] I do. I know better than you, trust me.
+[00:04] Call me any pasuk, I'll tell you.
+[00:05] So tell me where ruach and defesh are,
+[00:08] where fruits have ruach and defesh.
+[00:11] It's defined ruach.
+[00:12] Ruach?
+[00:12] It's defined in the scripture.
+[00:15] Ruach means something that has a spirit.
+[00:17] Anything that moves, anything that moves, everything.
+[00:21] That also has a living ruach.
+[00:26] The breath of life.
+[00:28] Trees also have like ruach.
+[00:29] You got plenty of footage already, man.
+[00:33] You can do that all you want.
+[00:39] I'll give you a mimer.
+[00:40] Do you want to let a mimer with me?
+[00:42] When you take the fruit off of a tree,
+[00:44] the tree continues to live and grows more trees.
+[00:48] Right, but the apple doesn't.
+[00:49] That apple doesn't.
+[00:50] But if you take an apple off, it doesn't.
+[00:52] And you're eating an apple, not eating the tree.
+[00:54] No, the seed. The seed lives on.
+[00:56] But if you swallow the seed, it's not growing.
+[00:59] It grows after you pass through your system.
+[01:01] So I'm going to eat the chicken, and it'll continue growing.
+[01:03] It'll continue growing, he says.
+[01:05] The chicken grows after it ever is dead.
+[01:06] It'll grow in me, yeah.
+[01:07] I'm going to grow.
+[01:07] It grows in you.
+[01:08] I'm going to do good stuff.
+[01:09] There's blood on his face, man.
+[01:26] Right.
+[01:27] Without spilling blood in the street.
+[01:30] Stand there all you want.
+[01:32] Yeah, it's beautiful.
+[01:32] I'm saying that we're killing it.
+[01:40] We're killing it like it's not going away.
+[01:43] I told them, it's the veggies.
+[01:45] We have veggies.
+[01:46] We don't care about that.
+[01:49] They're vegan.
+[01:50] They eat fruits.
+[01:50] They eat fruits.
+[01:50] Which prophets? Tell me. Which prophets? Maybe go and tell them. Go get a bone. The prophets of the scripture of the Tanakh. Jeremiah. How do you bring a sacrifice? You can't kill the animal when you bring a sacrifice.
+[02:20] Do you know Hebrew? Yeah, they all bring. They bring lambs, they bring oxen. Kill them all the time.
+[02:29] Chesed. Chesed to God. God needs the kindness if you bring the sacrifice so often.
+[02:39] What does define murder? That's what you think. I think it's kindness.
+[02:48] Oh look, there's two sides of the fence. You're on that side, I'm on this side.
+[03:06] Wait, Alou, Alou.
+[03:16] Look at that. Look at that. What do you think about that?
+[03:29] It's saying in the Bible, it never speaks about bringing animals to the sacrificial of us, never.
+[03:33] The entire Leviticus, every single book, every single chapter of it speaks about it.
+[03:39] You're going to listen to the prophet, you're going to listen to the prophet, you're going to listen to God.
+[03:43] If God has something in the Bible, you're going to listen to that of the prophet.
+[03:46] So you're going to translate one prophet in one prophet.
+[03:51] Jeremiah said the Torah was falsified.
+[03:53] I know there's a whole book of the Bible, a whole book of the God's writings.
+[03:57] Jeremiah said god did not command that time.
+[04:10] I know you're not smart enough.
+[04:12] Dude, forget the scriptures, open your eyes.
+[04:14] You think God wants this?
+[04:16] I'm enjoying it.
+[04:17] Don't leave for your time.
+[04:18] I'm enjoying it.
+[04:19] That's what they want out of you.
+[04:20] You want to come here, they want to take you.
+[04:22] Open your eyes, man.
+[04:23] You guys speak whatever.
+[04:23] You're covered in blood.
+[04:25] You're covered in blood.
+[04:25] I know, it's good.
+[04:26] You want some?
+[04:26] No, I do not.
+[04:27] Well, if a chicken gets you, Daddy, what would happen?
+[04:29] Jeremiah said your skirts are stained with blood.
+[04:32] It's a den of paris, a den of murder.
+[04:39] God's house is meant to be a house of prayer, not murder.
+[04:44] Look at you, you're dropping chickens on the ground.
+[04:46] This isn't a house, man.
+[04:48] It's murder, it's murder.
+[04:49] What did it do for you?
+[04:51] What did it do for you?
+[04:53] What did it do for you?
+[04:57] What did you want me here defending you?
+[05:07] We don't stay here, we don't stay here.
+```

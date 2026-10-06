@@ -3,6 +3,9 @@
 #   brew install yt-dlp        (once)
 #   bash kaporos/sources/pull.sh
 # Output: articles/<n>-<slug>.pdf (+ .html)   video/<title> [id].mp4 (+ .info.json, subs)
+# Afterwards: `.venv/bin/python -I review_pdfs.py` (needs pypdf) lists empty / paywalled / Cloudflare-challenge PDFs, and
+# `python pdf_via_cdp.py <url> <out.pdf> 12` (needs websocket-client) re-prints one through a real headless Chrome that waits
+# out the Cloudflare "Just a moment" page; that cleared chabad.org, forward.com, congress.gov on 2026-10-06.
 set -u
 cd "$(dirname "$0")"
 mkdir -p articles html video
@@ -16,8 +19,12 @@ while IFS= read -r url; do
   slug=$(echo "$url" | sed -E 's#https?://(www\.)?##; s#[^A-Za-z0-9]+#-#g' | cut -c1-80)
   pdf="articles/$(printf '%03d' $n)-$slug.pdf"
   if [ ! -s "$pdf" ] && [ -n "$CHROME" ]; then
+    # Chrome writes the PDF and then sometimes never exits (seen on Chrome 154); run it under a timeout.
     "$CHROME" --headless --disable-gpu --no-pdf-header-footer --virtual-time-budget=8000 \
-      --print-to-pdf="$pdf" "$url" >/dev/null 2>&1 || echo "PDF failed: $url"
+      --print-to-pdf="$pdf" "$url" >/dev/null 2>&1 &
+    cpid=$!; for i in $(seq 1 60); do kill -0 $cpid 2>/dev/null || break; [ -s "$pdf" ] && { sleep 2; break; }; sleep 1; done
+    kill -0 $cpid 2>/dev/null && kill -9 $cpid 2>/dev/null; wait $cpid 2>/dev/null
+    [ -s "$pdf" ] || echo "PDF failed: $url"
   fi
   [ -s "html/$slug.html" ] || curl -sL -A "Mozilla/5.0" -m 30 -o "html/$slug.html" "$url" || echo "HTML failed: $url"
 done < urls.txt
