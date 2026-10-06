@@ -512,21 +512,25 @@ Thumbnail production, per Galloway: you cannot reshoot the event, but you can an
 4. If it is clearly under expectation at 24 hours: kill the test, bring in a fresh thumbnail concept, and only then try title #2.
 5. Metrics: views and the retention curve. Not CTR, not average view duration. Find the minute where the curve drops and fix that cut in the next video.
 
-**Part 3 short (vertical):** same swing frame, cropped tight, text **PART 3**, nothing else. The trilogy label is the click for people who saw parts 1 and 2.
+**Part 3 short (vertical):** same swing frame, cropped tight, text **PART 3**, nothing else. The trilogy label is the click for people who saw parts 1 and 2; the first three seconds (the bag) are the click for everyone else.
 
 **Chapters:**
 ```
 0:00  This bag is moving
-1:30  How I ended up in Brooklyn
-8:00  The week: crates, trucks, rescues
-20:00 Saturday night into Sunday
-27:00 The man on the stickers
-32:00 Trump, Netanyahu, and the Rebbe
-34:00 The slaughterhouse pardon
-35:30 The Third Temple
-37:00 Everybody has a Kaporos
-41:00 What Jesus did in the Temple
-43:00 Where she is now
+0:45  The first night
+3:00  The all-night rescue
+6:00  How I ended up in Brooklyn
+9:00  The trucks
+12:00 Who holds the knife
+16:00 The one who got away
+19:00 Saturday night into Sunday
+26:00 The man on the stickers
+31:00 Trump, Netanyahu, and the Rebbe
+33:00 The slaughterhouse pardon
+34:30 The Third Temple
+36:00 Everybody has a Kaporos
+40:00 What Jesus did in the Temple
+42:00 Where she is now
 ```
 
 **Description, first two lines (above the fold):**
