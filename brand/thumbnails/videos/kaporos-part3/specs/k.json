@@ -1,0 +1,10 @@
+{
+  "extends": "c.json",
+  "text": {
+    "size": 150, "y": 62,
+    "lines": [
+      { "t": "REHEARSING THE", "color": "white", "size": 104, "advance": 106 },
+      { "t": "THIRD TEMPLE", "color": "red" }
+    ]
+  }
+}
