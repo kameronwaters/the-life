@@ -455,6 +455,11 @@ Built from the data on 2026-10-05 (Tyler Oliveira's 50 most-viewed long-forms, t
 
 ```
 TITLE:      I Exposed the Doomsday Cult Behind America's Biggest Sacrifice...
+            + tail (hidden on phones past ~60 chars, visible on desktop/TV where half the watch time is):
+            LEAD      ... and Rescued 300 Birds          (use the number only if it is your group's count; else "Hundreds of Birds")
+            FALLBACK  ... The Rescuers Got Arrested      (only with the arrest on your own camera)
+            NOT USED  ... They Want World War III        (not delivered by the script; a promise the first 10 s can't keep)
+            Third Temple goes in thumbnail C, not the title: the title stays one idea.
 THUMBNAIL:  bird mid-swing, the Rebbe's face behind it, your face reacting,
             text: HE'S THE MESSIAH?
 ```

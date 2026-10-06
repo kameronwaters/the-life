@@ -1,7 +1,32 @@
 {
   "extends": "a.json",
   "layers": [
-    { "id": "presenter", "remove": true },
-    { "id": "sticker", "x": 960, "y": 250, "w": 320, "rot": -2.5, "brightness": 0.78 }
-  ]
+    {
+      "id": "presenter",
+      "remove": true
+    },
+    {
+      "id": "sticker",
+      "x": 960,
+      "y": 250,
+      "w": 320,
+      "rot": -2.5,
+      "brightness": 0.78
+    }
+  ],
+  "text": {
+    "size": 136,
+    "lines": [
+      {
+        "t": "REHEARSING THE",
+        "color": "white",
+        "size": 96,
+        "advance": 100
+      },
+      {
+        "t": "THIRD TEMPLE",
+        "color": "red"
+      }
+    ]
+  }
 }
