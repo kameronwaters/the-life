@@ -28,3 +28,7 @@
 ## GPT-comp direction (2026-10-05, night)
 - Kameron made two comps in ChatGPT (assets/gpt_ref_night.jpg, gpt_ref_dusk.jpg) that nail the layout: presenter right, rabbi centre with bird up, crowd + 770, sticker on pole, title top-left. Nano Banana edit pass (refs: comp, rabbi_toi_4k, sticker, kameron_studio_4k) removed the title, swapped in the real sticker, kept Kameron's face; rabbi only partly matched the TOI photo. Results assets/gptfix_1..4.jpg (1-2 night, 3-4 dusk).
 - h = gptfix_2 + PP Formula title; i = gptfix_3 + PP Formula title. Text-free plates are gptfix_*.jpg. Generations 01a10e7a-f3a8 / -f398 (640 credits).
+
+## Third Temple variants (2026-10-06) — PARKED
+- j (lead layout) and k (no presenter) put "THIRD TEMPLE REHEARSAL" on the swing frame. Rejected for this video: three ideas on one frame (chicken, Messiah sticker, Temple), nothing in the picture shows a temple, and "Third Temple" fails the universal-language test. Kept as specs for a follow-up video whose plate actually shows the altar (Temple Institute vessels / red heifer) with the swing inset.
+- Test set for this video: a (Messiah), b (serif Messiah), plus a rescue variant once the hen-in-the-air frame is in assets/.
