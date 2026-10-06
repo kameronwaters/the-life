@@ -436,9 +436,11 @@ Cards (TV rules: 50 to 70 percent of long-form watch time is now on televisions,
 
 ## 8. THE WEAVE — PARTS 1 AND 2, THE INTERVIEWS, THE SHORTS
 
-Status: structural. The pull-quotes and exact in/out points get written the moment the exports and transcripts
-are in `media/` and `transcripts/` (formats in those folders' READMEs). The cloud session cannot fetch Instagram,
-X or YouTube, so the material comes in through the repo from the laptop.
+Status: the material is in. Parts 1 and 2 (`media/part1.md`, `part2.md`, sheets, transcripts), `media/links.md`,
+sixteen interview and sidewalk transcripts (`transcripts/`), and the pull sheets (`transcripts/PULLSHEETS.md`: every usable
+line, timecode, beat, and the street shot it cuts against). The short list is "Pull-quotes by beat" below; exact in/out
+points come from the pull sheets. Still missing on tape: the triage woman from Woodstock, the Tribeca host, the hen's
+caretaker, a scholar.
 
 ### Parts 1 and 2 (already viral)
 
@@ -448,9 +450,13 @@ They are finished cinematic pieces, and the people most likely to click this fil
   core viewers leave, because they have seen it, and new viewers leave, because nothing has started. Their job up
   front is three shots each inside the cold-open loops (0:14 – 0:30), re-cut to one sentence apiece.
 - **Run them nearly whole, in place, as set pieces.** Part 1 is the first night: it becomes 2.1 – 2.2 (0:45 – 3:00),
-  its own sound design, its own pace, a one-second dip to black in and out, date stamp top-left. Part 2 is the
-  all-night rescue: it becomes 2.3 (3:00 – 6:00), and ends on you at the van at dawn, which is the exact frame Act 1
-  flashes back from. The film is literally built around them.
+  its own sound design, its own pace, a one-second dip to black in and out, date stamp top-left. **Correction from the
+  export:** Part 2 is not the all-night rescue. As cut (`media/part2.md`) it is the Day 3 sidewalk-slaughter piece: the
+  "Jew hater" man, Rina's "there's no excuse", the shochet at the cone, Jeremiah 7:22 on the beat, the hen across the road,
+  the turkeys. So Part 2 becomes 2.5 + 2.9 + 2.10 + 2.11 in one run (the middle of Act 2b), and 2.3, the all-night rescue,
+  is cut fresh from the Final Day glasses (video-1143 … 1273, IMG_4052 – 4085), the Truck report clips (C9254 – C9260)
+  and Rina's briefing (`transcripts/rina-deych-briefing-2026-09-19.md`). The dawn-at-the-van frame Act 1 flashes back
+  from has to come from that new cut, not from Part 2.
 - **Re-set every on-screen word in house type at TV size.** Social captions and platform-native text look cheap on
   a 65-inch screen. The lines stay, the typesetting changes.
 - **Never say "you may have seen this."** No reference to the shorts anywhere in the voiceover. The pinned comment
@@ -480,8 +486,133 @@ introduction. Slots, by beat, so the transcripts can be pulled straight into the
 | The hen's caretaker | 2.11 · end card | Her first week; the day she ate from a hand |
 | You, to camera | Act 4 desk · 5.6 | The only place you are a talking head, and only cut against your own footage every 60 seconds |
 
-Once a transcript lands I will write a pull sheet for it: every usable line, its timecode, the beat it belongs to,
-and the street shot it cuts against. Those sheets become the paper edit.
+The pull sheets are written (`transcripts/PULLSHEETS.md`). This is the short list, by beat; file names are the
+transcript slugs, timecodes are in the proxies in `media/interviews/`.
+
+### Pull-quotes by beat
+
+**Cold open (0:14 – 0:30 loops).** The bag: Act 3 footage with the rabbi file 5:58 under it, "The bags are still moving
+right now." The swing: Part 1 0:14 (the toddler under the swing). The turkey: Part 2 2:40. The arrests: Day 3 glasses
+IMG_3977 + camera C9232, not the Day 1 police clip (that one is a refused complaint, see 2.5).
+
+**2.1 First night.** Run Part 1's sins-transfer exchange at full length from `sidewalk-sins-transfer-2026-09-14` 1:06 – 2:15:
+"The sin is transferring to the chicken, we hope. That's also a debate between people… Does someone eat these chickens?
+All the chickens are being eaten. It comes back in the store. To all the stores." Then 5:23 – 5:52, "The rabbis came and
+they said we should do this. We follow them." "But did Hashem say?" "Yes, no, a lot of things." The man's own best answer
+is at 5:56: "Every Shabbat there's things we don't do because God said keep the Shabbat. He didn't say what and when
+exactly. Go to a rabbi and discuss." Give him that.
+
+**2.2 The crates.** Rina (`rina-deych-2026-09-16`) 1:40: "These chickens don't get any food and water. They die of
+dehydration and starvation and heat prostration… they freeze to death." Her briefing (`rina-deych-briefing-2026-09-19`)
+1:39: "The crates are thrown so violently and dragged, their toes and their feet break off. We find toes at these
+locations." Rina 2:26 over the Part 1 bone shot: "two chickens with their wings broken, open fractures. I'm a nurse by
+profession. You could see the bones jutting." Vanessa (`vanessa-dawson-2026-09-16`) 2:03 for the cold years.
+
+**2.3 The all-night rescue (new cut).** The system in Rina's words, briefing 1:58 – 2:49: "We have a specific rescue
+team… we can only rescue as many as we have homes, and we're beyond capacity. The only chickens we're going to rescue
+tonight are ones relinquished to us. We have Dr. Cleary here, evaluating them, identifying the ones that need serious
+rescue. Then we work with community affairs to negotiate them to us." That is the triage the Woodstock woman runs, said by
+the person who runs the night. Feeding the birds: briefing 0:54, "we give the chickens a little relief before they're
+swung," over glasses video-1219 1:24.
+
+**2.4 The U-Haul trucks.** `sidewalk-minors-torah-2026-09-19` 5:07, the officer: "You're with Rina, right?" "There's a dead
+chicken hanging out of the truck here." "I got you. I can't do anything about it right now." Rina 2:41 for the shop
+negotiation ("told that the owner's not there. I don't believe that for a minute"). The cop's framing of the law,
+`police-injured-bird-2026-09-14` 1:41: "I guess the government allows them to do this. They have an issue that it's
+against the mental hygiene law, so it's just a back and forth."
+
+**2.5 Activists attacked.** Part 1 0:06 – 0:10 ("Put it back", "She's dying", "I don't give a sh*t"), then the police file
+0:00 – 0:55: "The person that got assaulted never called, so we don't really have a complaint," and 3:50: "Did they give
+you any instructions for a bird in distress, dehydrated, bleeding out?" "No. We didn't get instructions." The other
+side's word for rescue, rabbi file 0:40: "Do not steal. They just stole, and they covered their face."
+
+**2.6 The children.** Rina's briefing 0:25 – 0:50 (the clean take): "'The chickens are crying.' The mother: 'they're not
+crying, they're singing, they're happy to do this for you.' I tell the little kid, you're right. They're not singing.
+They're crying." Why the kids get pulled away, in an adult's voice, `sidewalk-jeremiah-2026-09-14` 5:53: "They're
+impressionable young people. Curious questions from a genuine place are very dangerous." The resident
+(`resident-uses-cash-2026-09-19`) 9:24: "The same reason I wouldn't take my kids to a sweatshop."
+
+**2.7 The hired slaughterers.** Joseph (`joseph-shop-owner-2026-09-15`) 26:28: "Can I see the slaughter?" "No. It's better
+for you not to see. Because you're too against it." 26:57: "They are very holy. And pictures is not the holiest thing for
+them." 27:43: "We do it all year. This is my shop." Voice-only laborer line stays on glasses video-1197 2:35.
+
+**2.8 The raw meat.** Joseph 7:54: "You transfer the sin and you eat the chicken." 10:25 for the salt and blood.
+
+**2.9 The arguments.** Their best answers first: the resident 0:52 – 1:35 (mortality, "be part of the process") and 5:18
+("we're bringing it out of the warehouses, that I'm largely against as well, into the community"); the rabbi 0:12
+("Torah is bigger than the five books of Moses"); the lions file (`practitioner-lions-2026-09-19`) 4:41 ("'not sacrifice'
+means in vain… you have to read the sages"); Joseph 13:12 ("Jeremiah? It's still not Hashem. Hosea? Same thing. The only
+thing is Moses"). Then the exchanges: rabbi 0:00 – 0:11 ("I'm the rabbi, you're not." "Show me in the Torah where it says
+to swing a chicken over your head and slit its throat. Show me the verse."), rabbi 3:38 – 4:16 uncut ("every video taken
+of me gets retorted… What does Jeremiah mean by God did not command sacrifices?" three times, no answer), Joseph 0:53
+("God wants us to kill the animals and send them to heaven." "Yes."), Joseph 24:07 – 24:45 ("They scream for their
+lives." "No, they don't scream… Take me in."), lions 4:41 – 5:12 ("It's the priest versus the prophet. I choose the
+prophet." "No way." "I like him."), and the pattern of two men who don't read Genesis (Joseph 12:12, sins-transfer 7:47),
+stated as a pattern, not a gotcha. Comic relief, one only: lions 0:16 or ruach 0:42.
+
+**2.10 The turkeys.** Part 2 2:34 – 2:56. Under it, Day 1, `sidewalk-jeremiah-2026-09-14` 3:30: "Go to Smithfield, go to the
+meatpacking plants." "I agree, those are sacrifices too." "It's no different. This is how society has worked ever since.
+People will always eat animals." They made the Act 5 argument for you on night one. Plant it here.
+
+**2.11 The one who got away.** Part 2 1:04 – 1:16 with the rabbi file 6:15 under it, "These chickens are escaping, man."
+Then the sanctuary. End-card VO candidate from `sidewalk-moses-yeshua-2026-09-19` 2:46: "What were chickens made for?"
+"To be a chicken. To live its life." "And to accomplish what?" "The beauty of Hashem's creation."
+
+**2.12 Penelope's Place.** Vanessa 0:43 – 1:07 whole: "Penelope was the first chicken I ever rescued from Kaporos, back in
+2014. Before I even knew there was a team, I was walking to the grocery store… She became a house chicken and changed
+everything. She started a sanctuary based on that day." 0:21: "Since 2014. It never gets easier, knowing just what their
+fate is going to be." The 2018 trash-bag chicken (1:15 – 1:54) belongs to Act 3 beat 4.
+
+**2.13 The Jews who were there to stop it.** Rina 0:00 ("My name is Rina Deych. I've been doing this for 30 years"), 0:11
+("I come from 18 generations of rabbis. Nobody in my family did this. No rabbi."), 0:28 – 1:07 (Karo, "a foolish custom",
+the Rema: she gives the whole receipt herself, so the VO only needs the Rashba and the OU), 4:15 ("It's an abomination. And
+it's an embarrassment to me as a Jewish person. I think this is a stain on Judaism."), 0:23 ("You can use a sack of money
+instead of swinging a chicken"). Practitioners conceding it: the resident 2:42 ("This is not a direct commandment from God.
+This is something developed."), Joseph 9:13 ("When you give money for the poor, it's the same thing." "So then why is
+the chicken necessary?" "So it has a meaning."), Joseph 21:40 – 22:08 (sin-transfer comes from Kabbalah, "What proof?"
+"Kabbalah."), `sidewalk-abortion-2026-09-19` 2:57 ("not in the Tanakh or the Torah." "This is true." — check by ear).
+The hardest line of the week, `sidewalk-sins-transfer-2026-09-14` 6:19 – 7:15: "I know my mother did it. My father did it.
+My great-grandmother in Europe, before World War II… I don't ask. My father did it, I did it… A lot of people changed to
+money, but their father didn't. When Hitler was killing people they didn't have chicken; they changed to money. Not because
+they wanted. They were forced." Handle with care; it is the most honest thing anyone said.
+
+**Act 3.** Beat 1–2: Rina's briefing 0:00 ("These people are not sadists… they don't believe that they're hurting the
+chickens. They really don't.") over the arrival; the rabbi 2:53 ("I dare you. Come to 770."); the lions file 2:36 ("It's
+the minhag of the Rebbe. A tradition of the Rebbe… at 770") is the only practitioner on tape who ties the custom to the
+Rebbe, and it is a 4.2 pull as much as an Act 3 one. Beat 3: `sidewalk-ruach-nefesh-2026-09-19` 4:10 – 4:26, "You're
+covered in blood." "I know. It's good. You want some?" and 1:09, "There's blood on his face, man." Beat 4: rabbi 5:58,
+"The bags are still moving right now. I've got a lot of that footage." "It's disgusting, bro." Vanessa 1:15 (the 2018 bag)
+and abortion file 3:26 ("Most of them go to the trash"). Your Temple line on the street, ruach 4:29: "Jeremiah said your
+skirts are stained with blood. It's a den of paritzim. God's house is meant to be a house of prayer, not murder."
+
+**Act 4.** 4.2: lions 2:36 (above); Joseph 2:34 ("a lot of people still need to come to us. Everyone. Not just Hebrews.
+When that will happen, you win the argument"); sins-transfer 6:41 ("the new generation, with AI, are skipping it a little
+bit"). 4.6: the camera angle (`joseph-shop-owner-camera-2026-09-15`) 2:46 – 3:21, "The temple's coming back. Through the
+red heifer. It's coming back forever. Very soon." and 5:02 – 5:31, "If there is going to be sacrifice there, then that's
+what Hashem wants." "So then Isaiah was wrong." "That's correct." "So God changes his mind?" "Every year a new scripture."
+Also Joseph 28:13 – 28:45 ("We are ending an age… We still have to wait it out"), 8:51 ("the sin gets out, because the
+blood gets out… The blood cleanses the sin"), the resident 3:05 ("a lot of those commandments depend on having the
+temple") and 8:54 (the Temple blood "was a visual thing"). 4.7: camera angle 8:21 – 9:10, "Live in peace with bloodshed?"
+"Yes." "Even if it's done to you?" "Yes… we don't murder anybody. Only that's below us." "So might makes right?" "Yes.
+That's what Hashem wants." And Joseph 9:47 – 10:12, "Every life thing has a soul." "Its purpose is life?" "No. It's death,
+definitely. Because it's made for human to eat." Read the Tanya page, then let those two play.
+
+**Act 5.** 5.1 – 5.3: the resident 6:35 – 7:14 ("No one here is slaughtering their own chickens. The shochet is part of
+standard meat production." "How is slitting the throat not murder?" "That's standard meat production." "There's two
+conversations. Kaporos is a practice, and 'meat is murder' is another conversation.") That is the turn; he names it. Rina
+5:09 ("Is this different from a Chick-fil-A slaughterhouse?" "It isn't.") and 6:57 – 7:49 ("Chicken factories are behind
+walls… here it's out in the open… they need to start making connections to what they're eating"). Day 1, 3:30 ("People
+will always eat animals"). 5.4: Joseph 15:04, "The prophets have their things. They have their ways. They have their
+agendas." Rina 3:59, "This goes against every compassionate tenet in the Bible, in the Torah, in the Talmud." 5.5: the
+resident 8:23 – 8:54, "'I put my sins on this chicken and now I don't have to worry' — that's Christianity. We don't do
+that. At least we use the chicken; they use a man." Joseph 17:00 ("He could have been the Mashiach, but he wasn't. He
+failed. By thinking that he is God."), moses-yeshua 0:00 – 1:00, rabbi 6:49 – 7:09 ("A good shepherd cares for the life of
+his sheep"). 5.6: your line in the field, camera angle 6:11: "The reign of God on earth is when we stop slaughtering God's
+creatures."
+
+**End card.** Rina 7:29 ("everybody driving through can see this, because they need to start making connections") or
+4:43 – 5:03 ("I can't stand to see anybody suffer… Same reason I'm here with the chickens"), with 0:23 on the last card:
+"You can use a sack of money instead of swinging a chicken."
 
 ### The archive as B-roll
 
@@ -507,12 +638,15 @@ Parts 1 and 2 material in these: only in the cutdowns, and only the single best 
 
 ### What I need, in order
 
-1. `media/part1.mp4` and `media/part2.mp4` with sheets and transcripts (run `media/sheet.sh` and `media/transcribe.sh`).
-2. The interview transcripts from the other chat, in `transcripts/` in the README format. The raw interview files
-   with sheets if they exist.
-3. `media/links.md`.
-4. `bash kaporos/sources/pull.sh` run once on the laptop, PDFs committed.
-5. The two facts for the title tail: your bird count, and whether an arrest is on your camera.
+1. ~~`media/part1.mp4` and `media/part2.mp4` with sheets and transcripts~~ done 2026-10-06.
+2. ~~The interview transcripts~~ done: sixteen files in `transcripts/`, proxies in `media/interviews/`.
+3. ~~`media/links.md`~~ done.
+4. ~~`bash kaporos/sources/pull.sh`~~ done: 99/105 PDFs, 11 archive clips; the six paywalls and the seven missing clips are
+   listed in `sources/README.md`.
+5. The two facts for the title tail: your bird count, and whether an arrest is on your camera (the Day 1 police clip is a
+   refused complaint; the Day 3 arrests are glasses IMG_3977 and camera C9232, so the answer is yes, and it is Day 3).
+6. The all-night rescue cut (2.3), now that Part 2 turns out not to be it: Final Day glasses + Truck report + Rina's briefing.
+7. Still not on tape: the triage woman, the Tribeca host, the hen's caretaker, a scholar.
 
 ---
 
