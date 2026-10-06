@@ -434,6 +434,88 @@ Cards (TV rules: 50 to 70 percent of long-form watch time is now on televisions,
 
 ---
 
+## 8. THE WEAVE — PARTS 1 AND 2, THE INTERVIEWS, THE SHORTS
+
+Status: structural. The pull-quotes and exact in/out points get written the moment the exports and transcripts
+are in `media/` and `transcripts/` (formats in those folders' READMEs). The cloud session cannot fetch Instagram,
+X or YouTube, so the material comes in through the repo from the laptop.
+
+### Parts 1 and 2 (already viral)
+
+They are finished cinematic pieces, and the people most likely to click this film have already watched them. So:
+
+- **Do not run either one whole at the top.** Galloway's trailer rule: a highlight reel before the story is where
+  core viewers leave, because they have seen it, and new viewers leave, because nothing has started. Their job up
+  front is three shots each inside the cold-open loops (0:14 – 0:30), re-cut to one sentence apiece.
+- **Run them nearly whole, in place, as set pieces.** Part 1 is the first night: it becomes 2.1 – 2.2 (0:45 – 3:00),
+  its own sound design, its own pace, a one-second dip to black in and out, date stamp top-left. Part 2 is the
+  all-night rescue: it becomes 2.3 (3:00 – 6:00), and ends on you at the van at dawn, which is the exact frame Act 1
+  flashes back from. The film is literally built around them.
+- **Re-set every on-screen word in house type at TV size.** Social captions and platform-native text look cheap on
+  a 65-inch screen. The lines stay, the typesetting changes.
+- **Never say "you may have seen this."** No reference to the shorts anywhere in the voiceover. The pinned comment
+  carries the trilogy.
+- **The music.** If the shorts' tracks were licensed for Instagram only, re-score from the Artlist shortlist
+  (`music.md`). If they are Artlist tracks on the channel licence, keep them: the audience already associates that
+  sound with this footage.
+
+Intake: `media/part1.mp4`, `media/part2.mp4`, their frame sheets, their transcripts, and `media/links.md` with the
+IG / X / YT URLs, dates and view counts (the counts go on screen nowhere; they go in the description and the pitch).
+
+### Interviews as A-roll
+
+Rule: nobody is a talking head. Each line is cut at the moment in the street footage where it is answered, at most
+20 to 30 seconds of a face before the street comes back, lower third once, and the interviewee's first words do the
+introduction. Slots, by beat, so the transcripts can be pulled straight into them:
+
+| Voice | Slots | What the slot needs from them |
+|---|---|---|
+| Rina Deych | 2.4 · 2.13 · 4.2 · 5.4 · end card | The U-Haul night as she ran it; "this has nothing to do with Judaism"; her rabbinic family; the prophets as a Jew reads them; "use money" |
+| The triage woman | Act 1 beat 5 · 2.3 · 2.11 | The cafe from her side (why she said one word and left); the triage system; the hen's first hour |
+| Vanessa Dawson | 2.12 · end card | Penelope's crate, the therapy swing, the name on the gate; why she was back on the sidewalk this year |
+| The Tribeca host | Act 1 beat 6 | One answer: why a stranger got a bed. 20 seconds. |
+| A practitioner on record | 2.9 · 3.2 · 4.2 | Their best answer on the prophets; what the money is for; what they believe about the Rebbe, in their own words. A believer saying it beats you saying it. |
+| A scholar on Chabad messianism | 4.2 · 4.6 · 4.7 | The 1996 resolution and what it meant; 770 as the sanctuary of exile; the Tanya passage and its defences |
+| The hired laborer | 2.7 · 4.5 | Voice only, no face, no name. "They didn't tell us what it was." Comes back under the Postville footage. |
+| The hen's caretaker | 2.11 · end card | Her first week; the day she ate from a hand |
+| You, to camera | Act 4 desk · 5.6 | The only place you are a talking head, and only cut against your own footage every 60 seconds |
+
+Once a transcript lands I will write a pull sheet for it: every usable line, its timecode, the beat it belongs to,
+and the street shot it cuts against. Those sheets become the paper edit.
+
+### The archive as B-roll
+
+The list is in `sources/videos.txt` by act, and `sources/pull.sh` fetches it on the laptop. Rules: every clip is
+short, attributed on screen, never the hero image of a thumbnail, and mainstream outlets only for the tunnel.
+Articles become source cards (`sources/articles/*.pdf`), full-width, readable from a couch, held for three seconds.
+
+### The shorts that point at this film
+
+Three different pieces, because three jobs:
+
+1. **Part 3 (the closer).** Already scripted in §1. Closes the trilogy on the Saturday-night footage, turns on the
+   stickers, cliffhangs into "who is he." Posts the day before the long-form. Its last card is the film's title.
+2. **The reveal short (the promo).** 45 to 60 seconds, built only from material the shorts never showed: stickers →
+   the bus → Trump at the grave → the proclamation with a signature → the altar → the swing. VO is the cold-open
+   loops. Posts the day the film goes up, link in bio and pinned. It must not be the film's first 45 seconds shot
+   for shot: someone who watched the short and then opens the film sees the same cut and leaves. Same beats,
+   different shots.
+3. **Cutdowns, 15 to 20 seconds, one idea each,** for the week after: the hen's flight; the prayer on the beat of
+   the swing; the trucks; "every president since Carter." Each ends on the title card and "full film on YouTube."
+
+Parts 1 and 2 material in these: only in the cutdowns, and only the single best shot each, as a callback.
+
+### What I need, in order
+
+1. `media/part1.mp4` and `media/part2.mp4` with sheets and transcripts (run `media/sheet.sh` and `media/transcribe.sh`).
+2. The interview transcripts from the other chat, in `transcripts/` in the README format. The raw interview files
+   with sheets if they exist.
+3. `media/links.md`.
+4. `bash kaporos/sources/pull.sh` run once on the laptop, PDFs committed.
+5. The two facts for the title tail: your bird count, and whether an arrest is on your camera.
+
+---
+
 ## 3. INTERVIEWS AND VOICES TO GET (ranked)
 
 1. **Rina Deych** ("Nina" in your notes) — the Jewish voice from a rabbinic family, and the rescue lead. Without her the piece is a Christian filming Jews. With her it is an argument inside the tradition, filmed by a witness. Non-negotiable.
@@ -542,6 +624,8 @@ Then the keyword block for search: Kaporos, Kapparot, Yom Kippur 2026, Chabad Lu
 Pinned comment: the five-line prayer text, the rabbis who opposed the custom, and the Christspiracy link.
 
 ## 5. B-ROLL AND ARCHIVE TO PULL
+
+The fetchable list is `sources/videos.txt` and `sources/urls.txt`; `sources/pull.sh` archives all of it on the laptop.
 
 - Your footage: everything from the week, logged by date and time. The bag. The swing. The trucks. The cop waving. The hen's flight. The turkeys. The laborers (faces obscured). The kids (faces obscured). Nina. The bus. The stickers (collect at least ten different locations across boroughs; they are the visual motif of the film).
 - Archive: the 1990 Netanyahu clip; Trump at the Ohel 2016 and 2024; Education and Sharing Day proclamations (screenshots, each president); Congressional Gold Medal; Rubashkin welcome-home footage; the 2004 Agriprocessors undercover footage; the 2008 Postville raid news; the 2024 tunnel news footage (mainstream outlets only); Temple Institute's own promo videos; the red heifer arrival in Israel 2022; Yechi chanting at 770.
