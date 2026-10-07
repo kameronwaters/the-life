@@ -204,219 +204,346 @@ Galloway writes the thumbnail and intro shot list before the shoot. The street i
 
 ---
 
+## HOW TO READ THE SCRIPT BELOW
+
+Each beat has FOOTAGE (what is on screen), VO (your voiceover, as written), and PULL lines (interview or sidewalk audio,
+by transcript slug and [mm:ss] in the proxy in `media/interviews/`; glasses clips by their ~/kaporos_2026 name). KAM = you.
+A PULL is cut at the moment in the street footage where it is answered; at most 20–30 s of a face before the street comes
+back; lower third once, and the person's first words do the introduction. Quotes are tidied from whisper output: check each
+by ear before it goes on a lower third. Date stamps go top-left on every sequence. Blur every minor; never use audio where a
+child can be identified. The long list of alternates for every beat is `transcripts/PULLSHEETS.md`.
+
 ## COLD OPEN (0:00 – 0:45)
 
 Rewritten to Paddy Galloway's intro rules: deliver on the title's promise in the first 10 seconds (visually, not verbally), open loops with the least context possible, under 45 seconds, and flow straight into the story with a connecting sentence. No self-introduction. The hat introduces you later.
 
 ```
-0:00  BLACK. Street at 3 a.m. Crates. Chanting.
-0:01  FOOTAGE: the garbage bag. It moves.
+0:00  BLACK. Street at 3 a.m. Crates. Chanting.          (Final Day camera; glasses video-1199 0:00 for the chant)
+0:01  FOOTAGE: the garbage bag. It moves.                 (Final Day camera, the bags)
+      UNDER IT, audio only, rabbi-show-me-the-verse 5:58:
+      A MAN: "The bags are still moving right now."
       VO: "This bag is moving."
-0:04  FOOTAGE: the swing, slow motion, wings open. Prayer text on screen,
-      one line per beat: THIS IS MY SUBSTITUTE. THIS ROOSTER GOES TO ITS DEATH.
+0:04  FOOTAGE: the swing, slow motion, wings open.        (Part 1 0:14–0:16, the toddler under the swing)
+      Prayer text on screen, one line per beat: THIS IS MY SUBSTITUTE. THIS ROOSTER GOES TO ITS DEATH.
       VO: "A hundred thousand of these in Brooklyn, in one week."
-0:09  SMASH CUT: the bus with the Rebbe's face. Men chanting "Yechi."
+0:09  SMASH CUT: the bus with the Rebbe's face. Men chanting "Yechi."   (Final Day camera C9277; Singing Yechi archive)
       A lamppost sticker: MOSHIACH IS COMING.
       VO: "Run by people who believe this man is the Messiah."
-      (That is the title's promise, delivered, at nine seconds: the sacrifice
-      and the cult, both on screen, before a single line of backstory.)
 0:14  FAST LOOPS, one shot each, no explanation:
-      - Trump at the grave, kippah on.      VO: "A president prayed at his grave."
-      - The 770 tunnel news footage.        VO: "His followers dug a tunnel under Brooklyn."
-      - Cops cuffing an activist holding a dead bird.
-                                            VO: "The people trying to stop it got arrested."
-      - A turkey on the sidewalk.           VO: "And by the end, you're going to see
-                                                 yourself in this footage."
-0:30  FOOTAGE: you, handheld, dawn, carriers full of birds. Then the Education Day
-      proclamation with a presidential signature, half a second.
+      - Trump at the grave, kippah on.                    VO: "A president prayed at his grave."
+      - The 770 tunnel news footage (ABC7 clip).          VO: "His followers dug a tunnel under Brooklyn."
+      - Cops cuffing an activist holding a dead bird.     VO: "The people trying to stop it got arrested."
+        (Day 3 glasses IMG_3977 0:00–0:30 + camera C9232)
+      - A turkey on the sidewalk (Part 2 2:40).           VO: "And by the end, you're going to see
+                                                               yourself in this footage."
+0:30  FOOTAGE: you, handheld, dawn, carriers full of birds (Part 1 2:50 gloved hands over crates; Final Day dawn).
+      Then the Education Day proclamation with a presidential signature, half a second.
       VO: "Seven nights. Three hundred birds carried out. One prayer, said out loud
            over every one of them. And a man every president since Carter has
            signed a day for, whose followers are waiting on an altar.
            It started on a Tuesday, with a bag."
 0:42  CUT straight into the first night's footage (Act 2a) on "a bag." No title card.
-      Title card lands at the end of Act 1 (around 9:00), on the drive into the city,
-      by which point the viewer has earned it.
 ```
 
-Three things that line does, in Galloway's terms: it signals effort (seven nights, three hundred birds: viewers stay for visible difficulty), it states the stake once in plain words (the power and the altar), and the last sentence is the first sentence of the story. Nothing in it says who you are. The hat does that at minute six.
-
-Rules this follows, so you don't undo them in the edit: the first ten seconds show exactly what the title and thumbnail promised. Every loop is one sentence with no context (who, when, why come later, drip-fed). Nothing says "I'm Kameron, I make films about religion and animals"; the viewer learns who you are from the hat and the beagle line. The last line of the intro is the first line of the story.
-
-Avoid, anywhere in the voiceover, closure language before the end: "at the end of the day," "so to wrap up," "in conclusion," "finally." Galloway's retention curves show viewers hear those as the exit cue and leave.
-
-## ACT 1 — THE ROAD (6:00 – 9:00, flashback, three minutes hard cap)
-
-Placement: after 2.3, the all-night rescue. The viewer has just watched you carry birds out until dawn. Freeze on you at the van, then:
-> "I should tell you I had no plan to be here. Three weeks before this I was in a courtroom upstate. For a beagle."
-
-Purpose: make the viewer trust you. You are not a guy who came looking for this. It came looking for you. Tell it straight and let the synchronicities land on their own. Do not say "synchronicity" more than once. Let them count.
-
-Budget: the seven beats below in 180 seconds, which means roughly 25 seconds each. The Beagle Summit gets one sentence, not sixty seconds. Woodstock gets two shots. The cafe gets the time, because the cafe is the story. If the cut runs past three minutes, the thing to cut is the beagles, never the hat.
-
-Beats, in order:
-
-1. **The Beagle Summit.** One sentence on what it is. You are there to practice the court case for the beagle rescue. Footage: summit, prep, the march in Albany. Keep it to 20 seconds. This is backstory, not the story.
-   > "I came to New York for a dog. Specifically for a court case about beagles. That's a different video."
-
-2. **The march, and leaving a day early.** You had an Airbnb booked for that night. You left anyway. No reason. Say that: "No reason. I just wanted to go."
-
-3. **Woodstock.** The vegan restaurant was the whole plan. The food was good enough and the room was good enough that you stayed. Hotel Dylan. Music on the walls. You are a musician. This is your language. One line on that, no more.
-   > "I grew up in music. Woodstock is holy ground to a certain kind of person and I'm that kind of person. So I stayed."
-
-4. **The hat.** Next morning, cafe. You are leaving. A guy outside sees the hat: MAKE CHRISTIANS VEGAN AGAIN. He wants to talk. That conversation is five minutes you would not otherwise have stood there.
-
-5. **The woman.** She walks out of the cafe during those five minutes. She is running triage for the Kaporos rescue, the vet-and-recovery side. She tells you Kaporos is happening in Brooklyn this week. She does not tell you where, who to call, or how to find it. She leaves.
-   > "She didn't give me a name. She didn't give me an address. She just said the word Kaporos and walked off. If that guy hadn't stopped me about the hat, I'd have been in my car."
-
-6. **Finding it.** Search, a few phone calls, and an animal sanctuary owner offers you a place to stay in Tribeca that night. You start filming the same evening.
-
-7. **Button for the act.** Over footage of you driving into the city at dusk, title card over the skyline:
-   > "I don't have a tidy word for what that chain of events was. I'll just tell you I got the message, and I went. And by the fourth night I was standing in that woman's operation."
-   Cut back to the sidewalk, 2.4, on "operation." Forward-pointing button, no closure language.
-
-Footage you need: Albany march, Woodstock exteriors, Hotel Dylan, the cafe, the hat (close-up, worn), driving-in shot. If you have no footage of the cafe moment, reconstruct it with stills and the map, do not fake it.
+Rules this follows, so you don't undo them in the edit: the first ten seconds show exactly what the title and thumbnail promised. Every loop is one sentence with no context. Nothing says who you are; the hat does that at minute six. The last line of the intro is the first line of the story. Avoid, anywhere in the voiceover, closure language before the end: "at the end of the day," "so to wrap up," "in conclusion," "finally."
 
 ---
 
-## ACT 2 — THE WEEK (2a: 0:45 – 6:00 · 2b: 9:00 – 19:00)
+## ACT 2a — THE FIRST NIGHTS (0:45 – 6:00)
 
-Purpose: show, chronologically. This is the evidentiary core. Date-stamp every sequence on screen. Parts 1 and 2 covered some of this. Do not call it a recap and do not say "as you saw in part two": to most of this audience it is the first time. Tell it fresh, with the best shots, and let the people who saw the shorts enjoy seeing them again at full length.
+Stamp: SUN SEP 14 · WILLIAMSBURG. Part 1 runs here nearly whole, re-set in house type at TV size, its own sound, a one-second dip to black in and out. Nothing in the VO says "you may have seen this."
 
-Act 2a is 2.1 through 2.3 and must contain, within the first six minutes of the film, the three things the title and thumbnail promised: the sacrifice at scale, the man on the stickers, and you on the ground. Act 2b is 2.4 through 2.13, after the Act 1 flashback.
-
-**2.1 First night (0:45 – 2:00).** What Kaporos is, in your words, over the first footage you shot. On first use, every term gets a three-word gloss on screen (Kaporos: "atonement ritual"; Yom Kippur: "Day of Atonement"; Hasidic: "ultra-Orthodox Jewish"; Chabad: "the Rebbe's movement"; 770: "their headquarters"; Moshiach: "Messiah"). Galloway's curse-of-knowledge rule: half this audience is not American and most of it is not Jewish. Keep the explanation to three sentences:
+**2.1 First night (0:45 – 2:00).**
+FOOTAGE: Part 1 0:00–0:12 (the man with the chicken and the prayer sheet, the girls watching, "to the rescue", "Put it back", "She's dying"), then the crates and the shop.
+VO, over the first swing (gloss on screen on first use: Kaporos "atonement ritual"; Yom Kippur "Day of Atonement"; Hasidic "ultra-Orthodox Jewish"):
 > "Kaporos. Kapparot, in Hebrew. 'Atonements.' In the days before Yom Kippur, some observant Jews, mostly in Hasidic neighborhoods, take a live chicken, swing it over their head three times while saying that prayer, and then it's slaughtered. The idea is the bird takes on your sins for the year. Most Jews don't do this. Most Jews who do the custom at all use money instead. We'll get to that. This is the chicken version."
+PULL, the full take behind Part 1, sidewalk-sins-transfer-2026-09-14 1:06 – 2:15 (cut against the shop, the crates, the tall-hat hasid with the prayer sheet):
+> KAM: "Does the sin transfer to the chicken? I'm genuinely asking."
+> MAN: "The sin is transferring to the chicken. We hope. That's also a debate between people. The chicken is going to die instead of me. He's not taking my sins, I have to ask God to forgive me."
+> KAM: "So then why is the chicken necessary?"
+> MAN: "Repent. But in case I have to die, God wanted me to die, let the chicken die instead of me."
+> KAM: "Does someone eat these chickens?"
+> MAN: "All the chickens are being eaten. It comes back in the store. To all the stores."
+Then 5:23 – 5:52, with Hosea 6:6 on screen:
+> KAM: "'I desire mercy, not sacrifice.'"
+> MAN: "The rabbis came and they said that we should do this. We follow them."
+> KAM: "But did Hashem say?"
+> MAN: "Yes, no. A lot of things are by the rabbis."
+Give him his best answer, 5:56: "Every Shabbat there's things we don't do because God said keep the Shabbat. He didn't say what and when exactly. It's a discussion. You should go to a rabbi and discuss." Then Part 1's "Who's the boss?" run (2:24 – 2:38) and joseph-shop-owner-2026-09-15 26:28 – 26:49, the shop owner at his door:
+> KAM: "Can I see the slaughter?"  JOSEPH: "No. It's better for you not to see."  KAM: "Why?"  JOSEPH: "Because you're too against it."
 
-**2.2 The crates.** Birds in plastic crates, stacked on the sidewalk and in trucks for days before the ritual. No food, no water, in the heat. Dead ones in the bottom of the crates. The Health Department has documented this for years. Put the dates on screen.
+**2.2 The crates (2:00 – 3:00).**
+FOOTAGE: birds in plastic crates stacked on the sidewalk and in trucks, no food, no water, dead ones at the bottom (Part 2 0:50 – 0:56; Day 1 glasses video-260/268; Health Department dates on screen).
+PULL rina-deych-2026-09-16 1:18 – 1:59 (her first words do the lower third later, in 2.13; here she is a voice over the crates):
+> RINA: "The Torah mandate: not to cause unnecessary harm to animals, and to help them if you can. And the Talmud says feed your animals before you feed yourself. These chickens don't get any food and water. There are dead ones. They die of dehydration and starvation and heat prostration. And when it's cold, they freeze to death."
+PULL rina-deych-briefing-2026-09-19 1:39 – 1:54 over a crate being dragged (Part 2 0:34):
+> RINA: "The crates are thrown so violently and dragged, their toes and their feet break off. We find toes at these locations."
+PULL rina-deych-2026-09-16 2:26 – 2:33 over Part 1 0:38 – 0:40, the bone:
+> RINA: "I've already seen two chickens with their wings broken. Open fractures. I'm a nurse by profession. You could see the bones jutting, and the guys holding them by the wings."
+VO: "That's the bone sticking out." (Part 1 0:40, keep it.)
 
-**2.3 The all-night rescue (new, this is the part 2 climax, expand it).** Hundreds of birds out in one night. Show the system: triage, the carriers, the vet, the drive out. Name the organization the triage woman was with if she consents. This is where the Woodstock woman re-enters the story: you are now standing in her operation.
+**2.3 The all-night rescue (3:00 – 6:00). NEW CUT.** Stamp: SAT SEP 19 → SUN SEP 20 · CROWN HEIGHTS.
+Part 2 is not this sequence (see §8); cut it fresh from the Final Day glasses (video-1143 … 1273, IMG_4052 – 4085), the Truck report clips (C9254 – C9260: "There's more than one truck", "Justin's dropping a pin", "are you guys calling the cops?") and Rina's briefing. Show the system: triage, the carriers, the vet, the drive out.
+PULL rina-deych-briefing-2026-09-19 1:58 – 2:49, over the carriers and the vet table (this is the Woodstock woman's operation, from the person running the night):
+> RINA: "We do not want anybody to rescue any chickens, because we have a specific rescue team. We can only rescue as many as we have homes, and we're beyond capacity right now. The only chickens we're going to rescue tonight are ones relinquished to us. We have Dr. Cleary here, who's going to be evaluating them and helping us identify the ones that need serious rescue. Then we'll work with community affairs to negotiate them to us."
+PULL briefing 0:54 – 1:07 over glasses video-1219 1:24 – 2:38, feeding the dehydrated birds:
+> RINA: "We try to plant seeds. That's why we give the chickens a little relief before they're swung. And it's good for the children to see that these are living creatures and that they need kindness."
+The tally, glasses video-854: "133 plus 83… over 300." First night 119. Blur plate AN 68041.
+FOOTAGE: you at the van at dawn, carriers in. FREEZE on you.
 
-**2.4 The U-Haul trucks.** Trucks left on the side of the street overnight with crated birds inside, dehydrated and dying. You were on scene. It got reported, the police came, and the birds in those trucks were released to rescue. Show the call, the wait, the cops, the opening of the door. This is one of the few moments where the system worked. Say that plainly. It makes the rest more credible.
-   This one made the news, which is rare for Kaporos: a U-Haul on Winthrop Avenue with about 200 birds and only about 80 alive, a second truck on St. Johns Place, a sign on one reading "Kaparos To Go." An NYPD officer called a rescuer, the Kaporos Compassion Project pulled out close to 300 live birds across both trucks, Farm Sanctuary took ten roosters, and even the Orthodox press called it a desecration of God's name. Gothamist, News 12, amNY, JTA all ran it. Put the headlines on screen: your footage is the inside of their story. Sources in `research.md` B1.
+---
 
-**2.5 Activists attacked.** Footage of activists being shoved and hit while trying to retrieve dead and injured birds. Keep the context honest: these are people picking up dead animals off a sidewalk. Show the police response, which most of the week was to move or arrest the activists, not the people throwing punches.
+## ACT 1 — THE ROAD (6:00 – 9:00, flashback, three minutes hard cap)
 
-**2.6 The children.** Kids who stopped and listened to you. **Blur every minor's face. Do not use any audio where a child can be identified.** The point is not "I converted a kid." The point is: the kids had questions the adults didn't. Keep it to one or two exchanges.
+Placement: on the freeze at the van. Then:
+> "I should tell you I had no plan to be here. Three weeks before this I was in a courtroom upstate. For a beagle."
 
-**2.7 The hired slaughterers.** Men doing the actual killing who were not members of the community. You spoke to them. They were Venezuelan immigrants hired for the day, and they did not know what the ritual was or whose it was. **Do not show their faces or use their names. They are the most vulnerable people in the frame.** The line to say, over a wide shot:
+Purpose: make the viewer trust you. You are not a guy who came looking for this. It came looking for you. Tell it straight and let the synchronicities land on their own. Do not say "synchronicity" more than once. Budget: seven beats in 180 seconds. If the cut runs past three minutes, cut the beagles, never the hat.
+
+1. **The Beagle Summit.** Summit, prep, the march in Albany. Twenty seconds.
+   > "I came to New York for a dog. Specifically for a court case about beagles. That's a different video."
+2. **The march, and leaving a day early.** "No reason. I just wanted to go."
+3. **Woodstock.** Hotel Dylan, music on the walls.
+   > "I grew up in music. Woodstock is holy ground to a certain kind of person and I'm that kind of person. So I stayed."
+4. **The hat.** Next morning, cafe. A guy outside sees it: MAKE CHRISTIANS VEGAN AGAIN. Five minutes you would not otherwise have stood there. (If you want your own voice placing you, sidewalk-jeremiah-2026-09-14 2:22 – 2:40 has it on tape: "Where do you live?" "Georgia. Augusta, where the Southern Baptists live. I was raised Christian.")
+5. **The woman.** She is running triage for the Kaporos rescue, the vet-and-recovery side.
+   > "She didn't give me a name. She didn't give me an address. She just said the word Kaporos and walked off. If that guy hadn't stopped me about the hat, I'd have been in my car."
+   (Not on tape. Stills, the cafe, the map. Do not fake it. Her operation is on tape: that is 2.3, which the viewer has just watched.)
+6. **Finding it.** Search, phone calls, a sanctuary owner offers a bed in Tribeca. You start filming the same evening.
+7. **Button.** Driving into the city at dusk, title card over the skyline:
+   > "I don't have a tidy word for what that chain of events was. I'll just tell you I got the message, and I went. And by the fourth night I was standing in that woman's operation."
+   Cut back to the sidewalk, 2.4, on "operation."
+
+---
+
+## ACT 2b — THE WEEK (9:00 – 19:00)
+
+Stamp each sequence. Part 2 lives here as a set piece across 2.5, 2.9, 2.10 and 2.11, re-set in house type.
+
+**2.4 The U-Haul trucks.** Stamp: FRI SEP 18 · WINTHROP AVE / ST. JOHNS PL.
+FOOTAGE: the trucks, the crates inside, the dead at the bottom (Truck report C9254 – C9260; glasses video-1201 4:28 "There's literally a truck of chickens abandoned on the side of the road", video-1235 0:00 – 1:53 "cops tipped us off", the KAPAROS TO GO sign, video-1257 2:04 – 2:51). The call, the wait, the cops, the door opening.
+PULL sidewalk-minors-torah-2026-09-19 5:07 – 5:19, the officer, over the truck door:
+> OFFICER: "You're with Rina, right?"  KAM: "I am with Rina. There's a dead chicken hanging out of the truck here."  OFFICER: "I got you. I can't do anything about it right now. I got to get you guys squared away."
+PULL rina-deych-2026-09-16 2:41 – 3:07 over the cop at the shop door (Part 1 2:46):
+> RINA: "Sometimes community affairs will negotiate the release of the injured chickens. One of the officers went in to talk to the owner and was told the owner's not there. I don't believe that for a minute."
+Headlines on screen: Gothamist, News 12, amNY, JTA, Yeshiva World (`sources/articles/` 041, 042, 080, 098). VO stays as written: "This is one of the few moments where the system worked." Say it plainly.
+
+**2.5 Activists attacked.**
+FOOTAGE: Part 1 0:06 – 0:10 ("Put it back", "She's dying", "I don't give a sh*t"), the Day 1 shove; Part 2 0:48 (men surrounding a woman activist); glasses video-1197 0:33 – 1:40 ("You do not touch women like that").
+PULL rabbi-show-me-the-verse-2026-09-19 0:40 – 0:48, their word for it, over a masked rescuer with a bird (Part 1 0:08):
+> MAN: "Do not steal. They just stole, and they covered their face while they're doing it."
+PULL police-injured-bird-2026-09-14 0:00 – 0:55, then 3:50 – 4:03, over the Day 1 aftermath:
+> KAM: "There was a couple of people rescuing a bird that was injured, clearly in distress, and this fellow and a few others were physically putting their hands on her. I have all the footage."
+> OFFICER: "The person that got assaulted never called, so we don't really have a complaint."
+> KAM: "Did they give you any instructions for a bird physically in distress, dehydrated, bleeding out?"
+> OFFICER: "No. We didn't get instructions."
+And 1:41 – 2:16, the law in the uniform's words: "I guess the government allows them to do this. They have an issue that it's against the mental hygiene law and everything, so it's just a back and forth." Then 4:38: "I believe in religious freedom. It's like, to what extent."
+VO: "Most of the week the police response was to move or arrest the activists, not the people throwing punches. That officer was decent. He also had no instructions."
+
+**2.6 The children.** Blur every minor. No identifiable child audio.
+FOOTAGE: Part 1 0:36 (the toddler grimacing), Part 2 2:30 – 2:34 ("He's crying, yeah?" "are crying"), kids being steered away.
+PULL rina-deych-briefing-2026-09-19 0:25 – 0:50 (the clean take), over a blurred mother and child at the swing:
+> RINA: "A little kid holding on to the mother's skirt: 'the chickens are crying.' And I hear the mother say, 'they're not crying. They're singing. They're happy to do this for you.' I tell the mother, no, they're suffering. And I tell the little kid, you're right. They're not singing. They're crying."
+PULL sidewalk-jeremiah-2026-09-14 5:53 – 6:06, an adult, over the kids being moved off:
+> MAN: "They're impressionable young people. We're asking them a question. They don't know. They haven't learned. Curious questions from a genuine place are very dangerous. Very dangerous."
+VO: "The point is not that I converted a kid. The point is the kids had questions the adults didn't."
+
+**2.7 The hired slaughterers.** No faces, no names.
+FOOTAGE: the tent, the men in aprons from behind (Part 2 2:40 – 2:56 workers), the knife being sharpened (Part 2 0:58).
+PULL glasses video-1197 2:35 – 3:57, voice only: the workers were hired off an app, from Venezuela, "they didn't know what the job was about" (you ask in Spanish).
+PULL joseph-shop-owner-2026-09-15 26:57 – 27:05 and 27:43 – 28:08, the owner, over the back door:
+> JOSEPH: "They are very holy. And pictures is not the holiest thing for them."
+> JOSEPH: "We do it all year. This is my shop."
+VO, over a wide shot:
 > "The people saying the prayer were not the people holding the knife. The people holding the knife were day laborers who'd crossed a continent and didn't know what they were a part of. Hold that thought. It comes back."
 
-(It comes back in Act 4 with Postville. It comes back in Act 5 with every slaughterhouse in America.)
-   Note: no press outlet covered the hired laborers, the turkeys, or the assaults in 2026. Your footage is the only record. That is an asset, and it also means the edit has to show these things clearly rather than tell them: no claim without the shot.
+**2.8 The raw meat.**
+FOOTAGE: what you saw. Say it and move on.
+PULL joseph-shop-owner-2026-09-15 7:54 – 8:15: "You transfer the sin and you eat the chicken." Then 10:25 – 10:54 if you need the salt-and-blood explanation under the shot. Do not generalize it to the community.
 
-**2.8 The raw meat.** You witnessed practitioners eating raw chicken in front of you. Show it, say what you saw, and move on. Do not generalize it to the community. It is a thing you saw, not a thesis.
-
-**2.9 The arguments on the sidewalk.** You debated people about their own scriptures. Frame it as a debate, not a verdict. Put the verses on screen when you quote them, and give the other side their best answer (the usual one is: the prophets condemned sacrifice done without repentance, not sacrifice itself). Then your reply. This is a real argument that has been going on inside Judaism and Christianity for 2,500 years. Treat it with that weight, and it lands harder than mockery would.
+**2.9 The arguments on the sidewalk.** Frame it as a debate. Verses on screen when quoted. Their best answer first, then yours.
+Their best answers, in this order (one face each, 20 s each):
+> resident-uses-cash-2026-09-19 0:52 – 1:35: "These animals are being prepped for the holiday, because there is elevated consumption around the holiday. You should be part of the process. We're going into a holiday where we talk about mortality, how life is finite, consequences of one's actions. If you're going to be processing chickens for the holiday, you should be very conscientious of what that process entails."
+> rabbi-show-me-the-verse-2026-09-19 0:12 – 0:33: "First go learn your own Judaism. You're not Jewish, you don't know Halakha. You know Torah is bigger than the five books of Moses? That's the source of it."
+> practitioner-lions-2026-09-19 4:41 – 4:59: "'Not sacrifice' means in vain. Otherwise the Torah would be contradictory. You have to read the sages. The Mishnah, the Talmud."
+> joseph-shop-owner-2026-09-15 13:12 – 13:38: KAM: "Jeremiah 7:22. God did not command sacrifice." JOSEPH: "It's still not Hashem." KAM: "Hosea 6:6?" JOSEPH: "Same thing. The only thing is Moses."
+VO: "That's the real argument, and it's been going on inside Judaism and Christianity for 2,500 years: are the prophets Torah? Here's what the prophets say."
 > Isaiah 1:11 — "I have had enough of burnt offerings of rams... I do not delight in the blood of bulls, or of lambs, or of goats."
 > Hosea 6:6 — "I desire mercy, not sacrifice."
 > Jeremiah 7:22 — "In the day that I brought them out of Egypt I did not speak to your fathers or command them concerning burnt offerings or sacrifices."
 > Psalm 50:13 — "Do I eat the flesh of bulls, or drink the blood of goats?"
+Then the exchanges (Part 2 1:34 – 1:50, the Jeremiah run on the beat, re-set; then):
+> rabbi 0:00 – 0:11, both angles (camera + glasses video-1229 1:19): MAN: "I'm the rabbi, you're not. So what do you say?" KAM: "Kaporos is not in the Torah. Show me in the Torah where it says to swing a chicken over your head and slit its throat to absolve you from your sins. Show me the verse."
+> rabbi 3:38 – 4:16, uncut, because it is the honesty beat: MAN: "I have like four cameras right now." KAM: "What does Jeremiah mean by God did not command sacrifices?" MAN: "I know that every single video that's taken of me gets retorted. You take a little passage, you edit it nicely. I'm not going to answer, because you guys don't use the right videos." KAM: "Just speak truth. I won't edit it. What does Jeremiah mean?" (three times; no answer.)
+> joseph 0:53 – 1:24: KAM: "The animal goes to heaven?" JOSEPH: "Yes." KAM: "God wants us to kill the animals and send them to heaven." JOSEPH: "Yes. Come closer to me." KAM: "So we come closer through murder?" JOSEPH: "It's not murder. You just bring it close. You get closer to Hashem. Hashem loves it."
+> joseph 24:07 – 24:45 over the crates screaming (Part 1 0:43): KAM: "Love your neighbor as yourself. Chickens are our neighbors. They scream for their lives." JOSEPH: "No, they don't scream." KAM: "They're screaming for their lives here." JOSEPH: "Take me in."
+> lions 4:59 – 5:12, the thesis line (pairs with glasses video-1237 3:58 and video-1133 0:13 – 2:35): KAM: "It's the priest versus the prophet. I choose the prophet." MAN: "No way." SECOND MAN: "I like him."
+> the pattern, stated as a pattern, not a gotcha: joseph 12:12 ("Jews don't read Genesis?" "No. Genesis is not our thing.") and sidewalk-sins-transfer 7:47 ("I don't know Genesis." "You don't read the Hebrew Bible?" "I have no idea what he talked about.")
+One comic beat only: practitioner-lions 0:16 – 0:46 ("Go to Africa and tell the lions." "Lions also eat their young. They also sniff each other's ass.") or sidewalk-ruach-nefesh 0:42 – 1:08 ("So I'm going to eat the chicken and it'll continue growing." "It grows in me.").
+Close on practitioner-lions 6:28 – 6:36, the fair ending: "I disagree with you, and it's a free country. You can have different opinions, as long as you're respectful to each other."
 
-**2.10 The turkeys.** They brought out full turkeys. Hold the shot. Then your turn:
+**2.10 The turkeys.**
+FOOTAGE: Part 2 2:34 – 2:56, the whole run, held.
+PULL sidewalk-jeremiah-2026-09-14 3:30 – 3:51, Day 1, under the turkey (they made the Act 5 argument for you on night one):
+> MAN: "Go to Smithfield, go to the meatpacking plants and take care of there."  KAM: "I agree. Those are sacrifices too."  MAN: "It's no different. This is how society has worked ever since and nothing will change. No amount of enlightenment will change. People will always eat animals, and this is how it was intended."
+VO:
 > "I stood there and watched a turkey get its throat cut on a sidewalk in Brooklyn and thought: this is the thing. Forty-six million of these in November. Done by Christians. With a parade. The only difference is nobody in Ohio says the prayer out loud."
-Do not resolve this here. Plant it. It is the Act 5 payoff.
+Do not resolve it here. Plant it.
 
-**2.11 The one who got away.** The hen who flew across the street into the activists. The cop who, for once, waved the practitioner off and let her go. Then cut to her now: skittish, scared, slowly being integrated at the sanctuary. Give her thirty seconds of quiet. Name her if she has a name. This is the emotional reset before the hardest material.
+**2.11 The one who got away.**
+FOOTAGE: Part 2 1:04 – 1:16 (the hen across the road, under the car, "leave it", the officer who waves the practitioner off). Under it, rabbi 6:15: "These chickens are escaping, man."
+Then her now: skittish, at the sanctuary, thirty seconds of quiet. Name her if she has a name. (Caretaker interview still to shoot.)
+Optional VO line, from the street, sidewalk-moses-yeshua-2026-09-19 2:46 – 3:06: MAN: "What were chickens made for?" KAM: "To be a chicken. To live its life." MAN: "And to accomplish what?" KAM: "The beauty of Hashem's creation."
 
-**2.12 The sanctuary that started with one Kaporos chicken.** Your friend who came to rescue with you founded a whole sanctuary because of one chicken pulled from Kaporos years ago. This is Penelope's Place (Vanessa and Steven Dawson, now in Akron, NY): Penelope was lifted out of a crate in Borough Park in October 2014 with Marek's disease, paralyzed, nursed back to walking in a homemade therapy swing, and became the name on the gate. The short film is "Penelope: A Rescue Story" (Duncan Skiles, 2015). Vanessa was also a plaintiff in the 2015 lawsuit. Show the poster, show her on the sidewalk this year, say the name. This proves the loop: one bird becomes a sanctuary becomes more birds. (Confirm with your friend that this is who you mean before you cut it.)
+**2.12 The sanctuary that started with one Kaporos chicken.** Lower third: VANESSA DAWSON · PENELOPE'S PLACE.
+FOOTAGE: the Penelope poster, "Penelope: A Rescue Story" (Duncan Skiles, 2015; `sources/video/`), the gate with the name, Vanessa on the sidewalk this year (Day 3 camera C9213 – C9216).
+PULL vanessa-dawson-2026-09-16 0:21 – 0:37, then 0:43 – 1:07 whole:
+> VANESSA: "Since 2014. Upset. It never gets easier, knowing just what their fate is going to be."
+> VANESSA: "Penelope was the first chicken I ever rescued from Kaporos, back in 2014. Before I even knew there was a team, I was walking to the grocery store and stumbled upon this, and did everything I could just to get one chicken out. She had a lot of health issues, then she became a house chicken, and changed everything. She started a sanctuary based on that day."
+VO: "One bird becomes a sanctuary becomes more birds." (Confirm the Akron, NY details and the 2015 lawsuit with her before cutting.)
 
-**2.13 The Jews who were there to stop it.** This is the most important sequence in Act 2 for the whole piece to work. "Nina" is almost certainly **Rina Deych**: registered nurse, born and raised ultra-Orthodox in Borough Park, eighteen generations of rabbis, a founder of the Alliance to End Chickens as Kaporos in 2010, lead plaintiff in the 2015 lawsuit, and the person who leads the Kaporos Compassion Project that pulled the birds out of those U-Hauls. Get her name right on the lower third. Her line, on the record for years: this "has nothing to do with Judaism." Any other Jewish activists who consent. Then the receipt that most viewers, and most practitioners, don't know:
-> "This custom has been fought inside Judaism for seven hundred years. In the 1200s the Rashba, the chief rabbi of Barcelona, called it a pagan practice and wrote that he'd succeeded in abolishing it in his city. His teacher Nachmanides, one of the greatest rabbis who ever lived, said the same. Rabbi Yosef Karo, the man who wrote the Shulchan Aruch, the code of Jewish law, ruled that 'the custom should be prevented,' and the early printings of his book headed the section 'a foolish custom.' It survived because one Polish rabbi, the Rema, wrote that it was an ancient custom and shouldn't be changed. Today the Orthodox Union, Israel's former chief rabbis, and a long list of Hasidic and Sephardic authorities say: use money. So when someone tells you this is just Judaism: no. This is one side of a very old Jewish argument, and I walked into the middle of it."
-Verify quotes and citations in `research.md` before you put them on screen.
+**2.13 The Jews who were there to stop it.** The most important sequence in Act 2. Lower third: RINA DEYCH, RN · ALLIANCE TO END CHICKENS AS KAPOROS. Her first words do the introduction.
+PULL rina-deych-2026-09-16 0:00 – 0:17, then 0:28 – 1:07, over her on the sidewalk, the kids with chickens (blurred), and the Sefaria page (OC 605):
+> RINA: "My name is Rina Deych. I've been doing this for 30 years. For the first 16 years I couldn't get anybody to come out with me. I come from 18 generations of rabbis. Orthodox rabbis. Nobody in my family did this. Nobody. No rabbi."
+> RINA: "The kids are under the misconception that this is in the Torah. It's not. Not in the Torah. It's not in the Talmud. It's in Shulchan Aruch, written in the 1500s by a Spanish rabbi, Joseph Karo. And he called it a foolish custom. Shortly thereafter an Ashkenazi rabbi from Eastern Europe came and removed the negative commentary. That's why this is going on now."
+She has given you Karo and the Rema. The VO only needs the rest:
+> "This custom has been fought inside Judaism for seven hundred years. In the 1200s the Rashba, the chief rabbi of Barcelona, called it a pagan practice and wrote that he'd abolished it in his city. His teacher Nachmanides said the same. Today the Orthodox Union, Israel's former chief rabbis, and a long list of Hasidic and Sephardic authorities say: use money. So when someone tells you this is just Judaism: no. This is one side of a very old Jewish argument, and I walked into the middle of it."
+Verify every citation in `research.md` before it goes on screen.
+Then the practitioners conceding it, one each, fast:
+> resident-uses-cash 2:42 – 2:56: KAM: "This isn't in the Torah or the Tanakh." MAN: "No, it's not. This is not a direct commandment from God. This is something developed."
+> joseph 9:13 – 9:34: KAM: "Leviticus 5:11, a sin offering with only grain. No blood." JOSEPH: "When you give money for the poor, it's the same thing." KAM: "So then why is the chicken necessary?" JOSEPH: "So it has a meaning."
+> joseph 21:40 – 22:08: KAM: "What proof is there that the sins go into the chicken?" JOSEPH: "Kabbalah."
+> resident 0:21 – 0:40: "Not everyone uses a chicken. I personally use cash. The average dude does use money."
+Then the hardest line of the week, sidewalk-sins-transfer-2026-09-14 6:19 – 7:15, over the old men and boys at the shop. Run it whole; do not score it:
+> KAM: "Is it the blood that cleanses the sin?"
+> MAN: "I have no idea. I know my mother did it. My father did it. My grandmother. My great-grandmother in Europe, before World War II."
+> KAM: "You don't know why?"
+> MAN: "I don't ask. My father did it, I did it. That's how we have to believe. That's how this whole community believes. A lot of people changed to money, but their father didn't do that. When Hitler was killing people they didn't have chicken; they changed to money. Not because they wanted. They were forced."
+Close on Rina 4:15 – 4:21 and 0:23:
+> RINA: "It's an abomination. And it's an embarrassment to me as a Jewish person. I think this is a stain on Judaism."
+> RINA: "You can use a sack of money instead of swinging a chicken."
 
-Button for Act 2, over the dawn rescue footage:
+Button for Act 2, over the dawn rescue footage, with Vanessa 2:34 under it ("Saturday is one of the biggest nights. It happens overnight, until sunrise. It's very, very intense. The biggest night."):
 > "That was the week. Then came Saturday, and a hundred thousand birds."
-(Forward-pointing, with a number: the viewer now needs to see Saturday. "That was the week" alone reads as a wrap-up.)
 
 ---
 
 ## ACT 3 — THE FINAL NIGHT (19:00 – 26:00)
 
-Purpose: scale and dread. Saturday evening into Sunday morning, the night before Yom Kippur begins. The biggest numbers of the year. Mostly footage. Sparse VO. Let it breathe.
+Stamp: SAT SEP 19, 8 PM → SUN SEP 20, DAWN · CROWN HEIGHTS. Mostly footage. Sparse VO. Let it breathe. No music in beat 3.
 
-Beats:
+1. **Arrival.** The street transformed. Crowd, crates, light towers, the chant (glasses video-1199 0:00 – 0:43, "We want chicken now!").
+   PULL rina-deych-briefing-2026-09-19 0:00 – 0:17, over the crowd, before anything else:
+   > RINA: "These people are not sadists. I'm not saying there's no sadists among them. There's sadists in every single group. But they don't believe that they're hurting the chickens. They don't understand. They really don't. They're conditioned from birth to believe that this is okay and that the chickens don't feel pain."
 
-1. **Arrival.** The street transformed. Crowd, crates, light towers, the chant. On-screen: date, time, neighborhood.
-
-2. **His face.** The Rebbe's face everywhere: the bus, the posters, the stickers, the banners. People talking about him. Men collecting money in his name. Your VO stays a question, not an answer:
+2. **His face.** The bus (Final Day camera C9277: "we're at the Messiah guy's spot, he's got a bus here"), the posters, the stickers, the banners, men collecting money in his name (don't play the money as sinister; it is the humane alternative, collected ten feet from the knife).
+   PULL rabbi-show-me-the-verse 2:53 – 3:00: "I dare you. Come to 770. You know the big synagogue over there? Come over there, put on tefillin, and then we'll speak it out."
+   PULL practitioner-lions-2026-09-19 2:36 – 3:01, the only practitioner on tape who ties the custom to him: KAM: "Where did God say to slice chickens?" MAN: "It's the minhag of the Rebbe. It's a tradition of the Rebbe. At 770."
+   VO:
    > "All week I'd been seeing this man's face on lampposts across New York with the words 'Moshiach is coming.' Tonight his face was on the bus. On the walls. Everyone was talking about him. People were collecting money in his name. I knew a little. I knew Trump had gone to his grave before the election. I didn't know the rest yet."
-   (A note on the money. Giving money to charity is itself the mainstream form of Kaporos, the version the rabbis in 2.13 preferred over the bird. Don't play the collection as sinister. Play it as the irony: the humane alternative was being collected ten feet from the knife.)
 
-3. **The volume.** Birds swung, birds killed, a continuous line. Sound design: the swing, the chant, the crate, the knife. No music.
+3. **The volume.** Birds swung, birds killed, a continuous line (Part 2 0:16 – 0:18, 0:58 – 1:02; Final Day camera). Sound: the swing, the chant, the crate, the knife.
+   PULL sidewalk-ruach-nefesh-2026-09-19 1:09 and 4:10 – 4:26, the man with blood on his face:
+   > A VOICE: "There's blood on his face, man."
+   > KAM: "Forget the scriptures. Open your eyes. You think God wants this?"  MAN: "I'm enjoying it."  KAM: "You're covered in blood."  MAN: "I know. It's good. You want some?"
+   PULL glasses video-1211 4:18 – 4:58 (VIRAL_CLIPS tier 1 #1): "We wake up, we see blood." "You're a vampire." "Yeah, 100%. We love the blood, we love the smell."
 
 4. **The bags.** Garbage bags on the curb. Full. Some moving. You open one. Say exactly what you found and nothing more.
+   PULL rabbi 5:58 – 6:05 under the bags: "The bags are still moving right now. I've got a lot of that footage." "It's disgusting, bro."
+   PULL vanessa-dawson 1:15 – 1:54, over a sanitation truck:
+   > VANESSA: "In 2018 we found a chicken still alive with his throat slit, in a trash bag, among all these other dead chickens about to be picked up by sanitation. We rushed him to an emergency vet and he lived to be almost eight. It's a miracle, but it's a lot of evidence that they don't go to the needy. They get thrown in the trash. 90% of them."
+   PULL sidewalk-abortion-2026-09-19 3:26 – 3:48: KAM: "What happens to the chickens?" MAN: "Some go to the poor." KAM: "Most go to the trash." MAN: "The intent is that they go to the poor." KAM: "Well, they don't."
+   Your Temple line, said on the street, ruach 4:29 – 4:48 (keep it here; it pays off in 5.5):
+   > KAM: "Jeremiah said your skirts are stained with blood. It's a den of paritzim. A den of murder. God's house is meant to be a house of prayer, not murder. Look at you, dropping chickens on the ground."
 
-5. **Dawn.** Sunday morning. Street cleaners. Feathers in the gutter. The bags lined up. Rescue vans leaving with what could be saved.
+5. **Dawn.** Street cleaners. Feathers in the gutter. The bags lined up. Rescue vans leaving with what could be saved.
 
-6. **The prayer, one last time.** Over the dawn footage, the text:
-   > "This is my substitute."
+6. **The prayer, one last time.** Over the dawn footage, the text: "This is my substitute."
 
 Button, to black:
 > "I drove home. And the same week, a debate blew up online where everyone was suddenly arguing about the group whose face was on that bus. So I started reading."
-
-(The debate was Nick Fuentes versus Professor Jiang Xueqin on the Jack Neel Podcast, Sept 26, 2026. Reference it as "a debate" if you must. Do not name Fuentes as your on-ramp. See the editorial section at the bottom for why. If you name anyone, name the scholars you read after.)
+(Reference it as "a debate." Do not name Fuentes as your on-ramp; see the editorial note at the bottom.)
 
 ---
 
 ## ACT 4 — THE MAN ON THE STICKERS (26:00 – 36:00)
 
-Purpose: tell people, accurately, who Chabad-Lubavitch is, what they believe about the Messiah and the Temple, and how close they sit to power. Every claim in this act has to be sourced on screen, because this is the act the internet will try to use to discredit the footage. The sourced version is also the more shocking version. **None of it is hidden. That is the story.**
+Purpose: tell people, accurately, who Chabad-Lubavitch is, what they believe about the Messiah and the Temple, and how close they sit to power. Every claim sourced on screen (`sources/articles/`). None of it is hidden. That is the story.
 
-Format: you at a desk or a wall of printouts, cut with archive, cut back to your Kaporos footage every 60–90 seconds so it never stops being your film.
+Format: you at a desk or a wall of printouts, cut with archive, cut back to your footage every 60–90 seconds. Open with the stake, not the history. Every sub-section ends on a question the next one answers.
 
-Retention risk: this is the act where the film stops being footage and starts being research, and that is where a curve bends. Two defenses. One, open the act with the stake, not the history: "Here is why it matters who he is" before "he was born in 1902." Two, every sub-section ends on a question the next one answers (4.1 ends "so why is his face on a bus thirty years after he died?", 4.2 ends "and what does a movement that believes that do when it thinks the leadership is stalling?", 4.3 ends "why would a president kneel at this man's grave?", and so on). Those are the open loops that carry a viewer across a ten-minute desk act.
+**4.1 Who he was.** Menachem Mendel Schneerson, 1902–1994, seventh Rebbe of Chabad-Lubavitch. Movement founded 1775 in what is now Belarus by Shneur Zalman of Liadi, author of the Tanya. "Chabad" is wisdom, understanding, knowledge. Headquarters: 770 Eastern Parkway, Crown Heights, replicated brick for brick in cities around the world. Took over in 1951; roughly 4,900 emissary families in over a hundred countries, by Chabad's own count (article 047). Ends: "so why is his face on a bus thirty years after he died?"
 
-**4.1 Who he was.** Menachem Mendel Schneerson, 1902–1994, seventh Rebbe of Chabad-Lubavitch. Hasidic movement founded in 1775 in what is now Belarus by Shneur Zalman of Liadi, author of the Tanya. "Chabad" is an acronym for wisdom, understanding, knowledge. Headquarters: 770 Eastern Parkway, Crown Heights, the building whose replica exists in cities around the world. Schneerson took over in 1951 and turned a shattered post-Holocaust sect into the largest Jewish outreach organization on earth: roughly 4,900 emissary families in over a hundred countries, by Chabad's own count.
-
-**4.2 The Messiah problem.** In his last years he pushed the message that the Messiah's arrival was imminent. Followers chanted "Yechi," long live our master the King Messiah, in his presence. He died in June 1994 with no successor and the movement never appointed one. A significant faction believes he is the Messiah and will return. This caused a real scandal in Orthodox Judaism: the Rabbinical Council of America passed a 1996 resolution against it, and Professor David Berger wrote a whole book about it. The stickers and billboards are not official Chabad; they are funded by messianist groups inside the community (Crown Heights women's groups, a student-led sticker wave in 2021, Rabbi Shmuel Butman's long-running Moshiach campaign). Say that. It is more precise and it is still the point: the messianist wing is strong in Crown Heights and it is the wing you were standing in.
+**4.2 The Messiah problem.** In his last years he pushed the message that the Messiah's arrival was imminent; followers chanted "Yechi" in his presence (archive: Singing Yechi on Eastern Parkway). Died June 1994, no successor. A significant faction believes he is the Messiah and will return. The Rabbinical Council of America's 1996 resolution (article 024); Berger's book (040 ADL has the Fuentes file; Berger via commentary.org). The stickers are funded by messianist groups inside the community, not official Chabad (forward 016). Say that.
+Cut back to your footage: practitioner-lions 2:36 ("It's the minhag of the Rebbe"); joseph 2:34 – 2:56 ("There's a lot of people who still need to come to us. Everyone. Not just Hebrews. When that will happen, you win the argument."); sidewalk-sins-transfer 6:41 ("The new generation, with AI, are skipping it a little bit"); glasses video-1245 0:00 – 2:03 and video-1265 1:06 – 1:22 ("the Moshiach guy… he's dead") only if the context around them is kept.
+VO:
 > "So when you see 'Moshiach is coming' on a lamppost in New York, it's not generic. It's a specific man. He's been dead since 1994. A large part of this movement believes he is the Messiah and is coming back, which is a belief Orthodox Judaism's own rabbis formally condemned in 1996 as having no place in Judaism, and which its leading scholar on the subject called a scandal. The money you saw being collected in his name on that sidewalk goes, in part, to the campaign to proclaim him. I'm a Christian. I know what it looks like when a movement decides its dead rabbi is the Messiah and starts collecting money. I've read how that story ends. It ends with the people who disagree getting called heretics."
+Ends: "and what does a movement that believes that do when it thinks the leadership is stalling?"
 
-**4.3 The tunnel.** January 2024, 770 Eastern Parkway. Tell exactly what happened, as established by reporting and court records: a group of young messianist yeshiva students dug an unauthorized tunnel, about 60 feet long, from a vacant building on Union Street toward the synagogue because they believed the Rebbe wanted the building expanded and the leadership was stalling. When the leadership brought a cement truck to fill it on January 8, 2024, the students tore paneling off the walls to stop them, the NYPD made arrests, and 13 men were indicted; most later pleaded to reduced charges. Then say what did not happen: the viral claims about child trafficking and bloodstained mattresses were investigated and debunked by every outlet that looked. Say that on camera. It costs you nothing and it buys you the right to be believed on everything else.
+**4.3 The tunnel.** January 2024, 770 Eastern Parkway (ABC7 clip in `sources/video/`; articles 003, 063, 091, 104, 087). The facts as established: messianist yeshiva students dug an unauthorized tunnel, about 60 feet, from a vacant building on Union Street toward the synagogue; on January 8, 2024, when the leadership brought a cement truck, the students tore paneling off the walls, the NYPD made arrests, 13 men indicted, most later pleaded to reduced charges. Then what did not happen: the child-trafficking and bloody-mattress claims were investigated and debunked by every outlet that looked. Say that on camera.
 > "The tunnel was real. Young men dug sixty feet under a city block, by hand, in secret, because they believe a dead man wants his building bigger before he returns as the Messiah, and because he taught them that this building is where the Third Temple will first appear on earth. Sit with that. That is a doomsday cult digging toward its temple, in Brooklyn, in 2024, and it was treated as a local vandalism story. The internet added child trafficking and bloody mattresses, and that part was fake. Every outlet that looked found nothing. I'm telling you that so you know I checked, and because the true version is worse: it's not a crime ring under a synagogue, it's an apocalyptic belief system with a shovel."
+Ends: "why would a president kneel at this man's grave?"
 
-**4.4 How close to power.** This is the part people genuinely don't know, and it is all public record:
-- **Education and Sharing Day, USA.** Since 1978, every U.S. president, every year, has proclaimed a national day honoring Schneerson on his Hebrew birthday. Carter, Reagan, Bush, Clinton, Bush, Obama, Trump, Biden, Trump. Congress gave him the Congressional Gold Medal in 1994. Show the proclamations on screen.
-- **Trump and the Ohel.** Three days before the 2016 election, Ivanka Trump and Jared Kushner prayed at the Rebbe's grave in Queens. On October 7, 2024, a month before the next election, Trump went himself for the first time: kippah, note, stone on the grave, Rabbi Levi Shemtov at his side. Kushner's family are longtime Chabad donors and Jared was active in Chabad at Harvard. Show the photos. (Trump did not go in 2016. Get this right; it is the first thing a fact-checker will test.)
-- **Netanyahu, 1990.** November 18, 1990, at 770, on video: Schneerson tells Netanyahu, "Moshiach still hasn't come, so do something to hasten his coming." Netanyahu: "We're doing, we're doing." Schneerson: "Apparently it's not enough." Netanyahu has retold the story for decades, most recently to Chabad emissaries in 2024: "I haven't forgotten what the Rebbe told me." Roll the clip.
-- **Elsewhere.** Russia's chief rabbi under Putin is a Chabad emissary, decorated by Putin again in November 2025. Argentina's president made the Rebbe's grave his first foreign trip as president-elect and keeps going back. This is a movement that gets meetings with heads of state on every continent.
+**4.4 How close to power.** All public record, on screen:
+- **Education and Sharing Day, USA.** Since 1978, every president, every year (whitehouse.gov archives, articles 030–037; congress.gov 061–062 still to save). Congressional Gold Medal, 1994. Archive: Reagan hosts rabbis in the Oval Office (`sources/video/`).
+- **Trump and the Ohel.** November 2016: Ivanka and Jared at the grave, three days before the election (JTA 076). October 7, 2024: Trump himself, kippah, note, stone, Rabbi Levi Shemtov at his side (NBC NcsjaSs8u5g, still to download). Kushner family Chabad donors (JTA 077). Trump did not go in 2016; get this right.
+- **Netanyahu, 1990.** November 18, 1990, at 770, on video (`Bibi Netanyahu Meets the Rebbe 1990 [rHBiT6eJaQQ]`): "Moshiach still hasn't come, so do something to hasten his coming." "We're doing, we're doing." "Apparently it's not enough." Retold to emissaries in 2024: "I haven't forgotten what the Rebbe told me" (anash 004). Roll the clip.
+- **Elsewhere.** Russia's chief rabbi, a Chabad emissary, decorated by Putin again in November 2025 (JTA 075, clip still to find). Argentina's president made the Ohel his first trip as president-elect (clip still to find).
 > "A religious movement whose most visible wing believes a rabbi who died in 1994 is the Messiah has had a day in his honor proclaimed by every American president for almost fifty years. Its rabbis get the Oval Office every spring. The president's son-in-law's family funds it, prayed at the grave three days before one election, and the president himself prayed there a month before the next. The prime minister of Israel has spent thirty-five years telling people he hasn't forgotten the Rebbe's order to hasten the Messiah. Russia's chief rabbi is one of them and Putin just pinned a medal on him. Argentina's president flies to the grave. None of this is hidden. It's on whitehouse.gov. That's what gets me. The most politically connected religious movement on earth has an end-times script, and nobody in power has ever been asked on camera whether they've read the last page."
+Ends: "and what happens when one of them gets caught?"
 
-**4.5 The slaughterhouse pardon.** Sholom Rubashkin. His family's company, Agriprocessors, in Postville, Iowa, was the largest kosher slaughterhouse in America. 2004: an undercover video showed cattle staggering with their throats cut, a scandal inside the kosher world. May 2008: the largest single-site immigration raid in U.S. history at that time hit the plant: 389 workers detained, most of them Guatemalan and Mexican, dozens of them minors. Iowa charged Rubashkin with 67 child-labor counts; a jury acquitted him on all of them. The federal immigration charges were dropped. What stuck was bank fraud: 86 counts, 27 years. December 2017: Trump commuted the sentence to time served after a campaign that ran from Alan Dershowitz to Nancy Pelosi to Orrin Hatch, and, per three former officials who spoke to CNN, after Jared Kushner personally pressed the case with the president. Rubashkin came home to a Chabad hero's welcome. (Say "commuted," not "pardoned." Say "acquitted" on the child-labor counts. The record is damning enough without rounding up.) Now cut back to your footage of the day laborers with the knives.
+**4.5 The slaughterhouse pardon.** Sholom Rubashkin, Agriprocessors, Postville, Iowa (PETA 090; AP Postville clip; radioiowa 092; thegazette 096; CNN 2019; timesofisrael 101). 2004 undercover video (age-gated on YouTube; PETA's page is saved). May 2008 raid: 389 detained, dozens of minors. Acquitted on all 67 child-labor counts; immigration charges dropped; bank fraud stuck, 27 years; December 2017 commuted by Trump after Kushner pressed the case (three former officials to CNN). Hero's welcome (`Rubashkin arrives to his parents' house [3VCrbe1Pivk]`). Say "commuted," "acquitted."
+Cut back to your footage: the hired men with the knives (2.7), voice-only glasses video-1197 2:35.
 > "The biggest kosher slaughterhouse in America was caught on tape ripping the windpipes out of conscious cows. It ran on hundreds of Guatemalan and Mexican workers, dozens of them kids, got raided for it, and its owner walked out of a 27-year sentence because the president's son-in-law, a Chabad donor, went to work on the president. And on a sidewalk in Brooklyn, the knife was in the hands of men from Venezuela who didn't know what they were a part of. That's not a conspiracy. It's worse than a conspiracy. It's a system, and it runs the same at every scale, in every religion, in every country: the holy people say the prayer, somebody poor holds the knife, and somebody powerful gets the pardon."
+Ends: "so what is the prayer actually for?"
 
 **4.6 The Third Temple, and why Kaporos is the rehearsal.** The payoff of the act.
-- Orthodox daily prayer asks for the restoration of the Temple service. The seventeenth blessing of the Amidah, said three times a day: "restore the service to the Holy of Holies of Your House, and the fire-offerings of Israel." The Sabbath and holiday Musaf says it outright: the additional offering "we will prepare and offer before You in love," then quotes the Torah's recipe for it. This isn't fringe. It is the standard liturgy.
-- The Yom Kippur Temple rite was two goats: one slaughtered, one sent into the desert carrying the people's sins, the original scapegoat. Kaporos is the folk substitute that survived the Temple's destruction: the bird plays the goat. The prayer says so.
-- There is an organized movement to rebuild the Temple on the Temple Mount and resume animal sacrifice: the Temple Institute has the vessels built and the priestly garments sewn, red heifers were flown from Texas to Israel in 2022 for the purification ritual, and in July 2025 they ran a full practice burn of a heifer that had been disqualified for having a few non-red hairs (by August 2025 the Institute said all five Texas heifers were disqualified; the search continues). Their own websites say the goal is sacrifice. Meanwhile the ground is moving: Israel's national security minister has prayed openly on the Temple Mount since 2025, prayer books were allowed up there in August 2026, and a sitting U.S. Secretary of Defense once said on an Israeli stage that a Third Temple "could happen."
-- Chabad's eschatology ends in the same place: Messiah, ingathering, Temple. And it runs through the building you were standing near. In October 1991 the Rebbe published a discourse, "The House of Our Master in Babylon," teaching that 770 Eastern Parkway is the principal sanctuary of the exile and the place where the Third Temple will first be revealed before it moves to Jerusalem. That is why there are dozens of brick-for-brick replicas of 770 around the world, and it is why those students were digging. Show the Chabad.org translation on screen.
+- The Amidah's seventeenth blessing, three times a day: "restore the service to the Holy of Holies of Your House, and the fire-offerings of Israel" (opensiddur). The Musaf says it outright.
+- The Yom Kippur Temple rite was two goats; Kaporos is the folk substitute. The prayer says so.
+- The Temple Institute (`The Third Holy Temple Plans Have Begun [A2IkxmwkayM]`), red heifers from Texas 2022 (`Red Heifers' Arrival [n2wzY_vcrSg]`; texasmonthly 095), the July 2025 practice burn (KENS 5 [12ZVxYE56Ws]; religionnews 029), all five disqualified by August 2025 (israel365 021). Ben Gvir praying on the Mount (BBC [i_I1A0Muq1E]; nysun 089), prayer books allowed August 2026 (haaretz 066, still to save), Hegseth "could happen" (jns; clip still to find).
+- The Rebbe's October 1991 discourse, "The House of Our Master in Babylon" (chabad.org 055): 770 is the sanctuary of the exile and where the Temple will first be revealed. That is why the replicas, and why the students were digging.
+Cut back to your footage, and let the practitioners say it. joseph-shop-owner-camera-2026-09-15 2:46 – 3:21 straight into the red-heifer archive:
+> KAM: "Yeshu said, I came to abolish the sacrifices."  JOSEPH: "He couldn't do it. The temple's gone."  KAM: "No more sacrifice."  JOSEPH: "The temple's coming back. Through the red heifer. It's coming back forever. Very soon. Then you're going to see: oh, this is what he wants."
+Then 5:02 – 5:31, over the Temple Institute altar and then the sidewalk knife:
+> JOSEPH: "Once we have the third temple, then you could see."  KAM: "There's going to be sacrifice of animals there."  JOSEPH: "If there is going to be sacrifice there, then that's what Hashem wants."  KAM: "So then Isaiah was wrong."  JOSEPH: "That's correct. He was right in that time, maybe. Not in our times."  KAM: "So God changes his mind?"  JOSEPH: "Every year a new scripture."
+Then the deferral in the glasses file, 28:13 – 28:45: KAM: "What if the prophets were right and God never wanted sacrifice?" JOSEPH: "We are ending an age." KAM: "The age where sacrifice is over. Let's live it now." JOSEPH: "No. We still have to wait it out." And the resident, 3:05 – 3:25: "A lot of those commandments depend on having the temple." And the blood logic from the sidewalk, joseph 8:51 – 9:12: "When you slaughter the chicken, the sin gets out, because the blood gets out." "So the sin is in the blood?" "The blood cleanses the sin."
 > "Put it together. The most politically connected religious movement in America prays three times a day for the fire-offerings to come back. Its followers believe their Messiah is here or nearly here, and that their headquarters in Brooklyn is where his Temple will first appear. There is an institute in Jerusalem with the altar built and the priests' clothes sewn, waiting on a cow. Israel's police now let prayer books onto the Temple Mount. A sitting U.S. Secretary of Defense has said the Temple 'could happen.' And once a year, on a sidewalk, they practice the killing. That's what I was filming. Not the ritual. The rehearsal."
+Ends: "and what does the book say about the rest of us?"
 
-**4.7 What the book says about you.** The founding text of the movement, the Tanya, chapter one, in Chabad's own English translation on Chabad.org: the souls of the nations of the world "emanate from the other, unclean kelipot which contain no good whatsoever," and "all the charity and kindness done by the nations of the world is only for their self-glorification." Chapter two: the Jewish soul is "truly a part of G-d above." Show the page. Read it flat. Then give their answer in one sentence (the Rebbe wrote that it refers to essence, not to every spark, and defenders say it means idolaters, not righteous gentiles) and then say what you think:
+**4.7 What the book says about you.** Tanya chapter one, Chabad's own translation (chabad.org 050): the souls of the nations of the world "emanate from the other, unclean kelipot which contain no good whatsoever"; "all the charity and kindness done by the nations of the world is only for their self-glorification." Chapter two (049): the Jewish soul is "truly a part of G-d above." Show the page. Read it flat. Their answer in one sentence (the Rebbe: essence, not every spark; defenders: idolaters, not righteous gentiles; thejc 097). Then let the sidewalk say the rest, joseph-shop-owner-camera 8:21 – 9:10 over the laborer's hands and the cone:
+> KAM: "Live in peace with bloodshed?"  JOSEPH: "Yes."  KAM: "Even if it's done to you?"  JOSEPH: "Yes. We are human. We don't murder anybody. Only that's below us. Not above us."  KAM: "So might makes right?"  JOSEPH: "Yes. That's what Hashem wants."
+And joseph 9:47 – 10:12: KAM: "Every life thing has a soul." JOSEPH: "Ruach." KAM: "Its purpose is life, right? Not death?" JOSEPH: "No. It's death, definitely. Because it's made for human to eat."
 > "I'm not going to tell you what to make of that. I'll tell you what I made of it, standing on that sidewalk as one of the nations of the world. I thought: this is the theology of the altar. There's always a soul that counts and a body that doesn't. Jew and gentile. Man and chicken. Priest and day laborer. Every sacrifice religion in history has drawn that line somewhere. My own drew it for two thousand years. This one just wrote it down."
 
-Everything in this act is what they say about themselves, on their own websites, in their own books, on their own video. That is why it can't be answered. Do not add a layer of secret coordination or who-controls-whom: not because it's impolite, but because it's unprovable, and the moment you say it the conversation becomes about whether you're an antisemite instead of about what's on the tape. The on-the-record version is the one nobody can fact-check away.
+Everything in this act is what they say about themselves. Do not add a layer of secret coordination; the on-the-record version is the one nobody can fact-check away.
 
 ---
 
 ## ACT 5 — EVERYBODY HAS A KAPOROS (36:00 – 42:00)
 
-Purpose: turn the camera around. The viewer who has spent forty minutes being horrified at Brooklyn needs to find out they are in the footage.
+Purpose: turn the camera around.
 
-1. **The turkey, again.** Bring back the shot from 2.10. Then the numbers on screen: about 46 million turkeys at Thanksgiving (the industry's own estimate), about 199 million turkeys raised in the U.S. this year, about 10 billion land animals a year in the United States, over 90 percent of them chickens.
+1. **The turkey, again.** Part 2 2:40 – 2:56. Numbers on screen (USDA 085, 086): about 46 million turkeys at Thanksgiving, about 199 million raised this year, about 10 billion land animals a year in the United States, over 90 percent of them chickens.
    > "Every one of them is a substitute. For a dinner. For a tradition. For not wanting to be the one who does it."
+   The turn, in a practitioner's words, resident-uses-cash-2026-09-19 6:35 – 7:14, over the shochet and then a plant line:
+   > KAM: "Why do we need to murder a being to know what the end of life is like?"  MAN: "We're not murdering a being. We hold the chicken, there's a prayer, then we give it to the people who are part of the standard kosher meat production. No one here is slaughtering their own chickens. The shochet is part of standard meat production."  KAM: "How is slitting the throat not murder?"  MAN: "That's standard meat production. There's two conversations. There's 'meat is murder,' and there's kaporos. Kaporos is a practice, and 'meat is murder' is another conversation."
+   > VO: "He's right. There are two conversations. This is the second one."
 
-2. **Who holds the knife.** Slaughterhouse labor in America is overwhelmingly immigrant and refugee labor. Cut the Venezuelan men against a modern plant line. Same shot, different scale.
+2. **Who holds the knife.** The Venezuelan men cut against a modern plant line. Same shot, different scale. Resident 5:18 – 5:53 under it: "These chickens are being produced for the holiday. As a community we're bringing that out of the warehouses, that I'm sure you're very against, that I'm largely against as well, and we bring it into the community so that you should be aware of what finality and mortality looks like." Then Rina 6:57 – 7:25:
+   > RINA: "I'm kind of glad this is happening out in the street so people can see it. They need to see what they're responsible for. Chicken factories are behind walls. In my neighborhood of Borough Park they've covered everything up since we've been out. Here it's out in the open and everybody can see it."
 
-3. **Everybody's altar.** Thanksgiving is Kaporos with a parade. Easter lamb. Eid. The Super Bowl's chicken wings. Nobody says the prayer out loud, but the prayer is there: let this one die so I can live well. Thirty seconds, no more. Then stop making the point and let it sit.
+3. **Everybody's altar.** Thanksgiving is Kaporos with a parade. Easter lamb. Eid. The Super Bowl's chicken wings. Thirty seconds, no more. Rina 5:09 – 5:22 under a fast-food sign: KAM: "Is this really that different from a Chick-fil-A slaughterhouse?" RINA: "It isn't. It is not much different." Day 1, sidewalk-jeremiah 3:40: "People will always eat animals." sidewalk-projection 0:37 – 0:50 if you want America's altar in one line: "The health effects of eating animals are amazing. This country needs to be more meat-based." Then stop making the point and let it sit.
 
-4. **The prophets said it first.** Bring back the verses from 2.9, now as the backbone, not a sidewalk argument. Isaiah, Hosea, Jeremiah, Amos, Micah, Psalm 50. The Hebrew prophets were the first animal-sacrifice abolitionists in recorded history, and they were Jewish. Say that.
+4. **The prophets said it first.** The verses from 2.9 as the backbone: Isaiah, Hosea, Jeremiah, Amos, Micah, Psalm 50. The Hebrew prophets were the first animal-sacrifice abolitionists in recorded history, and they were Jewish. Say that. Then the practitioner's answer, joseph 15:04 – 15:12, played twice: "The prophets have their things. They have their ways. They have their agendas." And Rina 3:59 – 4:07: KAM: "All the prophets say God wants mercy, not sacrifice." RINA: "Exactly. This goes against every compassionate tenet in the Bible, in the Torah, in the Talmud."
 
-5. **Jesus in the Temple.** The one violent act in the Gospels. He walks into the Temple courtyard during Passover, the biggest sacrifice week of the year, and drives out the animals and the people selling them. Quotes Hosea: "I desire mercy, not sacrifice," twice in Matthew. The earliest Jewish followers of Jesus, the Nazarenes and Ebionites, preserved a saying: "I have come to abolish the sacrifices, and if you do not stop sacrificing, the wrath will not cease from you." The church that came after put the sacrifice right back on the altar, and Christians now kill more animals than anyone in history.
+5. **Jesus in the Temple.** The Christspiracy Temple-cleansing sequence from the master, lower third "from CHRISTSPIRACY (2024)". Panarion 30.16.5 (article 001): "I have come to abolish the sacrifices, and if you do not stop sacrificing, the wrath will not cease from you." Bring back your line from the street (ruach 4:29): "a den of paritzim… a house of prayer, not murder." Then the mirror, held up from the other side, resident 8:23 – 8:54:
+   > MAN: "This concept of 'I put my sins on this chicken and now I don't have to worry about anything,' that's Christianity. We don't do that. At least we use the chicken; they use a man. My sins are on that guy who died for me and now I don't have to worry about it. We don't do sin transference."
+   And joseph 17:00 – 17:36: "He could have been the Mashiach, but he wasn't. He failed. He went against God, by thinking that he is God." And rabbi 6:49 – 7:09: MAN: "Do you know how sharp that knife is?" KAM: "The fact that they're being slaughtered in general is inhumane. A good shepherd cares for the life of his sheep."
    > "The week before Passover, the biggest sacrifice week of the year, a Jewish rabbi walked into the killing floor and shut it down. The earliest people who followed him said he came to abolish the sacrifices, and they didn't eat meat. Then the church took his death and turned it into the biggest sacrifice of all. Blood on the altar every Sunday. 'This is my body.' 'Washed in the blood of the lamb.' And every November, forty-six million turkeys, by the people who sing those songs. Christians are the largest blood cult in human history by body count, and I say that as one. Two thousand years after he overturned the tables, I was standing on the biggest sacrifice night of the year in Brooklyn watching it happen in the open, and the only honest thing I could think was: at least these people say the prayer out loud. Same altar. Different week. Different hat."
 
-6. **The Christspiracy turn.** Not an ad break. Galloway's Red Bull rule: the product appears because it is the natural next thing, not because you stopped to sell it. So the film enters as evidence first: in beat 5, when you get to the Temple and the Ebionites, cut to the film's own footage and scholars for the receipts, with a lower third that reads "from CHRISTSPIRACY (2024)". The viewer has already watched two minutes of the film before you name it. Then, thirty seconds, straight to camera:
-   > "I spent four years on that one question, what Jesus actually did in that Temple and why it got him killed, with the director of Cowspiracy. The film's called Christspiracy. It's on [platform]. Say the name out loud and put it on screen big enough to read from a couch: half of this audience is watching on a TV and will never see the description. Everything you just watched is one chapter of that story."
-   ("The director of Cowspiracy," not "Kip Andersen": a new viewer knows the first and not the second.)
+6. **The Christspiracy turn.** Not an ad break. The film entered as evidence in beat 5; the viewer has watched two minutes of it before you name it. Thirty seconds to camera. If you want it from the field instead of the desk, joseph-shop-owner-camera 6:11 – 6:26 has you saying it at the shop door: "The reign of God on earth is when we stop slaughtering God's creatures."
+   > "I spent four years on that one question, what Jesus actually did in that Temple and why it got him killed, with the director of Cowspiracy. The film's called Christspiracy. It's on [platform]. Everything you just watched is one chapter of that story."
+   Say the name out loud and put it on screen big enough to read from a couch.
 
 ---
 
@@ -424,12 +551,13 @@ Purpose: turn the camera around. The viewer who has spent forty minutes being ho
 
 Footage: the skittish hen, at the sanctuary, finally eating out of someone's hand.
 > "She was somebody's substitute. She isn't anybody's anymore."
-
-Cards (TV rules: 50 to 70 percent of long-form watch time is now on televisions, per Galloway's client data. Every card is readable from a couch, every name is said out loud, nothing depends on a tappable link):
+Under the cards, Rina 7:29 – 7:49: "Everybody driving through can see this. Because they need to start making connections to what they're eating."
+Cards (readable from a couch, every name said out loud):
 - Christspiracy: where to watch, said and shown
-- The sanctuary (donate)
-- The rescue organization (volunteer next year)
+- The sanctuary: Penelope's Place (donate)
+- The rescue organization: Alliance to End Chickens as Kaporos / Kaporos Compassion Project (volunteer next year)
 - Parts 1 and 2
+- Rina 0:23, as the last card, in her voice: "You can use a sack of money instead of swinging a chicken."
 - "If you're Jewish and this custom bothers you: you have a thousand years of rabbis on your side. Use money."
 
 ---
