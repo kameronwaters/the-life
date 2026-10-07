@@ -1,0 +1,15 @@
+{
+  "title": "WORKING TITLE",
+  "size": "short",
+  "layers": [
+    { "id": "plate", "type": "plate", "src": "assets/plate.jpg", "fit": "cover" }
+  ],
+  "post": [ { "type": "fade", "top": 500, "bottom": 500 } ],
+  "text": {
+    "font": "condensed", "size": 200, "align": "center", "y": 160,
+    "lines": [
+      { "t": "FIRST LINE", "color": "white" },
+      { "t": "KEY WORD", "color": "red" }
+    ]
+  }
+}

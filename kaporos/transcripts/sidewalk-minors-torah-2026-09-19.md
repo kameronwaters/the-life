@@ -1,0 +1,242 @@
+# sidewalk-minors-torah-2026-09-19
+who: Sidewalk group, Final Day: 'it's illegal to take a video of someone under 18' / 'this is not in the Torah' — a crowd argument with teenagers in it
+date / place: 2026-09-19 (Final Day, night), Crown Heights | camera: A7 (Sony C9288, 7:19) | file: media/interviews/sidewalk-minors-torah-2026-09-19.mp4 (1080p proxy; master `Final Day/camera/C9288.MP4`)
+consent: unknown; MINORS in frame and on mic — blur, or use audio only
+best for: 3.2 (the crowd turning), 2.9 — use for texture and the 'you have to blur your face' exchange (0:00–0:20); check for usable lines on the prophets
+note: whisper-cli large-v3-turbo on the proxy.
+
+Speaker labels are not in the whisper output; KAMERON's lines are the questions. Timecodes are [mm:ss] from the file above.
+
+```
+[00:00] you know you know it's illegal to take the video of someone under 18 without the parents
+[00:09] permission you need to blur their face when you take the video of them no it's in the public
+[00:13] street they're pretty cool glasses that's all i'm gonna say thank you i'm telling you
+[00:18] you're not from kids even in public no in the street it's fine oh you're recording too
+[00:27] this is this is not in the torah what is this what does it mean
+[00:46] who is messiah the rabbi yeah the rabbi this is this is an abomination to the process
+[00:54] that chicken is in that position because of the poros because of the demand that you're creating
+[01:03] so you think in the farms they don't die why not they shouldn't be in the farms
+[01:09] animals are living autonomous beings creations of god
+[01:17] they use the wild chickens fly but they feed them a lot to the fatter and they can't pick them up
+[01:24] yes right he said yes yes yes he says the kingdom of heaven on earth live all animals are free
+[01:32] the wolf shall lay with the land the lion that eats straw like the ox you don't even know what he's
+[01:36] saying it's a different language huh what are you talking about yes yes yes yes isaiah isaiah the
+[01:45] prophet you don't know your own prophets yes yes yes yes yes yes yes no killing no murder good good good
+[02:07] who speaks english
+[02:15] how are you meant to eat them you want to eat them alive you want to eat them alive you're not
+[02:32] no no no no no no no no no no no no no no no no no no no no no no no no no no no no
+[02:57] How do you say "tip stock"? Murder?
+[02:59] Kill chicken.
+[03:01] Kill chicken.
+[03:03] Is it abomination to the process?
+[03:06] Yes.
+[03:07] What's your name?
+[03:09] What's your name?
+[03:11] No, why is it still a name?
+[03:13] You support Israel or Palestine?
+[03:15] Huh?
+[03:16] I don't support nations in this period.
+[03:22] Israel is a name that means "me who wrestling with God".
+[03:28] Most of you don't support nations in this period, right?
+[03:30] I support the idea.
+[03:32] I support the idea.
+[03:34] Netanyahu.
+[03:36] Netanyahu.
+[03:37] And Benvi.
+[03:38] Say what?
+[03:40] Absolutely.
+[03:41] Yeah.
+[03:42] Oh, yeah.
+[03:44] Yeah.
+[03:45] Dead shipments hanging out of Israel.
+[03:47] Whoa, whoa.
+[03:48] And dead in Gaza?
+[03:49] Huh?
+[03:50] Dead in Gaza?
+[03:51] And Gaza dead also, you support?
+[03:53] I don't support death of any human or any of you.
+[03:55] October 7th.
+[03:57] Yeah.
+[03:58] October 7th.
+[03:59] Murder, not good.
+[04:00] No?
+[04:01] Murder Palestinians and Jews are bad.
+[04:03] No.
+[04:04] What before?
+[04:05] What before?
+[04:06] What do you mean before?
+[04:07] From the beginning of time, murder is bad.
+[04:10] Human animal.
+[04:11] Where are you born?
+[04:12] Huh?
+[04:13] In America.
+[04:14] What city?
+[04:15] It doesn't matter.
+[04:16] Why?
+[04:17] It's irrelevant.
+[04:18] Where are you going to enter?
+[04:19] It's irrelevant.
+[04:20] Where are you born?
+[04:21] Where are you born?
+[04:22] Where are you born?
+[04:23] Where are you born?
+[04:24] Ah, Israel.
+[04:25] Tel Aviv.
+[04:26] Cool.
+[04:27] I've been many times.
+[04:28] You want the name of the hospital also?
+[04:29] Yeah, I've been many times.
+[04:30] I've been to Israel too.
+[04:31] Yeah, Israel too.
+[04:32] Huh?
+[04:33] I've been to Israel too.
+[04:34] I've been to Israel.
+[04:35] Good camp, you know?
+[04:36] Good?
+[04:37] Oh, yeah.
+[04:38] Holy land.
+[04:39] Holy land.
+[04:40] But you know what is it?
+[04:41] You know what is it?
+[04:42] You know what?
+[04:43] You're Christian?
+[04:44] I'm a Nazarene.
+[04:45] What does it mean?
+[04:46] Nazarene?
+[04:47] Nazarene.
+[04:48] What does it mean?
+[04:49] Huh?
+[04:50] What is Nazarene?
+[04:51] Oh, no.
+[04:52] You're Christian?
+[04:53] Nazarene.
+[04:54] Oh, what's it?
+[04:55] Nazarene.
+[04:56] I follow Yeshua.
+[04:57] I follow Yeshua.
+[04:58] Yeshua.
+[04:59] Yeshua will be a Jewish.
+[05:00] Huh?
+[05:01] Yeah.
+[05:02] Galilean.
+[05:03] Nazarene.
+[05:04] Oh, thank you.
+[05:05] How you doing?
+[05:06] Good.
+[05:07] You're with Reina, right?
+[05:09] I am with Reina.
+[05:10] She's over there?
+[05:11] She's over there somewhere.
+[05:12] And there's a dead chicken hanging out of the truck here.
+[05:15] Totally.
+[05:16] I got you.
+[05:17] I can't do anything about it right now.
+[05:18] I got to get you guys squared away.
+[05:19] I got to get you guys squared away.
+[05:20] I got to get you guys squared away.
+[05:22] What's the name of the church?
+[05:25] Share some of it.
+[05:26] What's the name of the church?
+[05:27] Everywhere.
+[05:28] Yeah, I can help you, right?
+[05:29] Yeah?
+[05:30] Okay.
+[05:31] You have freedom.
+[05:32] Freedom of religion.
+[05:33] But not freedom to take life.
+[05:34] Freedom to kill?
+[05:35] R.
+[05:36] R.
+[05:37] R.
+[05:38] I.
+[05:39] S.
+[05:40] G.
+[05:41] S.
+[05:42] P.
+[05:43] I.
+[05:44] R.
+[05:45] A.
+[05:46] C.
+[05:47] Y.
+[05:48] This?
+[05:49] R.
+[05:50] I.
+[05:51] S.
+[05:52] G.
+[05:53] S.
+[05:54] P.
+[05:55] I.
+[05:56] R.
+[05:56] A.
+[05:57] C.
+[05:58] I'm against all life.
+[05:59] I'm against all, all killing of life.
+[06:01] Ah, you big motherfucker.
+[06:03] My god says do not kill.
+[06:05] That's in the Torah.
+[06:06] Do not kill.
+[06:07] You have Wikipedia?
+[06:08] Wikipedia?
+[06:09] Do not kill.
+[06:10] So...
+[06:11] What is this?
+[06:12] Is this a movie?
+[06:13] It's a movie.
+[06:14] Murders.
+[06:15] Of humans.
+[06:16] Watch it.
+[06:17] And animals.
+[06:18] Very not interesting.
+[06:19] Huh?
+[06:20] Because...
+[06:21] Very not interesting.
+[06:22] It quotes the prophets all throughout.
+[06:24] The prophets are interesting to you?
+[06:25] You don't have a lot of voice.
+[06:26] Two thousand.
+[06:27] Not a lot.
+[06:28] You don't have a lot of voice.
+[06:29] Two thousand.
+[06:30] Not a lot.
+[06:31] Huh?
+[06:32] You don't have a lot of voice.
+[06:33] I'm not...
+[06:34] That's...
+[06:35] That's Tiktok.
+[06:36] I don't do Tiktok.
+[06:37] No.
+[06:38] This is YouTube.
+[06:39] No.
+[06:40] That's my personal YouTube channel.
+[06:41] No.
+[06:42] This is what you say.
+[06:43] You have two thousand voice.
+[06:44] Two thousand views.
+[06:45] Yeah.
+[06:46] You're not famous.
+[06:47] I think you will...
+[06:48] So you read the Torah.
+[06:49] Yeah.
+[06:50] Yeah.
+[06:51] You know Genesis.
+[06:52] Genesis 1.
+[06:53] God gave us fruit and herbs.
+[06:56] Vegetables.
+[06:57] To eat.
+[06:58] Yeah.
+[06:59] Okay.
+[07:00] Yeah.
+[07:01] I know about Genesis 9.
+[07:02] After that, God said to eat animals.
+[07:04] Salem.
+[07:05] Salem.
+[07:06] Well, I'm just reminding you guys of our design.
+[07:09] Our human design is vegan.
+[07:11] Vegan.
+[07:12] Really says...
+[07:13] No.
+[07:14] I'm saying that our design is vegan.
+[07:16] I got you.
+[07:17] Our design is human.
+[07:18] Is vegan.
+```

@@ -1,0 +1,65 @@
+# police-injured-bird-2026-09-14
+who: Kameron reporting to NYPD officers: a rescuer holding an injured bird was physically grabbed; 'I have all the footage'; 'the person that got assaulted never called so we don't really have a complaint'
+date / place: 2026-09-14 (Day 1, night), Williamsburg | camera: A7 (Sony C9177, 5:36) | file: media/interviews/police-injured-bird-2026-09-14.mp4 (1080p proxy; master `Day 1/camera/C9177.MP4`)
+consent: n/a (public officials on duty) — the grabbed rescuer's consent unknown
+best for: 2.3, 2.11, Act 1 — answers the title-tail question 'is an arrest on your camera?': no arrest here, a refused complaint; the Day 3 arrests are on glasses IMG_3977 and camera C9232 (see DAY2_DAY3_CLIPS.md)
+note: whisper-cli large-v3-turbo on the proxy.
+
+Speaker labels are not in the whisper output; KAMERON's lines are the questions. Timecodes are [mm:ss] from the file above.
+
+```
+[00:00] officers so earlier I don't know if you I don't know who called you uh-huh but there was a couple
+[00:13] of people rescuing a bird that was injured clearly in distress and not in I think lawful regulations
+[00:20] okay and uh this this fellow over here and a few other fellows were all physically putting their
+[00:28] hands under I have all the footage here okay I don't know if you guys would want to review that
+[00:32] and see but they were like physically assaulting her physically assaulting the person or the bird
+[00:40] the person holding the bird uh you know who it was so the main guy I believe that you talked to
+[00:49] that's got gray hair yeah he's one of the few gray-haired guys yeah uh he was one of them he
+[00:55] was the one that was assaulting the other person yeah I have footage of it I mean the thing is like
+[01:01] the person that got assaulted never called so it's like we don't really have a complaint okay so even
+[01:07] if you call like if I could find her I'm here independently as a journalist but okay so if you
+[01:12] could find her and she wants to make a complaint then you could just be with her and call 911 and then
+[01:18] from there they'll come and they'll make a report you could also go to the precinct because you're here
+[01:24] right yeah you could also go to the precinct well you could show them the footage right you know then and
+[01:29] they'll have to review it and if you want them uh you can send it over to them too they could just like
+[01:35] take it off the flash drive right then and there too okay yeah okay is it a certain precinct local
+[01:41] so the 9-0 precinct is the local precinct that covers this okay so we don't yeah we don't work there we're
+[01:46] just here to like you know make sure nobody gets into a fight whatever or like any anything along those
+[01:52] lines yeah because they used to get very like so that's what we found out that uh in the recent times
+[02:00] like beforehand they used like they used to get very violent they used to fight with each other
+[02:04] not the people that are celebrating but the people that used to come and protest and have an issue with
+[02:11] the way whatever they're doing we're just here to make sure that nobody fights or nobody does anything
+[02:16] because I guess the government allows them to do do this they have an issue that it's against the
+[02:23] mental hygiene law and everything so it's just a back and forth but this year has been very calm
+[02:29] according to everyone else that came in we had a lady from the mayor's office just now here she was
+[02:33] speaking to us so she's the one that informed me because I I never worked here this is my first year
+[02:38] working in Brooklyn I used to work in Harlem before this so I never was the lady from the mayor's office
+[02:42] informing you was she informing you about the assault or was she no she was informing me about like how in
+[02:47] recent times like about last year the year before that like when they used to do the celebration they used to
+[02:53] get very violent yeah like people used to fight each other whatever whatever but this year has been very calm and
+[02:58] nothing like that happened are there any discussions within the police or the government about the hygiene
+[03:06] side of it or the side of what these activists are protesting against honestly I have no idea like if I
+[03:12] dead I would tell you but I don't I don't okay yeah you don't know anything about that I don't know
+[03:19] anything about that this is our first time doing this so no one so they told us what the tradition is they
+[03:27] they never said anything about the laws or say um even then that's just all like coming from higher up
+[03:34] yeah they're the ones that are going to be like oh you know they can't do this yeah like can't do this if that was the case they would
+[03:42] tell us what they can't tell us if they didn't tell us anything that means they're allowing this did they say
+[03:50] they're preparing you for this like if there is a bird physically like in distress like some of them
+[03:57] are dehydrated they've got lacerations they're bleeding out stuff like that did they give you
+[04:03] any kind of instructions instructions on that no we didn't give them instructions okay
+[04:11] by the way I'm not trying to give a gotcha you guys I'm not going to try to get you guys in trouble
+[04:16] I just think this thing's weird as hell and I'm trying to understand listen everybody has their own views
+[04:24] yeah I'm in my uniform I can't say much yeah I understand so I'm just here to do my job right yeah
+[04:32] they told me to stay here make sure nobody gets into any crazy altercation or whatever and yeah
+[04:38] that's what we're trying I believe in religious freedom you know correct it's like to what extent
+[04:43] you know like this is out on the side of the road anyways I know you're not I mean you can't say
+[04:46] anything I'm not you know try to make you say something on I know okay well appreciate it I'll I'll try
+[04:54] to check out the 90 and see it because it really was so it's it's the night it's the nine oh yeah and then
+[05:01] for you to file that complaint you need that CV with you so basically if you don't have a
+[05:05] complainant like you're just filing a report for no reason you understand yeah if the complaint is
+[05:11] not filing a report you never got assaulted like you're just a third-party caller yeah saying like
+[05:16] I seen somebody get assaulted whatever but if they don't have an issue with it then okay it's not
+[05:21] much I'll see if I can find her and if she wants help that's all all right I felt bad for her she was a
+[05:25] girl by herself oh you know yeah I'm sorry to hear that but okay all right take care
+[05:29] all right no problem appreciate you
+```

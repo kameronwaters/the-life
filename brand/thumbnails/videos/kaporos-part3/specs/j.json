@@ -1,0 +1,10 @@
+{
+  "extends": "a.json",
+  "text": {
+    "size": 150, "y": 62,
+    "lines": [
+      { "t": "THIRD TEMPLE", "color": "red", "advance": 146 },
+      { "t": "REHEARSAL", "color": "white" }
+    ]
+  }
+}

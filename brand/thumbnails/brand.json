@@ -1,0 +1,37 @@
+{
+  "name": "Christspiracy",
+  "palette": {
+    "white": [255, 255, 255],
+    "red":   [228, 84, 40],
+    "cream": [236, 224, 196],
+    "gold":  [247, 233, 168],
+    "black": [0, 0, 0],
+    "ink":   [33, 33, 31]
+  },
+  "fonts": {
+    "condensed":    ["fonts/condensed.ttf", "fonts/condensed.otf", "fonts/fallback-condensed-Anton.ttf"],
+    "serif-italic": ["fonts/serif-italic.ttf", "fonts/serif-italic.otf", "fonts/fallback-serif-italic-PlayfairDisplay.ttf"],
+    "serif":        ["fonts/serif.ttf", "fonts/serif.otf", "fonts/fallback-serif-italic-PlayfairDisplay.ttf"],
+    "sans":         ["fonts/sans.ttf", "fonts/sans.otf", "fonts/fallback-condensed-Anton.ttf"]
+  },
+  "sizes": {
+    "yt":    [1280, 720],
+    "short": [1080, 1920],
+    "ig":    [1080, 1350],
+    "square":[1080, 1080]
+  },
+  "text_defaults": { "stroke": 3, "shadow_offset": [6, 8], "shadow_blur": 10, "shadow_alpha": 210, "stroke_color": [10, 8, 8] },
+  "grade_defaults": {
+    "clarity": 0.35, "contrast": 1.14, "saturation": 0.82, "warmth": 1.0, "lift_blacks": 10,
+    "split_shadows": [4, 10, 20], "split_highlights": [18, 8, -14],
+    "bloom": 0.10, "vignette": 0.42, "grain": 0.045
+  },
+  "rules": [
+    "One idea per thumbnail. One face or one object as the hero.",
+    "Type is heavy condensed caps, white, with ONE key word in brand red. Optional serif-italic accent word. No third colour.",
+    "Max 3 words per line, max 2 lines. If you need more words the title should carry them, not the thumbnail.",
+    "Title and thumbnail complement, never repeat (Galloway).",
+    "Everything composited gets ONE global grade so it reads as a single photograph.",
+    "Check the 168px preview: if the hero and the red word are not legible at that size, it fails."
+  ]
+}

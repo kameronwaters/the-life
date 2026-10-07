@@ -1,0 +1,95 @@
+# practitioner-lions-2026-09-19
+who: Two or three young practitioners (one says 'you're not allowed to post it because I'm a minor' at ≈5:48 — BLUR / cut him) arguing lions, rabies, 'if you ever open a chicken inside it's full of bugs'
+date / place: 2026-09-19 (Final Day, night), Crown Heights | camera: A7 (Sony C9345 @0:00 + C9346 @3:16, joined) | file: media/interviews/practitioner-lions-2026-09-19.mp4 (1080p proxy; masters `Final Day/camera/C9345.MP4`, `C9346.MP4`)
+consent: NOT for the minor (he objects on camera, ≈5:48); others unknown
+best for: 2.9, 3.2 — 'the cost is for our belief system… rectifying our sins… then we can use it to eat' (0:00); Isaiah 11 'it's a parable' (1:44); 'they're living for a week and a half anyway so we're killing them' (3:31); 'God does not want this / I disagree with you' (6:28)
+note: whisper-cli large-v3-turbo on the proxy.
+
+Speaker labels are not in the whisper output; KAMERON's lines are the questions. Timecodes are [mm:ss] from the file above.
+
+```
+[00:00] The cause is, it is for our belief system.
+[00:03] Now, what do we believe it is?
+[00:06] We believe that it's first of all rectifying our sins.
+[00:08] Second of all, we believe that afterwards we can use it for our benefits.
+[00:12] So we can use it to eat food and then become part of our digestive system.
+[00:16] If you look at the animal kingdom, why don't you go to Africa and you tell that lions,
+[00:20] and you tell the other animals, but you're not going to tell them obviously.
+[00:23] I'm being like, over-simplifying it.
+[00:27] They also give other animals part of the ecosystem.
+[00:29] It's part of the ecosystem.
+[00:30] It's part of the ecosystem.
+[00:31] They're naturally going to be part of our brain.
+[00:33] No, they're two different things.
+[00:35] Oh, it's not a fallacy.
+[00:37] It's not a fallacy.
+[00:38] Lions also eat their young sometimes.
+[00:40] They also sniff each other's ass.
+[00:41] It's true.
+[00:42] Because we're humans.
+[00:43] Look, we have our oldest.
+[00:44] We're at the top of the world here.
+[00:46] You're comparing yourself to a lion.
+[00:48] I'm saying that we're a species like an animal.
+[00:50] No, you're saying you can kill animals.
+[00:52] No, I was giving you an example.
+[00:54] I was saying because lions are a species, that's what an animal.
+[00:56] Well, guess what?
+[00:57] Yes.
+[00:58] Yes.
+[00:59] Yes.
+[01:00] Yes.
+[01:01] Yes.
+[01:02] Yes.
+[01:03] Yes.
+[01:04] and can you show it from the original bible not from the new one yeah please can you pull it up can you pull it up can you pull it up can you pull it up i don't need to pull it up oh yeah i can recite it to you i can recite it to you no but the thing is the christian bible the gutenberg bible and the original bible often times the misconstrued right i read tonight right i read that yes yes yes yes yes right the wolf shall lay with the land the lion shall the lion shall be strong like the ox right that's when the messiah comes that's when the messiah comes
+[01:31] no it says it says that the righteous will literally eat a huge bull and a huge fish when messiah comes by
+[01:44] yeah they shall not hurt or slaughter like all my holy mountains right it's a peril you know where the holy
+[01:51] mountain is right yeah where's the holy mountain where's the holy mountain right anyone tries to penetrate me
+[01:59] it's also the world but i don't know i'm going to kill it
+[02:01] how do you know i'm going to kill it
+[02:03] you can read the entire i can just get out of my house we're going to assume that it says from the
+[02:06] word the mountain that it means the whole world so i'm consistent
+[02:09] the whole world is a mountain
+[02:11] what's your name bro my name is m daddy on the street all right now why is this whole tradition good
+[02:36] because we hate chickens but yeah you're not you're not reflecting uh because god said we need a sheikh we
+[02:45] need a slice chickens where did he say that you think we slice chickens because we hate them no where
+[02:50] did he say that why do you think we slice chickens where did god say that it's the minog of the rebbe
+[02:56] it's a tradition of the rebbe but where what text where can i read that well can you read that yeah and the
+[03:01] the rabbit when the rebels doing a lot of like uh meals over there and uh 770
+[03:16] that we have to take something or a fish or a chicken or money and do something with it
+[03:20] to take all the bad stuff you did to the chicken a chicken is an animal that i don't know if you ever
+[03:26] did it if you ever open the chicken inside it's full of bugs and full of it's just kill it there's no
+[03:31] point they're living for like a week and a half and dying so we're killing them or they're dying
+[03:34] by themselves there's no point of keeping them alive what about dogs do you feel the same way about
+[03:39] these chickens annoy you no i just have a question if the dog got rabies you killed him oh wow you have
+[03:57] to give me free healthcare so you're gonna let a dog with a rabies to walk around bite you on your leg and
+[04:04] let him live no if he's that sick listen the guy tell us like that this way whatever you eat these
+[04:10] chickens are going to be eating over there we're going to eat them whatever you eat whatever you
+[04:16] eat you're allowed to kill whatever you're not allowed to eat you're not even armed them with your
+[04:20] finger you're not even not allowed to touch them if you touch them can i eat humans
+[04:25] according to the to the aloha if you're surrounded on an island with no other stuff to do
+[04:31] the rambam says technically if somebody is dying cannibalism no it's not it's clearly it talks about
+[04:41] sacrifice not sacrifice what does that mean not sacrifice yeah it means in in vain no no because
+[04:49] clearly because then the Torah will be contradictory it's not you have to read the sages that's why you
+[04:55] you have to read the mission in the Talmud not just the man i don't need to i need to do it that's how
+[04:59] you do it it's a free card you can interpret it how you want it but we interpret it it's the
+[05:05] it's the priest it's the priest it's the priest versus the prophet by the way speaking
+[05:08] i choose the prophet no way i like him i never i do the prophet i choose the prophet
+[05:15] yeah so my question is like this if you guys don't leave in the Talmud no when it says when it says in the
+[05:21] Torah the direct Torah you should you should wrap it's a trail and then check the how the way i
+[05:25] tell you to you should slaughter the animal the way i told you to what's the way that he told me to
+[05:31] the way of the rabbis it also says another place follow your rabbis you're going to say God
+[05:48] say that again so i know who who you are me personally you're not allowed to post it because i'm a minor
+[05:53] if you do it you're going to get sued so there's no point of doing it
+[05:58] you lost the debate oh you i lost the debate by the guy who moderated himself
+[06:04] which fallacy that hominem of strongman thousand the tick-tock thousands yeah no no
+[06:08] oh okay yeah too close way too close way okay i'm sure you know all that i think he was asking to
+[06:13] understand i think he was asking just to understand i don't think he was asking to
+[06:17] debate no i said i would debate but he was saying that he wants to come first listen i'm done
+[06:22] you can't get a good picture of my face
+[06:28] thank you he doesn't believe god does not want this god does not want i disagree with you
+[06:33] and it's a free country you can have different opinions right as long as you're respectful to each
+[06:36] other
+[06:50] i pay 20 a month i'll show you
+```

@@ -1,0 +1,8 @@
+{
+  "extends": "a.json",
+  "layers": [
+    { "id": "presenter", "remove": true },
+    { "id": "plate", "x": -260 },
+    { "id": "sticker", "x": 10, "y": 420, "w": 470, "rot": -4, "brightness": 0.78 }
+  ]
+}

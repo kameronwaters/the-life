@@ -1,0 +1,4 @@
+{
+  "extends": "a.json",
+  "layers": [ { "id": "presenter", "remove": true }, { "id": "prop", "y": 250 } ]
+}

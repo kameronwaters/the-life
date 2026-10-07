@@ -1,0 +1,36 @@
+# One per line. Either a URL or a yt-dlp search ("ytsearch3:" = top 3 results; review and keep the right one).
+# Act 4.4 — Netanyahu at 770, Nov 18 1990 ("do something to hasten his coming")
+ytsearch3:Netanyahu Rebbe 1990 770 hasten Moshiach
+https://collive.com/1990-bibi-visits-the-rebbe/
+# Act 4.4 — Trump at the Ohel, Oct 7 2024; Ivanka/Kushner 2016
+ytsearch3:Trump visits Ohel Lubavitcher Rebbe grave October 7 2024
+# Act 4.4 — Education and Sharing Day / Chabad rabbis at the White House
+ytsearch3:Education and Sharing Day Rebbe White House proclamation Chabad rabbis
+ytsearch3:Obama welcomes Chabad Lubavitch White House Education and Sharing Day
+# Act 4.2 — Yechi chanting at 770; messianist campaign
+ytsearch3:Yechi Adoneinu 770 Eastern Parkway chanting
+ytsearch3:Moshiach is coming campaign Crown Heights stickers billboards
+# Act 4.3 — the tunnel, Jan 2024 (mainstream outlets only)
+ytsearch5:770 Eastern Parkway tunnel January 2024 news arrests
+ytsearch3:Chabad synagogue tunnel fact check false claims
+# Act 4.5 — Agriprocessors / Postville / Rubashkin
+ytsearch3:PETA Agriprocessors undercover video 2004 kosher slaughter
+ytsearch3:Postville immigration raid May 2008 news Agriprocessors
+ytsearch3:Rubashkin released welcome home December 2017 Crown Heights
+# Act 4.6 — Temple Institute, red heifers, Temple Mount 2025–26
+ytsearch3:Temple Institute Third Temple promo video
+ytsearch3:red heifers arrive Israel September 2022 Texas
+ytsearch3:red heifer practice ceremony July 2025 Jerusalem
+ytsearch3:Hegseth Third Temple could happen Temple Mount Israel speech
+ytsearch3:Ben Gvir prays Temple Mount 2025 out loud
+# Act 4.4 — heads of state
+ytsearch3:Milei Ohel Rebbe grave visit 2026
+ytsearch3:Putin Berel Lazar Order of Honor November 2025
+# Act 3 button — the debate (reference only, do not platform)
+ytsearch3:Nick Fuentes Jiang Xueqin debate Jack Neel podcast September 2026
+# Act 2 — 2026 press coverage of the week
+ytsearch5:Kaporos chickens U-Haul Brooklyn September 2026 News 12
+ytsearch3:Kapparot Crown Heights 2026 chickens Yom Kippur
+# Act 2.12 — Penelope
+ytsearch3:Penelope A Rescue Story Duncan Skiles 2015
+# Act 5 — Christspiracy Temple-cleansing sequence: from the master, not online

@@ -1,0 +1,15 @@
+{
+  "extends": "a.json",
+  "layers": [
+    { "id": "presenter", "height": 600, "cx": 0.21 }
+  ],
+  "grade": { "saturation": 0.80, "bloom": 0.12, "vignette": 0.45 },
+  "post": [ { "type": "fade", "top": 270 } ],
+  "text": {
+    "size": 156, "x": 36, "y": 60,
+    "lines": [
+      { "t": "HE'S THE", "color": "white", "advance": 164 },
+      { "t": "Messiah!?", "color": "red", "font": "serif-italic", "size": 122, "stroke": 0 }
+    ]
+  }
+}

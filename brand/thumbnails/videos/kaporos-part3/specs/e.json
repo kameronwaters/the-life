@@ -1,0 +1,47 @@
+{
+  "extends": "d.json",
+  "layers": [
+    {
+      "id": "plate",
+      "src": "assets/relit_4.jpg"
+    },
+    {
+      "id": "sticker",
+      "type": "sticker",
+      "src": "assets/sticker_messiah_is_here.jpg",
+      "x": 1108,
+      "y": 238,
+      "w": 96,
+      "rot": -5,
+      "brightness": 0.85
+    }
+  ],
+  "grade": {
+    "clarity": 0.1,
+    "contrast": 1.05,
+    "saturation": 0.9,
+    "lift_blacks": 2,
+    "bloom": 0.06,
+    "vignette": 0.3,
+    "grain": 0.03
+  },
+  "text": {
+    "size": 156,
+    "x": 36,
+    "y": 60,
+    "lines": [
+      {
+        "t": "HE'S THE",
+        "color": "white",
+        "advance": 170
+      },
+      {
+        "t": "Messiah!?",
+        "color": "red",
+        "font": "serif-italic",
+        "size": 118,
+        "stroke": 0
+      }
+    ]
+  }
+}

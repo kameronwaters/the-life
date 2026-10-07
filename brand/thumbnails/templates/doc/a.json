@@ -1,0 +1,18 @@
+{
+  "title": "WORKING TITLE — the title the thumbnail must complement, not repeat",
+  "size": "yt",
+  "layers": [
+    { "id": "plate",     "type": "plate",   "src": "assets/plate.jpg", "fit": "cover" },
+    { "id": "prop",      "type": "sticker", "src": "assets/prop.jpg", "x": 940, "y": 470, "w": 330, "rot": -3, "brightness": 0.82 },
+    { "id": "presenter", "type": "cutout",  "src": "assets/presenter_cutout.png", "height": 560, "cx": 0.66 }
+  ],
+  "grade": {},
+  "post": [ { "type": "fade", "top": 330 } ],
+  "text": {
+    "font": "condensed", "size": 168, "x": 40, "y": 22,
+    "lines": [
+      { "t": "FIRST LINE", "color": "white" },
+      { "t": "KEY WORD!?", "color": "red" }
+    ]
+  }
+}

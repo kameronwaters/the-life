@@ -1,0 +1,11 @@
+{
+  "extends": "a.json",
+  "layers": [ { "id": "presenter", "cx": 0.77, "height": 600 } ],
+  "text": {
+    "size": 150,
+    "lines": [
+      { "t": "FIRST LINE", "color": "white", "advance": 150 },
+      { "t": "Key word!?", "color": "red", "font": "serif-italic", "size": 160, "stroke": 0 }
+    ]
+  }
+}
